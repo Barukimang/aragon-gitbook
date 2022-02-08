@@ -9,7 +9,7 @@ Some pre-Aragon 0.6 apps do not load in newer versions of the Firefox browser. W
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5e750f8e2c7d3a7e9ae98791/file-3c4P5am8OL.png)
 
-To fix this error in your organization, you have to update the app version of the app that is showing up blank to a newer version of the app using the [App Center. ](../../../users/products/aragon-client/app-center.md)
+To fix this error in your organization, you have to update the app version of the app that is showing up blank to a newer version of the app using the [App Center. ](../../../users/products/aragon-client/system-setting/app-center.md)
 
 If the Voting app is one of the apps affected by this problem, and you need to approve a vote to complete the app update, then you have to use either the in-client [Console](https://github.com/aragon/aragon/blob/master/docs/CONSOLE.md#power-user-console) or [aragonCLI](../../../developers/tools/aragoncli/) to vote on the App Upgrade proposal.&#x20;
 

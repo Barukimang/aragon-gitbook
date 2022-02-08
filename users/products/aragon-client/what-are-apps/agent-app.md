@@ -1,5 +1,5 @@
 ---
-cover: ../../../.gitbook/assets/03.png
+cover: ../../../../.gitbook/assets/03.png
 coverY: 0
 ---
 
@@ -47,7 +47,7 @@ Open the Frame desktop app and click the "plus-sign" button to add your acting a
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d8bd9782c7d3a7e9ae1a221/file-BZzJ4WikKD.png)
 
-![](../../../.gitbook/assets/file-Hdky5v4UL9.png)
+![](../../../../.gitbook/assets/file-Hdky5v4UL9.png)
 
 ### **3.8.2.4 Add your Aragon Agent**
 

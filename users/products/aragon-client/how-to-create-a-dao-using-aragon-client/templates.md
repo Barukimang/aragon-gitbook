@@ -1,5 +1,5 @@
 ---
-cover: ../../../.gitbook/assets/03.png
+cover: ../../../../.gitbook/assets/03.png
 coverY: 0
 ---
 
@@ -9,9 +9,9 @@ Templates are pre-configured smart contracts for different types of organization
 
 Aragon currently includes three templates:
 
-* [Company](https://help.aragon.org/article/30-create-a-new-company-organization)
-* [Membership](https://help.aragon.org/article/34-create-a-new-membership-organization)
-* [Reputation](https://help.aragon.org/article/32-create-a-new-reputation-organization)
+* [Company](use-company-template.md)_: a_ _Company_ organization is an organization that uses **transferable tokens** to represent stake in the company. Decisions are made using **token-weighted voting**, where one token equals one vote.
+* [Membership](use-membership-template.md): a _Membership_ organization is an organization that uses a **non-transferable token** to represent membership. Decisions are made based on **one-member-one-vote** governance.
+* [Reputation](page-1.md): a _Reputation_ organization is an organization that uses **non-transferable tokens** to represent reputation. Decisions are made using **reputation-weighted voting**.
 
 This section will walk you through examples of how you can use these templates as a starting point for your organization.
 

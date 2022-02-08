@@ -1,3 +1,9 @@
+---
+description: >-
+  Note: Make sure you have all of the prerequisites before proceeding with this
+  guide
+---
+
 # How to create a DAO using Aragon Client
 
 Login to your web3 wallet (aka metamask), select your account address and the network you want to use.
@@ -12,20 +18,11 @@ Select a template (click on _view details_ and then _use this template)._
 
 ![Select the template](<../../../../.gitbook/assets/Schermata 2022-02-04 alle 18.41.40.png>)
 
-Fill in all the requested fields and&#x20;
+For more details about the different Templates go [here](https://app.gitbook.com/o/3h8kxj8geKVXgyMnGbYT/s/zhQIP88M8McmSaEGSymT/\~/changes/vX8aOKfWp1bYBMHIkTj7/users/products/aragon-client/how-to-create-a-dao-using-aragon-client/templates).
 
-#### Company template
+* If you have selected Company template go [here](use-company-template.md).
+* If you have selected Membership template go [here](use-membership-template.md).
+* If you have selected Reputation template go [here](page-1.md).
 
-Select the name of your DAO and fill in the _Organization Name_ tab.
 
-Note: this name will be useful for accessing your DAO. Don't forget it!&#x20;
 
-![Select a DAO name.](<../../../../.gitbook/assets/Schermata 2022-02-04 alle 18.52.45.png>)
-
-Configure the voting settings. Select:
-
-* the S_upport_ percentage: is the relative percentage of tokens that are required to vote “Yes” for a proposal to be approved. For example, if “Support” is set to 50%, then more than 50% of the tokens used to vote on a proposal must vote “Yes” for it to pass.
-* the M_inimum Approval_ percentage: is the percentage of the total token supply that is required to vote “Yes” on a proposal before it can be approved. For example, if the “Minimum Approval” is set to 20%, then more than 20% of the outstanding token supply must vote “Yes” on a proposal for it to pass.
-* the V_ote Duratio_n: is the length of time that the vote will be open for participation. For example, if the Vote Duration is set to 24 hours, then token holders have 24 hours to participate in the vote.
-
-![](<../../../../.gitbook/assets/Schermata 2022-02-04 alle 19.01.42.png>)

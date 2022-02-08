@@ -1,5 +1,5 @@
 ---
-cover: ../../../.gitbook/assets/03.png
+cover: ../../../../.gitbook/assets/03.png
 coverY: 0
 ---
 
@@ -15,7 +15,7 @@ The Permissions app shows a list of every app installed in the organization and 
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d8a6a562c7d3a7e9ae1912e/file-0y5pgj1j2k.png)
 
-![](../../../.gitbook/assets/file-mnVytX0QZA.png)
+![](../../../../.gitbook/assets/file-mnVytX0QZA.png)
 
 Every app has a list of actions that can be performed on the app, a list of actions that other entities have been given permission to perform on the app, and a list of permissions that the app has been granted.
 
