@@ -32,3 +32,9 @@ If you're new to this ecosystem, don't worry if some (or all) of that sounded a 
 ****
 
 **Tech Committee**
+
+****
+
+**Leave your comments here at our Discourse forum:**
+
+{% embed url="https://aragon-test.trydiscourse.com" %}

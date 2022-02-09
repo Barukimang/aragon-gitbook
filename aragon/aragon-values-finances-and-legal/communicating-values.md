@@ -18,3 +18,5 @@ Developers - coding and coordinating with the tools
 * Aragon Discord [#questions](https://discord.gg/XgCeeKYd) and [#dev-space](https://discord.gg/nSDwG5tf)
 * Technical Forum
 * Here!
+
+{% embed url="https://codepen.io/barukimang/pen/OJOWxga" %}
