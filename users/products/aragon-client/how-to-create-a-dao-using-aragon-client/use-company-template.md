@@ -1,12 +1,12 @@
 # Use the Company Template
 
-A _Company_ organization is an organization that uses transferable tokens to represent stake in the company. Decisions are made using token-weighted voting, where one token equals one vote.
+A _Company_ organization is an organization that uses t**ransferable tokens** to represent stake in the company. Decisions are made using **token-weighted voting**, where one token equals one vote.
 
 Creating a Company DAO:
 
 ![Select the template](<../../../../.gitbook/assets/Schermata 2022-02-04 alle 18.41.40.png>)
 
-Click _View details_, review the apps available, check the boxes to install any optional apps you want to install. When finished, click "Use this template".
+Click _View details_, review the apps available, check the boxes to install any optional apps you want to install. When finished, click _Use this template_.
 
 ![Company template](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d86242f04286364bc8f6507/file-QeXiahqUec.png)
 
@@ -73,7 +73,7 @@ Don't close or refresh the page until the process is completed and the DAO is de
 
 Your new Company organization is ready to go!
 
-Now you can [explore your new Company organization](https://help.aragon.org/article/31-explore-the-company-organization).
+Now you can [explore your new Company organization](../explore-template-dao/).
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d8624ee04286364bc8f650e/file-a4bAYgLmxU.png)
 

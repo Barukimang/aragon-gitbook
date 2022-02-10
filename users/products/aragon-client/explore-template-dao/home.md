@@ -1,9 +1,11 @@
 ---
-cover: ../../../.gitbook/assets/03.png
+cover: ../../../../.gitbook/assets/03.png
 coverY: 0
 ---
 
 # Home
+
+The Home page welcomes you to your organization and offers you several options for different actions you can take.&#x20;
 
 The Home page is a simple landing page that shows you:
 
@@ -11,7 +13,11 @@ The Home page is a simple landing page that shows you:
 * the **wallet address** and the **network** in use (on the top right),
 * as well as different actions that you can take using the **pre-installed apps** in your organization.&#x20;
 
-In the example (shown in the image), in the organization _camino.aragonid.eth_ we can perform the actions _Assign Tokens_, _Vote_, _Check Finance_, and _New Payment_.
+You can also use the menu on the left-hand side of the screen to view the different **apps** that are currently installed for your organization.&#x20;
+
+In the example (shown in the image), the organization _camino.aragonid.eth_ has the **Token Manager, Voting, Finance**, and **Agent** apps installed, plus default **Permissions, App Center**, and **Organization** System apps.&#x20;
+
+So in this DAO we can perform the actions of assign _Tokens_, _Vote_, _Check Finance_, and _New Payment_.
 
 ![Aragon Client Home Page](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d86746c04286364bc8f65bf/file-xfmyJqyDNO.png)
 
@@ -30,7 +36,7 @@ The network connection indicator (located on the top right) will tell you if the
 
 #### 1.2 Enable account
 
-To use the Aragon client, you must first allow Aragon to access your Ethereum account. This will allow the Aragon client to send transactions to your Ethereum account for signing and to read information about your Ethereum account, such as the address and token balances. For more info about this read [here](../set-up-metamask/).
+To use the Aragon client, you must first allow Aragon to access your Ethereum account. This will allow the Aragon client to send transactions to your Ethereum account for signing and to read information about your Ethereum account, such as the address and token balances. For more info about this read [here](../../set-up-metamask/).
 
 If not already connected, click _Enable account_ and approve the access request in your Ethereum provider to complete the process.
 
@@ -60,17 +66,17 @@ Click the _gear_ icon (on the top right) to manage your global preferences. Thes
 
 Click on any Ethereum address throughout the Aragon client to give it a custom label, such as the name of the person or organization that owns the address.&#x20;
 
-![Click on a address wallet](<../../../.gitbook/assets/Schermata 2022-02-04 alle 15.20.25.png>)
+![Click on a address wallet](<../../../../.gitbook/assets/Schermata 2022-02-04 alle 15.20.25.png>)
 
 Enter the label and save.
 
-![Write a label and save](<../../../.gitbook/assets/Schermata 2022-02-04 alle 15.19.17.png>)
+![Write a label and save](<../../../../.gitbook/assets/Schermata 2022-02-04 alle 15.19.17.png>)
 
 These labels will then show up in your global preferences (the _gear_ icon on the top right) under the Custom Labels tab. You can import a list of labels provided by someone else, and also export or any labels you have created.&#x20;
 
 Make sure to export your labels from time to time to ensure you have a backup in case the local storage in your browser where the labels are stored is accidentally or intentionally cleared.
 
-![Settings - Global preference -Custom Labels](<../../../.gitbook/assets/Schermata 2022-02-04 alle 15.26.22.png>)
+![Settings - Global preference -Custom Labels](<../../../../.gitbook/assets/Schermata 2022-02-04 alle 15.26.22.png>)
 
 <mark style="color:blue;">****</mark>
 
@@ -80,17 +86,17 @@ You can opt-in to email notifications about activity in organizations that you a
 
 Enter your email address and then click the activation link in your email to sign up. Then you can add "actions" in your organization that you want to get notified about whenever they happen.
 
-![](<../../../.gitbook/assets/Schermata 2022-02-04 alle 15.33.22.png>)
+![](<../../../../.gitbook/assets/Schermata 2022-02-04 alle 15.33.22.png>)
 
-![](<../../../.gitbook/assets/Schermata 2022-02-04 alle 15.35.56.png>)
-
-
+![](<../../../../.gitbook/assets/Schermata 2022-02-04 alle 15.35.56.png>)
 
 
 
-![](../../../.gitbook/assets/file-gVxhisVskv.png)
 
-![](../../../.gitbook/assets/file-zm2zN621Oj.png)
+
+![](../../../../.gitbook/assets/file-gVxhisVskv.png)
+
+![](../../../../.gitbook/assets/file-zm2zN621Oj.png)
 
 ### <mark style="color:blue;">**4. App menu**</mark>
 

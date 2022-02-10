@@ -19,7 +19,7 @@ For any organizations holding the "old" DAI (aka SAI) token, the Aragon client h
 For organizations holding SAI, there are two recommended paths to upgrade to Multi-Collateral DAI:
 
 * Transfer the SAI into an external account or multisig contract that you control. From there, use the migration interface at [migrate.makerdao.com](https://migrate.makerdao.com) to exchange SAI into DAI, and deposit the new DAI back into your organization
-* Install an [Agent app](../../users/products/aragon-client/what-are-apps/agent-app.md), if your organization has not yet installed one. Transfer SAI into the Agent app, set up the required permissions to allow interactions with the Agent app, and use [migrate.makerdao.com](https://migrate.makerdao.com) via [Frame](https://frame.sh).
+* Install an [Agent app](../../users/products/aragon-client/explore-template-dao/what-are-apps/agent-app/), if your organization has not yet installed one. Transfer SAI into the Agent app, set up the required permissions to allow interactions with the Agent app, and use [migrate.makerdao.com](https://migrate.makerdao.com) via [Frame](https://frame.sh).
 
 For organizations holding old SAI Collateralized Debt Position (CDPs), the recommended migration paths are similar if the organization was only holding SAI: transfer the organization's SAI CDP ownership to an external account, multisig, or installed Agent app that you can interact with, and use the [migrate.makerdao.com](https://migrate.makerdao.com) interface.  In this scenario, ensure that the account with ownership over the SAI CDP also holds enough $MKR to pay back any owed stability fees.
 

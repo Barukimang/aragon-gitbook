@@ -4,17 +4,11 @@ description: How to use Frame
 
 # Frame
 
-This guide will help you to get started with Frame and interact with a DAO using a hardware wallet.
+This guide will help you to get started with Frame and interact with a DAO using a hardware wallet. How to setup Frame go [here](https://app.gitbook.com/o/3h8kxj8geKVXgyMnGbYT/s/zhQIP88M8McmSaEGSymT/\~/changes/2tRI9YYqiKnfmdr7WSA1/users/products/set-up-frame).
 
 
 
-### Setup
-
-> You need a Ledger or Trezor wallet to use Frame. Hot wallet support will be added soon!
-
-Start by downloading Frame from the official website: [https://frame.sh](https://frame.sh). After installation Frame stays quietly in your menu bar until it's needed.
-
-![](https://hack.aragon.org/docs/assets/frame/frame-intro.gif)
+###
 
 To take full advantage of Frame, we recommend you have `aragonCLI` installed as well. If you already have it, skip to the next section, otherwise run:
 
@@ -24,39 +18,7 @@ npm install -g @aragon/cli
 
 If you're having trouble with this step, you should take a look at the installing aragonCLI section of the [troubleshooting guide.](https://hack.aragon.org/docs/guides-faq#installing-aragonCLI) If that doesn't fix things, please don't hesitate to reach out to us in our Spectrum [App development channel](https://spectrum.chat/aragon/app-development).
 
-### Configure your device <a href="#configure-your-device" id="configure-your-device"></a>
 
-**Ledger**
-
-On Ledger devices insert your pin on the device to unlock it and then open Frame.
-
-![](https://hack.aragon.org/docs/assets/frame/frame-ledger.gif)
-
-**Trezor**
-
-On Trezor devices insert your pin directly on Frame.
-
-![](https://hack.aragon.org/docs/assets/frame/frame-trezor.gif)
-
-You should now be able to select the network and account you would like to use.
-
-**Network**
-
-To choose the appropriate network, select the button on the upper right corner (the three arrows). This will take you to Frame's menu, where you can configure its general settings. We will focus on the "Connection" option. Right now the default is Rinkeby but you can also choose Mainnet, Ropsten or Kovan.
-
-For this tutorial we will select Rinkeby.
-
-![](https://hack.aragon.org/docs/assets/frame/frame-app-menu.gif)
-
-**Accounts**
-
-The last step is to choose your account. Click on the configuration button (the button to the right of the Ledger or Trezor icon) and then click on the accounts button that pops up below the icon. This will display a new menu with the available accounts on your device for the network. Select one with some test ether (if you don't have any, you can request some via the [Rinkeby faucet](https://faucet.rinkeby.io)).
-
-![](https://hack.aragon.org/docs/assets/frame/frame-accounts.gif)
-
-In the configuration menu you can also manage the dapp permisions you have granted for that particular account. We'll explain more about this in the next section.
-
-You are now finished setting up Frame for your device, and are ready to sign your first transaction!
 
 ### Signing your first transaction <a href="#signing-your-first-transaction" id="signing-your-first-transaction"></a>
 
