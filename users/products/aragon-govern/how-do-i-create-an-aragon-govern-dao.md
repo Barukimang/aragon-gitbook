@@ -27,7 +27,7 @@ In this first step you should define:
 
 Currently, there is no practical usage for the token information within the DAO. But future usages are foreseen.
 
-\- **Proxies**: When selecting this option you will drastically reduce the amount of gas needed to deploy your DAO. This means that instead of deploying a whole smart contract to be the executor of your DAO (The one that executes transactions as the DAO), you will just deploy a proxy contract (which is a minimal version that forwards requests to a full contract that was already deployed by Aragon).&#x20;
+\- **Proxies**: When selecting this option you will drastically reduce the amount of gas needed to deploy your DAO. This means that instead of deploying a whole smart contract to be the executor of your DAO (the one that executes transactions as the DAO), you will just deploy a proxy contract (which is a minimal version that forwards requests to a full contract that was already deployed by Aragon).&#x20;
 
 <mark style="color:blue;background-color:red;">Important:</mark> This option **DOES NOT** reduce the security of your DAO in any way.
 
@@ -57,6 +57,6 @@ In this step you should:
 
 Important: If a wallet address is in the whitelist, it still needs to hold the collateral token to schedule a transaction.
 
-Lastly, it is time to review the information to make sure everything is correct. If you are happy with itit, just go ahead and click the "Confirm and Create a DAO" button.
+Lastly, it is time to review the information to make sure everything is correct. If you are happy with it, just go ahead and click the "Confirm and create a DAO" button.
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/611559fdb55c2b04bf6dddb3/file-fxIiexUROg.png)

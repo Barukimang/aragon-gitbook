@@ -21,7 +21,7 @@ This will replace the Voting App with a cheaper governance mechanism that will a
 
 3\. Grant the Govern Executor address desired permissions within the Aragon Client DAO. Follow [this](https://help.aragon.org/article/21-permissions) article to learn how to do this. You should grant the permissions you want the Aragon Govern DAO to be able to schedule execution for.&#x20;
 
-If you want to replace the governance mechanism, then grant the Govern Executor the same set of permissions that the Voting App currently has and then revoke the Voting App's permissions. I would not recommend changing the Permission Manager from the Voting App as it will make setting up permissions complicated in the future.
+If you want to replace the governance mechanism, then grant the Govern Executor the same set of permissions that the Voting App currently has and then revoke the Voting App's permissions. We would not recommend changing the Permission Manager from the Voting App as it will make setting up permissions complicated in the future.
 
 To get the Govern Executor Address:
 
@@ -58,6 +58,8 @@ You can find it on the "Organisations" page of your DAO portal. Look at the "INS
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/610d1014766e8844fc34e2cd/file-8cuqErvYC1.png)
 
 7\. Into the "Input function ABI" field enter the ABI obtained with the following steps:
+
+
 
 1\. Find the base contract of the selected Aragon App that you would like to interact with&#x20;
 

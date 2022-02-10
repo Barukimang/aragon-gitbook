@@ -25,7 +25,7 @@ Whenever an Aragon Govern transaction is challenged, a new dispute is created in
 
 \- **Actions**: The set of transactions that will be executed if the dispute is ruled in favor of who created this.
 
-\- **Original justification**: This is a human-readable justification stating why actions were scheduled to be executed. For example, the creator might say something like "Transfering funds to a project that is creating a carbon footprint offset device". This is added by the actions creator when scheduling the actions.
+\- **Original justification**: This is a human-readable justification stating why actions were scheduled to be executed. For example, the creator might say something like "Transferring funds to a project that is creating a carbon footprint offset device". This is added by the actions creator when scheduling the actions.
 
 \- **Dispute evidence**: The justification of why the actions are being challenged. For example, something like "The destination address actually belongs to a car manufacturing company, and therefore we should not allow this transferring of the funds". This is added by the person that challenged the actions.
 
