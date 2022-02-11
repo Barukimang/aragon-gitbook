@@ -63,7 +63,6 @@
     * [Acting as a guardian for an Aragon Govern dispute](users/products/aragon-govern/acting-as-a-guardian-for-an-aragon-govern-dispute.md)
     * [Challenging a transaction](users/products/aragon-govern/challenging-a-transaction.md)
     * [Client DAO with Govern Execution Engine](users/products/aragon-govern/client-dao-with-govern-execution-engine.md)
-    * [Aragon Govern migration reward program](users/products/aragon-govern/aragon-govern-migration-reward-program.md)
   * [Aragon Voice](users/products/aragon-voice/README.md)
     * [What is Aragon Voice?](users/products/aragon-voice/what-is-aragon-voice.md)
     * [How to create a proposal](users/products/aragon-voice/how-to-create-a-proposal.md)
