@@ -8,7 +8,7 @@ Insert the token smart contract and validate the contract.
 
 ![](<../../../.gitbook/assets/Schermata 2022-02-11 alle 12.14.27.png>)
 
-Return on the main token page [https://voice.aragon.org/](https://voice.aragon.org), select your token in the _Tokens you hold_ and create a new proposal as described [here](how-to-create-a-proposal-1.md).
+Return on the main token page [https://voice.aragon.org/](https://voice.aragon.org), select your token in the _Tokens you hold_ and create a new proposal as described [here](<how-to-create-a-proposal (1).md>).
 
 ![](<../../../.gitbook/assets/Schermata 2022-02-11 alle 12.18.51.png>)
 
