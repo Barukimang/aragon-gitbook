@@ -1,5 +1,13 @@
 # Use the Reputation template
 
+{% hint style="info" %}
+&#x20;In this section, you will learn how to create a Reputation DAO using the Reputation Template in the Aragon Client.&#x20;
+{% endhint %}
+
+{% hint style="danger" %}
+Before starting:  be sure to have read the "[How to create a DAO](./)" section.
+{% endhint %}
+
 A _Reputation_ organization is an organization that uses **non-transferable tokens** to represent reputation. Decisions are made using **reputation-weighted voting**.
 
 Creating a Reputation DAO:

@@ -1,5 +1,13 @@
 # Use the Company Template
 
+{% hint style="info" %}
+In this section, you will learn how to create a Company DAO using the Company Template in the Aragon Client.&#x20;
+{% endhint %}
+
+{% hint style="danger" %}
+Before starting:  be sure to have read the "[How to create a DAO](./)" section.
+{% endhint %}
+
 A _Company_ organization is an organization that uses t**ransferable tokens** to represent stake in the company. Decisions are made using **token-weighted voting**, where one token equals one vote.
 
 Creating a Company DAO:

@@ -1,8 +1,4 @@
-# Set up Metamask Wallet
-
-{% hint style="info" %}
-In this section, you will learn how to set up a Metamask wallet and how to configure it on the different blockchains.
-{% endhint %}
+# Set up Metamask
 
 Where can I download the wallet? How can I set up it for the different networks? How to send funds to my wallet?&#x20;
 

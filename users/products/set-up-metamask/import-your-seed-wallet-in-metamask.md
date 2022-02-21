@@ -1,9 +1,5 @@
 # Import your seed wallet in metamask
 
-{% hint style="info" %}
-&#x20;In this section, we'll go through how to import the seed of a wallet into metamask wallet.
-{% endhint %}
-
 The first step is to open up the Metamask browser extension and login. If you're using Chrome you should be able to do this by clicking on the fox icon located to the right of your address bar.&#x20;
 
 If you can't see it, [click here](https://chrome.google.com/webstore/search/metamask). This will open up an interface to your Ethereum wallet. Set up your wallet as described [here](./).

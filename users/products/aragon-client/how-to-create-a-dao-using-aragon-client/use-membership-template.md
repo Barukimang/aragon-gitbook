@@ -1,5 +1,13 @@
 # Use Membership Template
 
+{% hint style="info" %}
+In this section, you will learn how to create a Membership DAO using the Membership Template in the Aragon Client.&#x20;
+{% endhint %}
+
+{% hint style="danger" %}
+Before starting:  be sure to have read the "[How to create a DAO](./)" section.
+{% endhint %}
+
 A Membership organization is an organization that uses **non-transferable tokens** to represent membership. Decisions are made based on **one-member-one-vote** governance.
 
 Creating a Membership DAO:

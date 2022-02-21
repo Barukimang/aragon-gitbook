@@ -5,6 +5,10 @@ coverY: 0
 
 # Templates
 
+{% hint style="info" %}
+In this section, you will learn which are the templates available for creating a DAO and which are the main differences.
+{% endhint %}
+
 Templates are pre-configured smart contracts for different types of organizations. You can use the templates that are included with Aragon or [create your own](https://github.com/aragon/dao-templates).&#x20;
 
 Aragon currently includes three templates:
@@ -15,4 +19,8 @@ Aragon currently includes three templates:
 
 This section will walk you through examples of how you can use these templates as a starting point for your organization.
 
+{% hint style="warning" %}
 _Note: If the default templates don't give you exactly what you want for your organization, you can set up a_ [_development environment_](https://hack.aragon.org/docs/getting-started#environment-setup) _and use the_ [_aragonCLI_](https://hack.aragon.org/docs/cli-intro) _to_ [_create a custom organization_](https://hack.aragon.org/docs/guides-custom-deploy)_._
+{% endhint %}
+
+__
