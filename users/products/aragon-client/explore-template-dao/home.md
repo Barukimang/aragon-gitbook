@@ -6,10 +6,14 @@ coverY: 0
 # Home
 
 {% hint style="info" %}
-In this section, we explore the Home page of your DAO, the menu and the main sections.Important info: this note needs to be highlighted
+In this section, we explore the Home page of your DAO, the menu and the main section.
 {% endhint %}
 
-The Home page welcomes you to your organization and offers you several options for different actions you can take.&#x20;
+
+
+The **Home page** welcomes you to your organization and offers you several options for different actions you can take.&#x20;
+
+
 
 The Home page is a simple landing page that shows you:
 

@@ -8,5 +8,3 @@ coverY: 0
 {% hint style="info" %}
 In the previous articles, you have created a new DAO. Now, let us explore it.&#x20;
 {% endhint %}
-
-In the previous article, you have created a new DAO. Now, let us explore it.&#x20;
