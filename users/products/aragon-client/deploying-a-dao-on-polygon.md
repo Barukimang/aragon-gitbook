@@ -3,21 +3,24 @@ cover: ../../../.gitbook/assets/03.png
 coverY: 0
 ---
 
-# How to create a DAO on Polygon
+# Deploying a DAO on Polygon
 
-{% hint style="info" %}
-In this section, we will walk you through how to deploy a DAO using the Aragon Client on the Polygon network.&#x20;
-{% endhint %}
+**In this article, we will walk you through how to deploy DAOs on the Polygon network.**&#x20;
 
-## Introduction
+## <mark style="color:purple;">Introduction</mark>
 
 [Polygon](https://polygon.technology) is an [L2 scaling solution](https://ethereum.org/en/developers/docs/scaling/layer-2-rollups/) for Ethereum. It is a 'Proof of Stake' network, where users can transact with each other for fraction of the Mainnet transaction cost. Assets on Ethereum can be moved to Polygon and back again using [bridges](https://support.opensea.io/hc/en-us/articles/1500012881642-How-do-I-transfer-ETH-from-Ethereum-to-Polygon-). Ethereum fees are proportional to the complexity of the transaction but Polygon enables complex transactions for very low cost without leaving the Ethereum ecosystem. This is why Aragon has deployed its DAO infrastructure to Polygon, effectively reducing the cost of deploying a DAO from $500+ to a few cents.
 
 ### Getting Started with Polygon
 
-**Connect your Web3 wallet to the Polygon network.**
+1. **Connect your Web3 wallet to the Polygon network.**\
+   We recommend using MetaMask as your Web3 wallet. [Here](https://docs.matic.network/docs/develop/metamask/config-polygon-on-metamask) is a good guide on how to connect MetaMask to Polygon.
+2.  **Deposit at least 0.2 $MATIC to your Polygon wallet.**\
+    $MATIC is the currency used on Polygon to pay for transaction fees and, consequently, for deploying a DAO, in the same way that $ETH is used on Ethereum.
 
-Connect your Web3 wallet to the Polygon network and deposit at least 0.2 MATIC. How? [Here](../set-up-metamask/getting-started-with-polygon.md) is a good guide.&#x20;
+    At least 0.2 $MATIC is required to deploy an Aragon DAO, though the actual cost might be much less.
+
+    $MATIC may be bought on a decentralized exchange such as [UniSwap](https://app.uniswap.org/#/swap), using $ETH or any other ERC20 token. That $MATIC will then need to be transferred onto the Polygon network using a 'bridge' such as [https://wallet.matic.network/bridge](https://wallet.matic.network/bridge). Alternatively, $MATIC may be bought from a centralized exchange, such as Binance or Kucoin and then sent directly to your Polygon wallet.
 
 #### Deploying a DAO
 

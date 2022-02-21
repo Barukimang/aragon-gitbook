@@ -5,10 +5,6 @@ coverY: 0
 
 # How to create a DAO on Harmony
 
-{% hint style="info" %}
-&#x20;In this section, we will walk you through how to deploy a DAO using the Aragon Client on the Harmony network.&#x20;
-{% endhint %}
-
 [In 2021 Harmony paired with Aragon to deliver a DAO product using the client.aragon.org interface](https://blog.aragon.org/aragon-client-deployed-on-harmony/)
 
 In this article, we will walk you through how to deploy DAOs on the Harmony test network.&#x20;

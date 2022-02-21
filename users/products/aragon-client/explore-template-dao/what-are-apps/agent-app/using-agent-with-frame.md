@@ -1,5 +1,9 @@
 # Using Agent with Frame
 
+{% hint style="info" %}
+In this section we we will walk you through how to use Agent App with Frame wallet.
+{% endhint %}
+
 The easiest way to use the Agent app to interact directly with other Ethereum smart contracts is using the _smart account_ feature of Frame. Frame is a desktop-native Ethereum provider with native support for the Agent app. If you already have Frame installed and an "acting account" added, you can skip ahead to section **Add your Aragon Agent**.
 
 If you haven't **frame** installed go [here](https://app.gitbook.com/o/3h8kxj8geKVXgyMnGbYT/s/zhQIP88M8McmSaEGSymT/\~/changes/2tRI9YYqiKnfmdr7WSA1/users/products/set-up-frame-wallet).
