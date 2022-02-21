@@ -2,19 +2,27 @@
 
 The Aragon project is stewarded by the **Aragon Association**, a **non-profit entity** based in Zug, Switzerland, and governed by **Aragon Network Token (ANT)** **holders**.
 
-Within this legal infrastructure the DAO is further organized to streamline governance and execution
+Within this legal infrastructure the DAO is further organized to streamline governance and execution.
+
+
 
 **Main DAO**
 
 The Main DAO is an Aragon Govern DAO that acts as the executor for community votes on Aragon Voice, enabling $ANT holders to exercise direct democracy over the network.
 
+
+
 **Executive Sub-DAO**
 
 The Executive Sub-DAO acts as strategy facilitator and finance director for the AN DAO, responsible for scheduling payments and deciding on which initiatives to fund.
 
+
+
 **Compliance Sub-DAO**
 
 Committee members of the Compliance Sub-DAO review all proposals to the AN DAO and any sub-DAO for compliance with the Charter and overall legal compliance, providing feedback to proposal creators where appropriate. They are charged with removing any proposals they deem to be non-compliant with any part of this Charter or illegal and assume full legal responsibility for the approval of any illegal, unlawful, criminal or fraudulent proposals.
+
+
 
 **Tech Committee**
 

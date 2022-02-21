@@ -33,3 +33,11 @@ What exactly is a DAO? There are many ways to describe a DAO, and knowledgeable 
 
 You can read more about DAOs at [aragon.org/dao](https://aragon.org/dao).
 
+#### References
+
+[Decentralised Autonomous Organisations and the Corporate Form](https://doi.org/10.26686/vuwlr.v51i2.6573) p. 316
+
+[Comparison and Analysis of Governance Mechanisms Employed by Blockchain-Based Distributed Autonomous Organizations](https://ieeexplore.ieee.org/document/8428782#:\~:text=10.1109/SYSOSE.2018.8428782) p. 196
+
+
+
