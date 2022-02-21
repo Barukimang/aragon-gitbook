@@ -66,7 +66,7 @@
   * [Aragon Voice](users/products/aragon-voice/README.md)
     * [What is Aragon Voice?](users/products/aragon-voice/what-is-aragon-voice.md)
     * [How to create a proposal](users/products/aragon-voice/how-to-create-a-proposal.md)
-    * [How to create a proposal using your token](<users/products/aragon-voice/how-to-create-a-proposal (1).md>)
+    * [How to create a proposal using your token](users/products/aragon-voice/how-to-create-a-proposal-1.md)
     * [How to vote a proposal](users/products/aragon-voice/how-to-vote-a-proposal.md)
   * [Aragon Court](users/products/aragon-court/README.md)
     * [Aragon Court](users/products/aragon-court/aragon-court.md)
