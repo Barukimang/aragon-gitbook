@@ -1,6 +1,8 @@
 # Sign a transaction with MetaMask
 
-In this section, we'll go through how to sign your first transaction using Metamask.
+{% hint style="info" %}
+Important info: In this section, we'll go through how to sign your first transaction using Metamask.
+{% endhint %}
 
 The first step is to open up the Metamask browser extension and login. If you're using Chrome you should be able to do this by clicking on the fox icon located to the right of your address bar.
 

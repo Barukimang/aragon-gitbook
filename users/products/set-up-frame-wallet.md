@@ -1,6 +1,8 @@
 # Set Up Frame Wallet
 
-This guide will help you to get started with Frame and interact with a DAO using a hardware wallet.
+{% hint style="info" %}
+Important info: In this section, you will learn how to get started with Frame and interact with a DAO using a hardware wallet.
+{% endhint %}
 
 ### **Install Frame**
 
@@ -18,13 +20,13 @@ Start by downloading Frame from the official website: [https://frame.sh](https:/
 
 ### Configure your device <a href="#configure-your-device" id="configure-your-device"></a>
 
-#### <mark style="color:blue;">**Ledger**</mark>
+> #### <mark style="color:blue;">**Ledger**</mark>
 
 On Ledger devices insert your pin on the device to unlock it and then open Frame.
 
 ![](https://hack.aragon.org/docs/assets/frame/frame-ledger.gif)
 
-<mark style="color:blue;">**Trezor**</mark>
+> <mark style="color:blue;">**Trezor**</mark>
 
 On Trezor devices insert your pin directly on Frame.
 
@@ -36,7 +38,7 @@ You should now be able to select the network and account you would like to use.
 
 <mark style="color:blue;">****</mark>
 
-<mark style="color:blue;">**Network**</mark>
+> <mark style="color:blue;">**Network**</mark>
 
 To choose the appropriate network, select the button on the upper right corner (the three arrows). This will take you to Frame's menu, where you can configure its general settings. We will focus on the _Connection_ option. Right now the default is Rinkeby but you can also choose Mainnet, Ropsten or Kovan.
 
@@ -46,7 +48,7 @@ For this tutorial we will select Rinkeby.
 
 ![](https://hack.aragon.org/docs/assets/frame/frame-app-menu.gif)
 
-<mark style="color:blue;">**Accounts**</mark>
+> <mark style="color:blue;">**Accounts**</mark>
 
 The last step is to choose your account. Click on the configuration button (the button to the right of the Ledger or Trezor icon) and then click on the accounts button that pops up below the icon. This will display a new menu with the available accounts on your device for the network. Select one with some test ether (if you don't have any, you can request some via the [Rinkeby faucet](https://faucet.rinkeby.io)).
 
