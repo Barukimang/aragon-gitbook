@@ -5,7 +5,9 @@ coverY: 0
 
 # Set up a MultiSig wallet
 
-In this article, we will look into how Aragon Client DAOs can be managed by a MultiSig wallet.
+{% hint style="info" %}
+In this section, we will look into how Aragon Client DAOs can be managed by a MultiSig wallet.
+{% endhint %}
 
 Here we are going to use **Gnosis Safe MultiSig**, however, you could follow a similar approach for any other MultiSig wallet that supports contract interaction.
 

@@ -1,4 +1,4 @@
-# Glossary
+# Aragon Client
 
 * [**Access Control List**](https://hack.aragon.org/docs/acl-intro.html) <mark style="color:blue;">**(ACL)**</mark> The ACL is a mapping of who has permission to execute an action in an Aragon app and who can re-grant or revoke that permission.
 * <mark style="color:blue;">**Aragen**</mark>: Tool that automatically generates everything that is needed to run Aragon on a local Ethereum chain.

@@ -310,4 +310,6 @@
 
 ## 📃 GLOSSARY
 
-* [Glossary](glossary/glossary.md)
+* [Glossary](glossary/glossary/README.md)
+  * [Aragon Client](glossary/glossary/aragon-client.md)
+* [Useful Links](glossary/useful-links.md)
