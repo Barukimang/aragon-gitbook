@@ -10,8 +10,6 @@ description: >-
 In this section, you will learn how to create a DAO using the Aragon Client. In the example below we will use the Rinkeby network.
 {% endhint %}
 
-## How to create a DAO
-
 Login to your web3 wallet (aka metamask), select your account address and the network you want to use.
 
 Go [here](https://aragon.org) and click the _Create your DAO_ button and then choose to use _Aragon Client._
@@ -29,3 +27,6 @@ For more details about the different Templates go [here](https://app.gitbook.com
 * If you have selected Company template go [here](use-company-template.md).
 * If you have selected Membership template go [here](use-membership-template.md).
 * If you have selected Reputation template go [here](page-1.md).
+
+
+
