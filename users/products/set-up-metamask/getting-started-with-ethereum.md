@@ -14,9 +14,9 @@ _Login_ to your wallet and select the _Ethereum Mainnet_ on the drop-down _Netwo
 
 ![Ethereum Mainnet network selection](<../../../.gitbook/assets/Schermata 2022-02-03 alle 12.22.01.png>)
 
-## **Deposit at least 0.2 $ETH to your Ethereum wallet.**
+## **Deposit at least 0.2 ETH to your Ethereum wallet.**
 
-Now you need to load your wallet with enough ether (abbreviated as "**ETH**") to pay for gas. Each transaction on the network requests a gas fee pay. For example: the transfer of funds from your wallet, the deployment of your organization,  the interactions within your organization.&#x20;
+Now you need to load your wallet with enough ether (abbreviated as **ETH**) to pay for gas. Each transaction on the network requests a gas fee pay. For example the transfer of funds from your wallet, the deployment of your organization,  the interactions within your organization.&#x20;
 
 ETH is a cryptocurrency native to the Ethereum network and can be acquired from any [cryptocurrency exchange that lists ETH](https://docs.ethhub.io/using-ethereum/how-to-buy-ether/).&#x20;
 
