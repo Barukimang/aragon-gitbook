@@ -13,7 +13,7 @@ For example, any account may have permission to create a vote but only tokenhold
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d8a697f2c7d3a7e9ae19121/file-gDcISkpUXb.png)
 
-### <mark style="color:blue;">**Browse by app**</mark>
+## **Browse by app**
 
 The Permissions app shows a list of every **app installed** in the organization and **the address or token symbol** of that app. You can change App permissions and System permissions.
 
@@ -29,7 +29,7 @@ Every app has:
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d8a6a7104286364bc8f8145/file-NKD9Oqrl0V.png)
 
-### <mark style="color:blue;">**Available permissions**</mark>
+### **Available permissions**
 
 The _Available permissions_ section shows:
 
@@ -51,7 +51,7 @@ If an action has not been given a manager yet, then it must be initialized. To i
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d8a6b2304286364bc8f814f/file-fna5oPikEA.png)
 
-### <mark style="color:blue;">**Browse by entity**</mark>
+### **Browse by entity**
 
 Back on the main Permissions page, you have the ability to get an at-a-glance view of all of the permissions set in an organization in the _Browse by entity_ section.&#x20;
 
@@ -59,7 +59,7 @@ Here, you can quickly see which entities have been granted permission to perform
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d8a6b6104286364bc8f8153/file-W609vjv1Pi.png)
 
-### <mark style="color:blue;">**Add permission**</mark>
+### **Add permission**
 
 To give permission to an entity to perform an action on an app, click the _Add permission_ button, select which app you want the entity to perform the action on, select which entity you want to grant the permission to, then select the action you want to grant the entity permission to perform.
 
@@ -69,28 +69,32 @@ Each app has different actions that an entity can be granted permission to perfo
 
 Granting permission to an entity to perform these actions on these apps will allow them to:
 
-### <mark style="color:purple;">**ACL**</mark>
+#### **ACL**
 
-* Create permissions: create permissions that have not been initialized yet in any app that uses this ACL instance `*`
+* Create permissions: create permissions that have not been initialized yet in any app that uses this ACL instance`*`
 
-`*` _These actions are very sensitive actions that will give the entity with permission to perform these actions almost complete control of your organization._
+> `*`_These actions are very sensitive actions that will give the entity with permission to perform these actions almost complete control of your organization._
 
-### <mark style="color:purple;">**EVM Script Registry**</mark>
+#### **EVM Script Registry**
 
 * Add executors: add an executor to the organization`*`
 * Enable and disable executors: enable and disable executors in an organization`*`
 
-_Note: An executor is an interpreter for running scripts in an organization. All of the apps in an organization use the executors in the organization to execute scripts that are part of transactions sent to the app. Each script has an identifier that determines which executor is used for running the script. For example, whenever a vote transaction is sent to the Voting app, the app runs a script, then uses an executor to execute the script in the transaction. You can find more documentation about executors in the_ [_Aragon Developer Portal_](https://hack.aragon.org/docs/aragonos-ref.html#52-evmscripts)_._
+> `*` _These actions are very sensitive actions that will give the entity with permission to perform these actions almost complete control of your organization._
 
-`*` _These actions are very sensitive actions that will give the entity with permission to perform these actions almost complete control of your organization._
+{% hint style="warning" %}
+_Note: An executor is an interpreter for running scripts in an organization. All of the apps in an organization use the executors in the organization to execute scripts that are part of transactions sent to the app. Each script has an identifier that determines which executor is used for running the script._&#x20;
 
-### <mark style="color:purple;">**Kernel**</mark>
+_For example, whenever a vote transaction is sent to the Voting app, the app runs a script, then uses an executor to execute the script in the transaction. You can find more documentation about executors in the_ [_Aragon Developer Portal_](https://hack.aragon.org/docs/aragonos-ref.html#52-evmscripts)_._
+{% endhint %}
+
+#### Kernel
 
 * Manage apps: install apps, upgrade apps, and change default apps in an organization. The ACL and the EVM Script Registry are default apps in the organization. Whoever has permission to perform this action can also change the default Vault contract of the organization (which is the Vault that tokens will be sent to if tokens are sent to the address of an app that is not meant to accept token deposits). `*`
 
-`*` _These actions are very sensitive actions that will give the entity with permission to perform these actions almost complete control of your organization._
+> `*` _These actions are very sensitive actions that will give the entity with permission to perform these actions almost complete control of your organization._
 
-### <mark style="color:purple;">**Tokens**</mark>
+#### **Tokens**
 
 * Mint tokens: create new tokens and transfer them to a specified address
 * Issue tokens: create new tokens and transfer them to the organization's Tokens app, for later assignment to a specified entity
@@ -98,17 +102,23 @@ _Note: An executor is an interpreter for running scripts in an organization. All
 * Revoke vesting: revoke token vesting from a specified entity
 * Burn tokens: delete tokens held by a tokenholder, reducing the total token supply
 
-### <mark style="color:purple;">**Voting**</mark>
+#### **Voting**
 
 * Create new votes: create a new vote
 * Modify support: modify the Support parameter
 * Modify quorum: modify the Minimum Approval % parameter
 
+__
+
+{% hint style="info" %}
 _Note: **“Minimum Approval %”** is the percentage of the total token supply that support for a proposal must be greater than for the proposal to be considered valid. For example, if the Minimum Approval % is set to 20%, then more than 20% of the outstanding token supply must vote to approve a proposal for the vote to be considered valid. If a vote does not make quorum, then it will fail, even if more tokens voted to approve the proposal than voted against it. For example, if the Minimum Approval % is set to 20% and 10% of the outstanding token supply votes against the proposal but only 15% vote in support, then the proposal will fail because it has not reached the Minimum Approval % threshold._
+{% endhint %}
 
+{% hint style="info" %}
 _Note: **“Support”** is the percentage of votes on a proposal that the total support must be greater than for the proposal to be approved. For example, if “Support” is set to 51%, then more than 51% of the votes on a proposal must vote “Yes” for the proposal to pass._
+{% endhint %}
 
-### <mark style="color:purple;">**Finance**</mark>
+#### Finance
 
 * Create new payments: create a transfer from the Finance app to another entity
 * Execute payments: trigger a recurring payment owed to an entity
@@ -116,11 +126,9 @@ _Note: **“Support”** is the percentage of votes on a proposal that the total
 * Change budgets: modify how many tokens can be spent within a given accounting period
 * Manage payments: enable and disable recurring payments
 
-### <mark style="color:purple;">**Vault**</mark>
+#### **Vault**
 
 * Transfer Vault’s tokens: transfer tokens held by the Vault app
-
-
 
 {% embed url="https://youtu.be/kMF7Y_KPm-4?t=666" %}
 
