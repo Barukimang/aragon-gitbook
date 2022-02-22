@@ -18,7 +18,9 @@ We recommend using [MetaMask wallet](./) as your Web3 wallet.&#x20;
 
 ## **Deposit TEST MATIC to your Mumbai wallet**
 
-TEST MATIC  token is the test-MATIC used on Mumbai to pay for transaction fees and, consequently, for deploying a DAO, in the same way that test-ETH is used on Rinkeby.&#x20;
+TEST MATIC  token is the test-MATIC used on Mumbai to pay for transaction fees (abbreviated as MATIC\*) and, consequently, for deploying a DAO, in the same way that test-ETH is used on Rinkeby.&#x20;
+
+> \*Important info: Please note that the symbol of the test-MATIC is "MATIC", the same as for the matic.
 
 To get test-MATIC, you can go to the [Polygon Mumbai Faucet](https://faucet.polygon.technology):&#x20;
 

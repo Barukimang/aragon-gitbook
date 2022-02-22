@@ -18,6 +18,10 @@ We recommend using [MetaMask wallet](./) as your Web3 wallet.&#x20;
 
 ## **Deposit TEST-ONE to your Harmony test wallet**
 
+TEST ONE  token is the test-ONE used on Harmony testnet to pay for transaction fees (abbreviated as ONE\*) and, consequently, for deploying a DAO, in the same way, that test-ETH is used on Rinkeby.&#x20;
+
+> \*Important info: Please note that the symbol of the test-ONE is "ONE", the same as for the one.
+
 Get your Harmony One address for the faucet:
 
 * go to [https://explorer.harmony.one/](https://explorer.harmony.one)&#x20;

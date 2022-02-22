@@ -18,11 +18,11 @@ We recommend using [MetaMask wallet](./) as your Web3 wallet.&#x20;
 
 ## **Deposit at least 0.2 MATIC to your Polygon wallet.**
 
-MATIC is the currency used on Polygon to pay for transaction fees and, consequently, for deploying a DAO, in the same way that ETH is used on Ethereum.
+$MATIC is the currency used on Polygon to pay for transaction fees and, consequently, for deploying a DAO, in the same way that ETH is used on Ethereum.
 
-MATIC may be bought on a decentralized exchange such as [UniSwap](https://app.uniswap.org/#/swap), using ETH or any other ERC20 token. Then MATIC need to be transferred onto the Polygon network using a 'bridge' such as [https://wallet.matic.network/bridge](https://wallet.matic.network/bridge).&#x20;
+$MATIC may be bought on a decentralized exchange such as [UniSwap](https://app.uniswap.org/#/swap), using $ETH or any other ERC20 token. Then $MATIC need to be transferred onto the Polygon network using a 'bridge' such as [https://wallet.matic.network/bridge](https://wallet.matic.network/bridge).&#x20;
 
-Alternatively, MATIC may be bought from a centralized exchange, such as Binance or Kucoin and then sent directly to your Polygon wallet.
+Alternatively, $MATIC may be bought from a centralized exchange, such as Binance or Kucoin and then sent directly to your Polygon wallet.
 
 {% hint style="danger" %}
 **How much $MATIC are necessary for deploying a DAO?**&#x20;
