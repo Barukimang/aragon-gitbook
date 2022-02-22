@@ -8,13 +8,13 @@ The easiest way to use the Agent app to interact directly with other Ethereum sm
 
 If you haven't **frame** installed go [here](https://app.gitbook.com/o/3h8kxj8geKVXgyMnGbYT/s/zhQIP88M8McmSaEGSymT/\~/changes/2tRI9YYqiKnfmdr7WSA1/users/products/set-up-frame-wallet).
 
-### <mark style="color:blue;">**Send ETH (or test ETH) to your acting account**</mark>
+## **Send ETH (or test ETH) to your acting account**
 
 Before you get started, prepare by sending ETH (or test ETH) to your acting account.&#x20;
 
 Your **acting account** is the account that holds at least one (or partial if it is divisible) **voting token** in your organization and is the account you will use to **interact with smart contracts** via Agent. The ETH you send to this account is used to pay for gas whenever the Agent app is interacting with other smart contracts. Be sure to top off the ETH in your acting account whenever it's running low so that you don't experience out-of-gas errors when interacting with other smart contracts.
 
-### <mark style="color:blue;">**Add your acting account**</mark>
+## **Add your acting account**
 
 Open the Frame desktop app and click the _plus-sign_ button to add your acting account. You can add it using a hardware wallet or a hot wallet.&#x20;
 
@@ -26,7 +26,7 @@ It is recommended that you use a hardware wallet but in this example, we will us
 
 ![](../../../../../../.gitbook/assets/file-Hdky5v4UL9.png)
 
-### <mark style="color:blue;">**Add your Aragon Agent**</mark>
+## **Add your Aragon Agent**
 
 Go to the same screen on Frame you used to add your acting account, then add your Aragon Agent under the _Smart accounts_ section.
 
@@ -46,7 +46,7 @@ Your Aragon Agent will now show up in the list of available accounts to use with
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d8bdb3b04286364bc8f9104/file-yCdIwFtn04.png)
 
-### <mark style="color:blue;">**Using your Aragon Agent**</mark>
+## **Using your Aragon Agent**
 
 Click on the Aragon logo to use your Agent account. Enter your password if you are using a hot account. You are now ready to interact with any other Ethereum smart contract directly with your Aragon Agent.
 

@@ -23,7 +23,7 @@ To do so, you will need to follow the instructions for [installing and initializ
 
 Once you have the Agent app installed, the fun can begin.
 
-### <mark style="color:blue;">**Agent frontend interface**</mark>
+## **Agent frontend interface**
 
 The _Agent app_ currently has a **view-only frontend interface** that you can use to see which tokens are currently held by the Agent app (including ERC-20, ERC-677, and ERC-777 tokens) as well as see a history of transactions made using the Agent app. The transaction history can be filtered by transaction type, token, or date, and can be exported as a CSV file.
 
