@@ -5,7 +5,7 @@ coverY: 0
 
 # Why do we need DAOs?
 
-### **Problem statement**
+## **Problem statement**
 
 Many of us have gone through the pain of setting up a corporate entity. Or felt like we've lacked the tools to collaborate with people all around the globe when we're building stuff we want to see in the world.
 
@@ -15,7 +15,7 @@ On top of this, these pieces of paper don't enforce anything by themselves: they
 
 If you try to explain this to a kid, you quickly realize how mad the current system seems to them. When you think about it, it's really impressive that the world functions the way it does with this sort of legacy framework and operating system underneath.
 
-### **Problem solution: DAOs**
+## **Problem solution: DAOs**
 
 At Aragon, we believe that decentralized autonomous organizations (DAOs) are the solution to this problem.
 
@@ -42,8 +42,6 @@ They can scale rapidly and are great for both open and closed communities.
 ### EXAMPLE
 
 A good example of a DAO is [Decentraland](https://decentraland.org). This is a virtual world, where users own land and can make collective decisions on the future of the virtual world.&#x20;
-
-
 
 #### **References**
 
