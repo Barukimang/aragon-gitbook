@@ -21,11 +21,11 @@ In this article, we will walk you through how to deploy DAOs on the Harmony test
 
 Connect your Web3 wallet to the Harmony Testnet and deposit "test-ONE". How? [Here](../set-up-metamask/getting-started-with-harmony-testnet.md) is a good guide.&#x20;
 
-## Getting Started with Harmony for real!
+### Getting Started with Harmony for real!
 
 Connect your Web3 wallet to the Harmony network and deposit at least 0.2 ONE. How? [Here](../set-up-metamask/getting-started-with-harmony.md) is a good guide.&#x20;
 
-## Deploying a DAO
+### Deploying a DAO
 
 1. **Go to the** [**Aragon Client**](https://client.aragon.org/#/) **page.**
 
