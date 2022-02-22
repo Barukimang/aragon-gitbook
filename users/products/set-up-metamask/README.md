@@ -10,7 +10,7 @@ This section replies to all and other questions about your Web3 wallet:relaxed:.
 
 We recommend using [MetaMask](https://metamask.io) as your Web3 wallet. Metamask is a browser plugin that lets you make Ethereum (and other blockchains) transactions through regular websites. ****&#x20;
 
-### Getting started <a href="#getting-started" id="getting-started"></a>
+## Getting started <a href="#getting-started" id="getting-started"></a>
 
 Visit the [Metamask homepage](https://metamask.io) and download the relevant browser extension (this guide will be based around the Chrome extension, but the process is similar for all browsers).
 
@@ -22,27 +22,27 @@ Follow the instructions carefully. They should be pretty self-explanatory. If yo
 
 Once your MetaMask setup is complete, you should be redirected to your newly created Ethereum wallet.
 
+![Metamask account](<../../../.gitbook/assets/mm account (1).png>)
 
-
-![](<../../../.gitbook/assets/mm account (1).png>)
-
+{% hint style="success" %}
 If you've made it this far, congratulations 🎉.
+{% endhint %}
 
-### Account address <a href="#account-address" id="account-address"></a>
+## Account address <a href="#account-address" id="account-address"></a>
 
-If you click on the **Three Dots** button below your account name  - in my case Account 1 -  a popup will appear with your account address. It should look something like:
+If you click on the _Three Dots_ button below your account name  - in our case _Account 1_ -  a popup will appear with your account address. It should look something like this:
 
-**0x931D387731bBbC988B312206c74F77D004D6B84b**
+> **0x931D387731bBbC988B312206c74F77D004D6B84b**
 
-This is your public address (or public key). You can share this with other people to receive ETH.
+This is your **public address** (or public key). You can share this with other people to receive ETH or other tokens.
 
-### Selected networks <a href="#selected-networks" id="selected-networks"></a>
+## Selected networks <a href="#selected-networks" id="selected-networks"></a>
 
-In the top right you should see a dropdown menu with **Main Ethereum Network** selected.
+In the top right you should see a dropdown menu with _**Main Ethereum Network**_ selected.
 
 With this option selected, you're able to interact directly with the main Ethereum blockchain. If you click on it however, you should see that you have the ability to select other networks.
 
-![](https://hack.aragon.org/docs/assets/metamask-guide/m-2.png)
+![Drop down menu for selecting the network.](https://hack.aragon.org/docs/assets/metamask-guide/m-2.png)
 
 Why would we need to select other networks? Simply put, before launching a project (or dapp) on the main Ethereum network, it's good practice to deploy a version to an Ethereum test network. Or, simply,  you want to use a network with save cost fees (like Polygon or Harmony).
 
@@ -54,17 +54,6 @@ Don't worry about the precise differences between them at this stage. All you ne
 
 Finally, you can also interact with private Ethereum networks by selecting **Localhost 8545**. Private in this case doesn't mean more secure. It just means that the nodes are not connected to the main or test network nodes. Perfect for rapid experimentation and testing.
 
-Remember that if you want to use different networks, you need to set up your wallet and load your wallet with enough funds for paying the transaction fees.&#x20;
-
-#### &#x20;<a href="#account-address" id="account-address"></a>
-
-
-
-~~~~
-
-
-
-
-
-
-
+{% hint style="warning" %}
+Remember that if you want to use different networks, you need to set up your wallet and load your wallet with enough funds for paying the transaction fees. We will explain how to do this in the next sections.
+{% endhint %}
