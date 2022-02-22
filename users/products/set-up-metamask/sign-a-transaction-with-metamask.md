@@ -14,9 +14,10 @@ If you can't see it, [click here](https://chrome.google.com/webstore/search/meta
 2. Access your Dao (if you haven't one go [here](../aragon-client/how-to-create-a-dao-using-aragon-client/) to deploy your first DAO)
 3. Connect your metamask wallet.&#x20;
 4. _Click Add a new token_ in the _Token_ App (if you need help on "How to add tokens to your Dao" please go [here](../aragon-client/explore-template-dao/what-are-apps/token-app.md))&#x20;
-5. Fill in all the requested fields in the _Add tokens_ page and click the _Create transaction_ button&#x20;
-6. It opens a metamask popup (as shown in the image) that ask to sign the transaction with the _Confirm_ button.&#x20;
-7. Confirm and that's it.&#x20;
+5. After filling in all the requested fields in the _Add tokens_ page&#x20;
+6. Click the _Create transaction_ button,&#x20;
+7. It opens a metamask popup (as shown in the image) that ask to sign the transaction with the _Confirm_ button.&#x20;
+8. Confirm and that's it.&#x20;
 
 {% hint style="success" %}
 The transaction is gone. :tada:
