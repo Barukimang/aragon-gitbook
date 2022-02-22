@@ -1,5 +1,9 @@
 # Getting started with Harmony
 
+{% hint style="info" %}
+Important info: this note needs to be highlighted
+{% endhint %}
+
 **Connect your Web3 wallet to the Harmony network.**
 
 We recommend using MetaMask as your Web3 wallet. Login to your wallet.&#x20;

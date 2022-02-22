@@ -1,17 +1,34 @@
 # Getting started with Mumbai testnet
 
-**Connect your Web3 wallet to the Mumbai testnet.**
+{% hint style="info" %}
+In this section, you will learn how to connect and use your web3 wallet on the Mumbai testnet.
+{% endhint %}
 
-We recommend using MetaMask as your Web3 wallet. Login to your wallet.&#x20;
+## **Connect your Web3 wallet to the Mumbai testnet**
 
-Go to [https://chainlist.org/](https://chainlist.org) - insert _mumbai_ in the search box - _connect your wallet_ and _add to metamask._ &#x20;
+We recommend using [MetaMask wallet](./) as your Web3 wallet.&#x20;
 
-![](<../../../.gitbook/assets/Schermata 2022-01-26 alle 23.29.34.png>)
+* _Login_ to your wallet (metamask in our example)&#x20;
+* go to [https://chainlist.org/](https://chainlist.org) site
+* in the search box insert _mumbai_
+* click the _connect your wallet_ button on the top right (if metamask is well connected the fox icon appears)
+* and click _add to metamask_ button_._
 
-**Deposit $MATIC TEST token to your Mumbai wallet.**
+![Add the Mumbai testnet to metamask using chainlist.org](<../../../.gitbook/assets/Schermata 2022-01-26 alle 23.29.34.png>)
 
-$MATIC TEST token is the "test" MATIC used on Mumbai to pay for transaction fees and, consequently, for deploying a DAO, in the same way that "test" $ETH is used on Rinkeby.&#x20;
+## **Deposit TEST MATIC to your Mumbai wallet**
 
-To get "test" MATIC, you can go to the [Polygon Mumbai Faucet](https://faucet.polygon.technology): select Network "Mumbai", choose "MATIC Token", and enter your Mumbai wallet address, then click “Submit.”&#x20;
+TEST MATIC  token is the test-MATIC used on Mumbai to pay for transaction fees and, consequently, for deploying a DAO, in the same way that test-ETH is used on Rinkeby.&#x20;
 
-It may take some time to receive your "test" MATIC due to network traffic. (At the time of writing this, it took around 30 minutes.) You should see "test" MATIC in your Metamask account soon after!
+To get test-MATIC, you can go to the [Polygon Mumbai Faucet](https://faucet.polygon.technology):&#x20;
+
+* _Network_: select _Mumbai_,&#x20;
+* _Select token_: choose _MATIC Token_,&#x20;
+* _Wallet address_: enter your wallet address where you will receive the test-Matic (if you are using metamask, it is your wallet account address)
+* click _Submit_&#x20;
+
+![Polygon Mumbai Faucet](<../../../.gitbook/assets/Schermata 2022-02-22 alle 10.38.13.png>)
+
+{% hint style="warning" %}
+It may take some time to receive your test-MATIC due to network traffic. At the time of writing this, it took around 30 minutes. You should see test-MATIC in your wallet (in our example, Metamask account) soon after!
+{% endhint %}

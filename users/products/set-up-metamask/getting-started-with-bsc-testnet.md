@@ -1,5 +1,9 @@
 # Getting started with BSC Testnet
 
+{% hint style="info" %}
+In this section, you will learn how to connect and use your web3 wallet on the BSC testnet.
+{% endhint %}
+
 **Connect your Web3 wallet to the BSC testnet.**
 
 We recommend using MetaMask as your Web3 wallet. Login to your wallet.&#x20;

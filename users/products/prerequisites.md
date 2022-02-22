@@ -6,12 +6,12 @@ coverY: 0
 # Prerequisites
 
 {% hint style="info" %}
-In this section, you will learn which are the prerequisites for using the Aragon Products..
+In this section, you will learn which are the prerequisites for using Aragon Products.
 {% endhint %}
 
 To start using Aragon products you need:
 
-* working desktop computer, laptop, smartphone, or tablet
+* a working desktop computer, a laptop, a smartphone, or a tablet
 * a "decent" internet connection
 
 **Using working desktop computer or laptop:**
