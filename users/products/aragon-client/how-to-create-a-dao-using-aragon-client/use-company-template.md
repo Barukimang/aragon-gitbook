@@ -10,7 +10,7 @@ Before starting:  be sure to have read the "[How to create a DAO](./)" section.
 
 A _Company_ organization is an organization that uses t**ransferable tokens** to represent stake in the company. Decisions are made using **token-weighted voting**, where one token equals one vote.
 
-Creating a Company DAO:
+## Creating a Company DAO
 
 ![Select the template](<../../../../.gitbook/assets/Schermata 2022-02-04 alle 18.41.40.png>)
 
@@ -18,7 +18,7 @@ Click _View details_, review the apps available, check the boxes to install any 
 
 ![Company template](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d86242f04286364bc8f6507/file-QeXiahqUec.png)
 
-### <mark style="color:blue;">Claim a name</mark>
+## Claim a name
 
 Select the name of your DAO and fill in the _Organization Name_ tab.&#x20;
 
@@ -28,7 +28,7 @@ Note: this name will be useful for accessing your DAO. Don't forget it!&#x20;
 
 ![Select a DAO name.](<../../../../.gitbook/assets/Schermata 2022-02-04 alle 18.52.45.png>)
 
-### <mark style="color:blue;">Configure the parameters of the Voting App</mark>
+## Configure the parameters of the Voting App
 
 _Note: The Voting app parameters currently cannot be changed from the Aragon frontend client. To change the Voting app parameters after your organization has been created, you must first initialize the permissions to change these parameters, then you can change the parameters using the_ [_aragonCLI_](https://hack.aragon.org/docs/cli-intro.html)_._
 
@@ -40,9 +40,7 @@ Configure the voting settings. Select:
 
 ![Configure the Voting settings.](<../../../../.gitbook/assets/Schermata 2022-02-04 alle 19.01.42.png>)
 
-
-
-### <mark style="color:blue;">Configure the parameters of the Token App</mark>
+## Configure the parameters of the Token App
 
 Choose a token name, a symbol, the tokenholders and the amount (_balance_) of token for each tokenholders. You can add the token holder using the _Add more_ button.
 
@@ -50,7 +48,7 @@ Note: The token name and symbol currently cannot be changed. Do not add more tha
 
 ![Token app settings.](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d8624862c7d3a7e9ae173e4/file-wSKI8WfAzK.png)
 
-### <mark style="color:blue;">Review organization information</mark>
+## Review organization information
 
 Open each panel to make sure that the information entered to launch your organization is correct. If anything is incorrect, you can click the "back" button to return to an earlier screen and make the necessary correction.
 
@@ -65,21 +63,21 @@ Open each panel to make sure that the information entered to launch your organiz
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d8624c604286364bc8f650c/file-Fqvyo6L3Kz.png)
 
-### <mark style="color:blue;">Launch your organization</mark>
+## Launch your organization
 
 Now you need to sign a transaction to create your organization. Open your Ethereum provider if the window does not open automatically. Click the _confirm_ button in your Ethereum provider to sign and broadcast the transaction.
 
 Wait until the transaction is completed.&#x20;
 
-
-
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d8624d704286364bc8f650d/file-arEtXF8S0j.png)
 
 Don't close or refresh the page until the process is completed and the DAO is deployed.&#x20;
 
-### <mark style="color:blue;">Click "Get started"</mark>&#x20;
+## Click "Get started"&#x20;
 
+{% hint style="success" %}
 Your new Company organization is ready to go!
+{% endhint %}
 
 Now you can [explore your new Company organization](../explore-template-dao/).
 
