@@ -27,7 +27,5 @@ Alternatively, MATIC may be bought from a centralized exchange, such as Binance 
 {% hint style="danger" %}
 **How much $MATIC are necessary for deploying a DAO?**&#x20;
 
-As a rough estimate of how much MATIC you will need, multiply the [current “standard” gas price in gwei](https://ethgasstation.info) by 0.02.&#x20;
-
-For example: at a standard gas price of 10 gwei, you should have 0.2 MATIC in your wallet (the actual cost might be much hight depending on the network traffic). You can estimate the necessary gas price [here](gas-tracker.md).
+At least 0.2 $ONE is required to deploy an Aragon DAO, though the actual cost might be much less or hight (depending on the network traffic). You can estimate the necessary gas price [here](gas-tracker.md).
 {% endhint %}
