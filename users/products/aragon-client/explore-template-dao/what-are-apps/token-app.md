@@ -26,7 +26,7 @@ This simple process for managing membership and voting power provides the founda
 
 ![Tokens App](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d867d542c7d3a7e9ae174bd/file-3GPg0yG2o5.png)
 
-### <mark style="color:blue;">**Holder**</mark>
+## **Holder**
 
 In the _Holder_ section of the _Tokens_ app, you can see the current list of token holders and the balance of organization tokens they each hold.&#x20;
 
@@ -38,7 +38,7 @@ Clicking on the dropdown menu on one of the rows in the list will provide you op
 
 ![Tokens app view](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d867d622c7d3a7e9ae174be/file-dgpIXaBkm6.png)
 
-### <mark style="color:blue;">**Token Info**</mark>
+## **Token Info**
 
 In the _Token Info_ section you can see information about the token that is used for governance in your organization:
 
@@ -48,13 +48,13 @@ In the _Token Info_ section you can see information about the token that is used
 
 ![Token info view](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d867df22c7d3a7e9ae174bf/file-7fiikNO0jj.png)
 
-### <mark style="color:blue;">**Ownership Distribution**</mark>
+## **Ownership Distribution**
 
 In the _Ownership Distribution_ section, you can see which entities own what percent of the organization’s token supply. This can be helpful as a spot check to see how token ownership is concentrated in the organization.
 
 ![Ownership distribution](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d867dff04286364bc8f65d9/file-nj7kpToblW.png)
 
-### <mark style="color:blue;">**Add Tokens**</mark>
+## **Add Tokens**
 
 If you need to add members to your organization and assign them DAO tokens, you need to use the _Add Token_ option.
 
@@ -73,7 +73,7 @@ At this point, the organization still requires a tokenholder vote for every acti
 
 ![](https://lh3.googleusercontent.com/RVlpE5QIyKb2gvvr5KQOf8ukZa0k5wczXfgOnnHfcvXI2JnBUtLX4KjKob\_EWMF9k9y1NjB1yzNcYrJLm2ETRezy7v9DDWucQNQ18OEQT\_8dBjMvSoZsymVIGK\_BJv\_8Cw1Mk88L)
 
-### <mark style="color:blue;">**Vote "Yes" to approve the "Assign Tokens" vote**</mark>&#x20;
+### **Vote "Yes" to approve the "Assign Tokens" vote **<mark style="color:blue;">****</mark>&#x20;
 
 Go to the Voting app, click on the _Mint tokens_ proposal you just created, and vote "Yes" to approve minting and assigning the token.
 
@@ -85,7 +85,7 @@ Go to the Voting app, click on the _Mint tokens_ proposal you just created, and 
 
 ![](https://lh6.googleusercontent.com/SJXCuLvpm6UwVIvBsplOQCcH5mfm11meFrHj9HRVH1FOGiM\_ax8Wmzf4IoQtX2GJNSDLC7BrUn8RmdDuaZ0Vzd9fhH\_JT-TggnudmR\_408oQ6VC6N6JWZXi1Hc2SudTl\_Y1p0xzZ)
 
-### <mark style="color:blue;">**Check out the newest member of your organization**</mark>
+### **Check out the newest member of your organization**
 
 Your organization just went from one to two members. A good start to a new Company organization!
 
