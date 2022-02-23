@@ -11,8 +11,8 @@ In this section, you will learn which are the prerequisites for using Aragon Pro
 
 To start using Aragon products you need:
 
-* a working desktop computer, a laptop, a smartphone, or a tablet
-* a "decent" internet connection
+* A working desktop computer, a laptop, a smartphone, or a tablet
+* A "decent" internet connection
 
 **Using working desktop computer or laptop:**
 
@@ -21,6 +21,6 @@ To start using Aragon products you need:
 
 **Using smartphone, or tablet:**
 
-* Up-to-date [Coinbase](https://wallet.coinbase.com), [imToken](https://www.token.im/download), [Status](https://status.im), [Trust](https://trustwallet.com/dapp) or [MetaMask](https://metamask.io) mobile Web3 browser.
+* Up-to-date [Coinbase](https://wallet.coinbase.com), [imToken](https://www.token.im/download), [Status](https://status.im), [Trust](https://trustwallet.com/dapp), [MetaMask](https://metamask.io) mobile Web3 browser.
 
 ****

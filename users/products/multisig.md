@@ -55,7 +55,7 @@ _Here we have assigned MutliSig permissions to manage payments and change voting
 
 ### Executing actions
 
-1\. Go to [Gnosis Safe](https://gnosis-safe.io) website and connect to their DApp
+1\. Go to the [Gnosis Safe](https://gnosis-safe.io) website and connect to their DApp
 
 2\. Open your vault
 
@@ -104,3 +104,5 @@ You can find it on the _Organizations_ page of your DAO portal. Look at the _Ins
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/611278276ffe270af2a97644/file-rxfkptmQt8.png)
 
 3\. If you are populating fractional numbers, add 18 zeros to the original value. For example, if you want to invoke **immediateTransfer** method that will transfer 10.5 tokens, you will have to input 10.5\*10^18 = 10500000000000000000 into the amount field.&#x20;
+
+4\. If the ABI is not displaying on one network (Rinkeby e.g.), get the similar ABI from another DAO on a different network (Ethereum Mainnet e.g.).
