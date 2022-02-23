@@ -1,6 +1,6 @@
 ---
 cover: ../../.gitbook/assets/619622a69961413c646ac357_bg_02 (1).png
-coverY: 546.1512791991101
+coverY: 678.9988876529478
 ---
 
 # Legal and technical infrastructure

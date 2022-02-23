@@ -1,6 +1,6 @@
 ---
-cover: ../../.gitbook/assets/6188f268d468b5871e75420f_dao (1).png
-coverY: -4.271412680756396
+cover: ../../.gitbook/assets/Aragon creation wall.jpeg
+coverY: 183.67074527252504
 ---
 
 # About DAOs
