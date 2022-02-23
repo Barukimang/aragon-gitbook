@@ -1,5 +1,7 @@
 ---
 description: We value clear communication
+cover: ../../.gitbook/assets/619622a69961413c646ac357_bg_02 (1).png
+coverY: 507.77308120133483
 ---
 
 # Communicating values

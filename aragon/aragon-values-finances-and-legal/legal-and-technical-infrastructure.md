@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/619622a69961413c646ac357_bg_02 (1).png
+coverY: 546.1512791991101
+---
+
 # Legal and technical infrastructure
 
 The Aragon project is stewarded by the **Aragon Association**, a **non-profit entity** based in Zug, Switzerland, and governed by **Aragon Network Token (ANT)** **holders**.

@@ -1,6 +1,6 @@
 ---
-cover: ../../.gitbook/assets/60a39b049c87fc8231ff46ae_Group 14264.png
-coverY: 0
+cover: ../../.gitbook/assets/619622a69961413c646ac357_bg_02 (1).png
+coverY: 531.3904338153504
 ---
 
 # DAO Finances

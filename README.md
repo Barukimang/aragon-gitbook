@@ -1,6 +1,6 @@
 ---
-cover: .gitbook/assets/607d5cb033628e314721eef1_white-p-800.png
-coverY: 0
+cover: .gitbook/assets/619622a69961413c646ac357_bg_02 (1).png
+coverY: 678.9988876529476
 ---
 
 # Aragon Values, Finances, and Legal
@@ -26,7 +26,7 @@ The Aragon Network DAO consists of a Main DAO and three satellite organizations:
 If you're new to this ecosystem, don't worry if some (or all) of the above sounded a bit abstract. You can think of Aragon as **providing the lego pieces** to allow people (like you) to build the **next generation of human organizations**.[NextCommunicating values](https://app.gitbook.com/o/3h8kxj8geKVXgyMnGbYT/s/zhQIP88M8McmSaEGSymT/\~/changes/CPFwMGGx8RKICpM5s9Es/aragon/readme/communicating-values).
 
 {% hint style="success" %}
-:arrow\_double\_down::arrow\_double\_down::arrow\_double\_down:Leave your comments here at our Discourse forum :arrow\_double\_down::arrow\_double\_down::arrow\_double\_down:
+Leave your comments here at our Discourse forum :arrow\_double\_down:
 {% endhint %}
 
 {% embed url="https://aragon-test.trydiscourse.com" %}
