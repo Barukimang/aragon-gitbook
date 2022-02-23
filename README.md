@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/60a39b049c87fc8231ff46ae_Group 14264.png
+cover: .gitbook/assets/607d5cb033628e314721eef1_white-p-800.png
 coverY: 0
 ---
 
@@ -24,8 +24,6 @@ Aragon takes care of the most important pieces of infrastructure to deliver cens
 The Aragon Network DAO consists of a Main DAO and three satellite organizations: the Executive Sub-DAO, the Compliance Sub-DAO, and the Tech Committee. Each sub-DAO has a committee of three members, elected by a combination of a public vote and the Aragon Association. Each committee member has a tenure of one year and is paid 200 $ANT per month.
 
 If you're new to this ecosystem, don't worry if some (or all) of the above sounded a bit abstract. You can think of Aragon as **providing the lego pieces** to allow people (like you) to build the **next generation of human organizations**.[NextCommunicating values](https://app.gitbook.com/o/3h8kxj8geKVXgyMnGbYT/s/zhQIP88M8McmSaEGSymT/\~/changes/CPFwMGGx8RKICpM5s9Es/aragon/readme/communicating-values).
-
-
 
 {% hint style="success" %}
 :arrow\_double\_down::arrow\_double\_down::arrow\_double\_down:Leave your comments here at our Discourse forum :arrow\_double\_down::arrow\_double\_down::arrow\_double\_down:

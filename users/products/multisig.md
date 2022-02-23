@@ -11,11 +11,11 @@ In this section, we will look into how Aragon Client DAOs can be managed by a Mu
 
 Here we are going to use **Gnosis Safe MultiSig**, however, you could follow a similar approach for any other MultiSig wallet that supports contract interaction.
 
-### Prerequisites:
+## Prerequisites
 
-#### Assign the desired permissions in the Client DAO to the MultiSig
+### Assign the desired permissions in the Client DAO to the MultiSig
 
-Aragon Client DAOs have an access control system, where each action is protected by a set of permission records. Only someone who has specific permission can perform the action. You can read more about permissions [here](../../developers/tools/the-basics/permissions.md).
+Aragon Client DAOs have an access control system, where each action is protected by a set of permission records. Only someone who has specific permission can perform the action. You can read more about permissions [here](aragon-client/explore-template-dao/system-setting/permissions-setting.md).
 
 That is why we need to assign the MultiSig wallet to a range of permissions that correspond to the actions we want it to be able to perform.&#x20;
 
@@ -39,17 +39,21 @@ Follow the steps below to assign permission to a MultiSig or have a look at this
 
 7\. Revoke the undesirable permissions. To do so expand any permission and press onto the dustbin icon.&#x20;
 
+{% hint style="danger" %}
 **NB!**  Please be cautious, as incorrect permissions could make your DAO vulnerable or inaccessible.
+{% endhint %}
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/611275a7b37d837a3d0e2535/file-AecSpNvGSO.png)
 
-**Result:**
+#### **Result**
 
 ![Multisig Permissions](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/610d0ef364a230081ba1ce2f/file-aDCnpa7wjo.png)
 
+{% hint style="info" %}
 _Here we have assigned MutliSig permissions to manage payments and change voting support parameters within the DAO. However because we have kept voting as the Permission Manager, community members will be able to vote to remove these permissions effectively revoking this MultiSigs control over the DAO._
+{% endhint %}
 
-### Executing actions:
+### Executing actions
 
 1\. Go to [Gnosis Safe](https://gnosis-safe.io) website and connect to their DApp
 
@@ -92,7 +96,7 @@ You can find it on the _Organizations_ page of your DAO portal. Look at the _Ins
 
 9\. Press _Review_ and _Submit_. After enough people sign the transaction you will be able to view it on Etherscan and once it has been confirmed it should take effect on the DAO.
 
-### Possible Issues:
+### Possible Issues
 
 1. Make sure you have the permissions to invoke this method from the Gnosis Safe address
 2. If gas estimation has failed and you get warnings there has likely been a mistake either in permissions, method parameters or ABI and contract address. Please go through the setup again.
