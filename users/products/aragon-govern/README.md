@@ -1,5 +1,5 @@
 ---
-cover: ../../../.gitbook/assets/60a39be473bc185893775da8_govern.png
+cover: ../../../.gitbook/assets/Aragon Govern.png
 coverY: 0
 ---
 

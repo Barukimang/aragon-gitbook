@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/Join the fight.png
+coverY: 0
+---
+
 # Products
 
 {% hint style="info" %}
