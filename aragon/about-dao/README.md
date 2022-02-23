@@ -1,6 +1,6 @@
 ---
-cover: ../../.gitbook/assets/6188f268d468b5871e75420f_dao (1).png
-coverY: 19.22135706340378
+cover: ../../.gitbook/assets/6188f268d468b5871e75420f_dao.png
+coverY: 0
 ---
 
 # About DAOs
