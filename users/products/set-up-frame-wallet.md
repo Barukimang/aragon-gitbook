@@ -1,4 +1,4 @@
-# Set Up Frame Wallet
+# Set up Frame Wallet
 
 {% hint style="info" %}
 Important info: In this section, you will learn how to get started with Frame and interact with a DAO using a hardware wallet.
@@ -12,13 +12,25 @@ Go to the [Frame website](https://frame.sh) and install the Frame desktop client
 
 ## Setup
 
-> You need a Ledger or Trezor wallet to use Frame.&#x20;
+> You need a Metamask, Ledger, or Trezor wallet to use Frame.&#x20;
 
 Start by downloading Frame from the official website: [https://frame.sh](https://frame.sh). After installation Frame stays quietly in your menu bar until it's needed.
 
 ![](https://hack.aragon.org/docs/assets/frame/frame-intro.gif)
 
 ## Configure your device <a href="#configure-your-device" id="configure-your-device"></a>
+
+### **Metamask**
+
+To import your Metamask wallet into Frame:
+
+* Click on the _+_ button in the Accounts bar in top of the wallet
+* Click on the _add new accounts_ button in the frame which pop-ups on the right
+* Click on the _seed phrase_ button
+* Copy and paste the seed phrase from your Metamask wallet and click _next (see image below)_
+* Your Metamask wallet should now appear in the Frame wallet
+
+![](<../../.gitbook/assets/Screenshot 2022-02-23 at 17.04.36.png>)
 
 ### **Ledger**
 
@@ -48,13 +60,13 @@ For this tutorial we will select Rinkeby.
 
 ### **Accounts**
 
-The last step is to choose your account. Click on the configuration button (the button to the right of the Ledger or Trezor icon) and then click on the accounts button that pops up below the icon. This will display a new menu with the available accounts on your device for the network. Select one with some test ether (if you don't have any, you can request some via the [Rinkeby faucet](https://faucet.rinkeby.io)).
+The last step is to choose your account. Click on the configuration button (the button to the right of the Ledger or Trezor icon) and then click on the accounts button that pops up below the icon. This will display a new menu with the available accounts on your device for the network. Select one with some test-ether (if you don't have any, you can request a Rinkeby faucet [here](https://faucet.rinkeby.io) or [here](https://faucets.chain.link/rinkeby)).
 
 
 
 ![](https://hack.aragon.org/docs/assets/frame/frame-accounts.gif)
 
-In the configuration menu you can also manage the dapp permisions you have granted for that particular account. We'll explain more about this in [this section](../../developers/tools/guides/signers/frame.md).
+In the configuration menu you can also manage the Dapp permissions you have granted for that particular account. We'll explain more about this in [this section](../../developers/tools/guides/signers/frame.md).
 
 {% hint style="success" %}
 You are now finished setting up Frame for your device, and are ready to sign your first transaction!
