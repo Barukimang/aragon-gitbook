@@ -6,6 +6,8 @@ description: We value clear communication
 
 #### Clear communication is at the heart of Aragon, and various tools are used throughout the ecosystem to help connect the millions of people who have been engaged in some capacity.&#x20;
 
+Our expert community has spent thousands of hours collectively working to clarify and hone our vision and values - and here is a short list of ways for a newcomer to interface.
+
 Our expert community has spent thousands of hours collectively working to clarify and hone our vision and values - and here is a short list of ways for a newcomer to interface
 
 ### Starter for DAOists - start or join a DAO
