@@ -15,15 +15,15 @@ Here we are going to use Gnosis Safe MultiSig, however, you could follow a simil
 
 Aragon Client DAOs have an access control system, where each action is protected by a set of permission records. Only someone who has specific permission can perform the action. You can read more about permissions [here](https://hack.aragon.org/docs/acl-intro).
 
-That is why we need to assign the MultiSig wallet to a range of permissions that correspond to the actions we want it to be able to perform.
+That is why we need to assign the MultiSig wallet to a range of permissions that correspond to the actions we want it to be able to perform.&#x20;
 
 Follow the steps below to assign permission to a MultiSig or have a look at this [article](https://help.aragon.org/article/21-permissions):
 
-1\. Open your DAO portal and select the permissions tab on the left. Here you can examine the permissions you have within your DAO.
+1\. Open your DAO portal and select the permissions tab on the left. Here you can examine the permissions you have within your DAO.&#x20;
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/6112718fb55c2b04bf6dce7e/file-DCOHNWElgt.png)
 
-2\. To add a new one permission press the "New permission" button.
+2\.  To add a new one permission press the "New permission" button.
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/611272116ffe270af2a97627/file-D7HYuaQgTh.png)
 
@@ -35,15 +35,15 @@ Follow the steps below to assign permission to a MultiSig or have a look at this
 
 6\. Press "Add permission". This might create a vote depending on your DAO structure and who is this action's permission manager.
 
-7\. Revoke the undesirable permissions. To do so expand any permission and press onto the dustbin icon.
+7\. Revoke the undesirable permissions. To do so expand any permission and press onto the dustbin icon.&#x20;
 
-**NB!** Please be cautious, as incorrect permissions could make your DAO vulnerable or inaccessible.
+**NB!**  Please be cautious, as incorrect permissions could make your DAO vulnerable or inaccessible.
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/611275a7b37d837a3d0e2535/file-AecSpNvGSO.png)
 
 **Result:**
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/610d0ef364a230081ba1ce2f/file-aDCnpa7wjo.png)\_\_
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/610d0ef364a230081ba1ce2f/file-aDCnpa7wjo.png)__
 
 _Here we have assigned MutliSig permissions to manage payments and change voting support parameters within the DAO. However because we have kept voting as the Permission Manager, community members will be able to vote to remove these permissions effectively revoking this MultiSigs control over the DAO._
 
@@ -87,7 +87,7 @@ b. Select "Code"
 
 c. Locate "Contract ABI"
 
-d. Copy the ABI to the Gnosis Safe ABI input field
+d. Copy the ABI to the Gnosis Safe ABI input field &#x20;
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/610d12f1766e8844fc34e2d7/file-nCgkCpoDAD.png)
 
@@ -104,4 +104,4 @@ d. Copy the ABI to the Gnosis Safe ABI input field
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/611278276ffe270af2a97644/file-rxfkptmQt8.png)
 
-3\. If you are populating fractional numbers, add 18 zeros to the original value. For example, if you want to invoke **immediateTransfer** method that will transfer 10.5 tokens, you will have to input 10.5\*10^18 = 10500000000000000000 into the amount field.
+3\. If you are populating fractional numbers, add 18 zeros to the original value. For example, if you want to invoke **immediateTransfer** method that will transfer 10.5 tokens, you will have to input 10.5\*10^18 = 10500000000000000000 into the amount field.&#x20;

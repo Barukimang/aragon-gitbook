@@ -7,7 +7,7 @@
 * <mark style="color:blue;">**aragonID**</mark>: aragonID is a lightweight identity system using [ENS](http://ens.domains).
 * [**aragonOS**](https://hack.aragon.org/docs/aragonos-intro.html): Framework that enables flexible and upgradeable governance mechanisms by creating and assigning permissions to multiple entities.
 * [**aragonPM**](https://hack.aragon.org/docs/apm-intro.html): Decentralized package manager based on aragonOS that handles upgreadability of smart contracts and arbitrary data blobs, such as webapps.
-* <mark style="color:blue;">**aragonPM Repository**</mark>: Smart contract deployed inside aragonPM \*\*\*\* that keeps track of the versions for a package.
+* <mark style="color:blue;">**aragonPM Repository**</mark>: Smart contract deployed inside aragonPM **** that keeps track of the versions for a package.
 * [**aragonUI**](https://hack.aragon.org/docs/aragonui-intro.html): Aragon-native toolkit of UI components for decentralized apps.
 * <mark style="color:blue;">**Aragon apps**</mark>: Apps that use aragonOS, aragonAPI, and integrate inside the Aragon client.
 * [**Aragon client**](http://app.aragon.org): Client to interact with aragonOS-powered decentralized organizations. It implements a signer with transaction pathing, notifications and a sandboxed environment for aragonOS-based apps using aragonAPI.

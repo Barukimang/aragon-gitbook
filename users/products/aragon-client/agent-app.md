@@ -65,7 +65,7 @@ Select the acting address, choosing the address that holds your organization's v
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d8bdb0b2c7d3a7e9ae1a22a/file-sfavzdmwav.png)
 
-Your Aragon Agent will now show up in the list of available accounts to use with Frame:
+Your Aragon Agent will now show up in the list of available accounts to use with Frame:&#x20;
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d8bdb3b04286364bc8f9104/file-yCdIwFtn04.png)
 

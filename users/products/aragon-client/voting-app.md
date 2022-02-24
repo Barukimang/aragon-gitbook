@@ -50,7 +50,8 @@ The vote page tell you more detailed information about the status of a vote, suc
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d8a574c2c7d3a7e9ae18ff1/file-JwWUOOLDXB.png)
 
-\\
+\
+
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d8a57652c7d3a7e9ae18ff4/file-o96YChd3ub.png)
 

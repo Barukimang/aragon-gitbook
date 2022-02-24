@@ -15,7 +15,7 @@ The Token Balances section shows you the balance of each token owned by the orga
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d8a62772c7d3a7e9ae190b0/file-eLUV9SRU2y.png)
 
-[**3.4.2 Transfers**](broken-reference/)
+[**3.4.2 Transfers**](broken-reference)
 
 The Transfers section shows you a history of past transfers that have been made using the Finance app, including information about the date of the transfer, what address the transfer was to or from, a reference with additional context about the transfer, and the amount of the transfer.
 
@@ -45,7 +45,8 @@ And if you need to export your transfer history for accounting in a separate app
 
 To send funds to your organization, you can create a deposit using the Finance app. Click the "New Transfer" button, open the "Deposit" tab, select the token you want to deposit, enter the amount and an optional reference note, then click the "Submit deposit" button.
 
-_Note: For non-ETH tokens, two transactions may be required to make a deposit. The first transaction approves the Finance app to pull the deposit amount from your account balance, and the second transaction is the actual deposit transaction. This is a safety feature to prevent the Finance app from pulling more funds from your account than you have explicitly authorized._\\
+_Note: For non-ETH tokens, two transactions may be required to make a deposit. The first transaction approves the Finance app to pull the deposit amount from your account balance, and the second transaction is the actual deposit transaction. This is a safety feature to prevent the Finance app from pulling more funds from your account than you have explicitly authorized._\
+
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d8a631b2c7d3a7e9ae190c3/file-PVF6PN5gbK.png)
 

@@ -12,6 +12,6 @@ As mentioned in the earlier section [Anatomy of an Aragon Client DAO](../../../d
 * Finance
 * Agent (optional)
 
-There is a Marketplace where you can find more apps, such as Redemption, Payroll, Surveys.
+There is a Marketplace where you can find more apps, such as Redemption, Payroll, Surveys.&#x20;
 
 You can install multiple instances of any custom app, if this fits your use case.

@@ -5,7 +5,7 @@ coverY: 0
 
 # Templates
 
-Templates are pre-configured smart contracts for different types of organizations. You can use the templates that are included with Aragon or [create your own](https://github.com/aragon/dao-templates).
+Templates are pre-configured smart contracts for different types of organizations. You can use the templates that are included with Aragon or [create your own](https://github.com/aragon/dao-templates).&#x20;
 
 Aragon currently includes three templates:
 

@@ -5,7 +5,7 @@ coverY: 0
 
 # Explore template DAO
 
-In the previous article you have created a new DAO from Company template. Now, let us explore it.
+In the previous article you have created a new DAO from Company template. Now, let us explore it.&#x20;
 
 ## <mark style="color:purple;">**2.2.1 Home page**</mark>
 
@@ -19,9 +19,9 @@ Use the Tokens app to mint new tokens and assign them to yourself or other entit
 
 There are many reasons an organization might mint tokens for entities. Here are a few examples:
 
-* The organization commits to giving its workers a stake in the company e.g. half of the company tokens are held by workers and the other half by investors
+* The organization commits to giving its workers a stake in the company e.g. half of the company tokens are held by workers and the other half by investors&#x20;
 * The organization mints tokens to entities proportional to the amount of funds they have invested in the company
-* The organization mints a specific amount of tokens for an entity in exchange for a specific good or service
+* The organization mints a specific amount of tokens for an entity in exchange for a specific good or service&#x20;
 * The organization mints a fixed amount of tokens per month and distributes them proportionally to everyone who has contributed value to the organization that month
 
 ![](https://lh6.googleusercontent.com/Niwk5AKtUDLsG4vYnlxOTJJb0-vrvmC3rdSkpX3Tx\_4KSGNukuDbQqpfXb6UlRxPA827ygCyAJRqCrPeGl4rKzTAZ8kFfaL9d1cUTgANnqN8fluPY3ARjhG7bKJPsxGExSddBY\_D)
@@ -44,6 +44,8 @@ Even though you are the only tokenholder at this point, the Company organization
 
 Go to the Voting app, click on the "Mint tokens" proposal you just created, and vote "Yes" to approve minting and assigning the token.
 
+&#x20;
+
 ![](../../../.gitbook/assets/C5EDtiWbxdt4g2LojVhwXW7WjuqC440DnnZdOjHTWIxH5yegXiy7sB9g2iGdXNiN72uTnvqMA4BSCymcMNFo6ejQKHzG3zHViWVRZuMxLmDvTg\_WakrfgOUzfTn6YGwjXlslUphc.png)
 
 ![](https://lh6.googleusercontent.com/OYlBJ41umTMbdfMLqS9geT8ycshlmUfUgPHz6pNkg9cwIx3zNKAb8elnfw0QAKpo5N9rpah\_vExxl2lJYQG3ChtEK-5evFmrDG\_C92IUjn6\_Gt1\_WD8sP2ntGPaiVAeo4jZrQq1\_)
@@ -56,7 +58,7 @@ Go to the Voting app, click on the "Mint tokens" proposal you just created, and 
 
 Your organization just went from one to two members. A good start to a new Company organization!
 
-Note: If a vote is cast that causes the Approval % to be equal to or greater than the Support required (e.g. 60% required Support with current 65% Approval), then the proposition will be completed automatically. If the Approval % is less than the Support required (e.g. 60% required Support with current 40% Approval) then additional "no" votes could still stop the proposition from being passed. Thus the proposition will remain open until either the duration is reached or the Approval % is equal to or greater than the Support requirement.
+Note: If a vote is cast that causes the Approval % to be equal to or greater than the Support required (e.g. 60% required Support with current 65% Approval), then the proposition will be completed automatically. If the Approval % is less than the Support required (e.g. 60% required Support with current 40% Approval) then additional "no" votes could still stop the proposition from being passed. Thus the proposition will remain open until either the duration is reached or the  Approval % is equal to or greater than the Support requirement.&#x20;
 
 ![](https://lh4.googleusercontent.com/DOedZ-Oj8ettsh6BPRTs7e7aY9ubI8k\_1R9oYcVTdiDouLo3coVdYI4s8pGTtZdHqw65aS1JgJ4ZTdQT77Unz86R9BvorceFOaebefJP9u1UJ2pfMY71PPZEerI3uVcGD\_CW13UA)
 

@@ -49,7 +49,8 @@ _"Minimum Approval" is the percentage of the total token supply that is required
 
 _“Vote Duration” is the length of time that the vote will be open for participation. For example, if the Vote Duration is set to 24 hours, then tokenholders have 24 hours to participate in the vote. After the vote duration time has elapsed, if the vote does not meet the Minimum Approval or Support requirements, then it will automatically fail. Otherwise, the vote will be passed. This parameter cannot be changed after the organization is created._
 
-\\
+\
+
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d86246d04286364bc8f6509/file-gNMrRn48K4.png)
 
@@ -67,7 +68,8 @@ _Open each panel to make sure that the information entered to launch your organi
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d8624b704286364bc8f650b/file-IsP1SOVaHO.png)
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d8624bf2c7d3a7e9ae173e5/file-Qn8KEkg3If.png)
+![
+](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d8624bf2c7d3a7e9ae173e5/file-Qn8KEkg3If.png)
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d8624c604286364bc8f650c/file-Fqvyo6L3Kz.png)
 
@@ -75,7 +77,8 @@ _Open each panel to make sure that the information entered to launch your organi
 
 _Now you need to sign a transaction to create your organization. Open your Ethereum provider if the window does not open automatically. Click the "confirm" button in your Ethereum provider to sign and broadcast the transaction._
 
-\\
+\
+
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d8624d704286364bc8f650d/file-arEtXF8S0j.png)
 

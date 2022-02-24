@@ -9,7 +9,11 @@ The Aragon Association has a balanced portfolio of **$BTC, $ETH, $ANT, Altcoins,
 
 ### Our Coin Portfolio
 
+### Our Coin Portfolio
+
 The current portfolio composition is made up of predominantly **$ETH, $BTC, stable coins and other coins such as $ANT**. Decentralized coins make up **94%** of the portfolio, in line with the Aragon Association’s commitment to maintaining a high percentage of highly liquid, decentralized assets.&#x20;
+
+The Association is committed to keeping the treasury in assets that **drive decentralization**. The remaining portion of the portfolio has been diversified to protect against volatility in the market and maintain a stable cash balance to allow for the smooth running of the Aragon project. The Aragon Association has built a strong position in USDC. Further details may be requested from the team directly.
 
 The Association is committed to keeping the treasury in assets that **drive decentralization**. The remaining portion of the portfolio has been diversified to protect against volatility in the market and maintain a stable cash balance to allow for the smooth running of the Aragon project. The Aragon Association has built a strong position in USDC.&#x20;
 
