@@ -14,20 +14,14 @@ Anyone with an Ethereum address can:
 
 \*universally verifiable means that from process creation to vote recount, every operation is transparent and can be freely audited by a third party. Voters themselves can also check that their vote has been counted properly using their ballot receipt to query the [Vochain explorer](https://explorer.vote).
 
-Only **On-Chain Proposal creators** need to **pay the gas costs** of deploying the information to mainnet. **The votes** can be cast **without gas fees**.&#x20;
+Only On-Chain Proposal creators need to pay the gas costs of deploying the information to mainnet. The votes can be cast without gas fees.&#x20;
 
 Proposals are processed on Vochain (Aragon's layer 2 protocol) and vote metadata is stored on IPFS.&#x20;
 
 
 
-<mark style="color:blue;">**Vocdoni OpenStack**</mark>
-
-To power Aragon Voice, we are using the Vocdoni OpenStack: a fully anonymous voting protocol by design, ensuring data availability and censorship-resistant protocol communication.&#x20;
-
-This technology is also the base for layer-2 (L2), a voting-specific blockchain named Vochain, used for accounting ballots transparently.
+To power Aragon Voice, we are using the Vocdoni OpenStack: a fully anonymous voting protocol by design, ensuring data availability and censorship-resistant protocol communication. This technology is also the base for layer-2 (L2), a voting-specific blockchain named Vochain, used for accounting ballots transparently.
 
 The result is a completely permissionless, decentralized and highly scalable governance solution for DAOs and other initiatives that make use of ERC-20 tokens.
-
-
 
 Aragon Voice can be used for permissionless signalling but also for dispute resolution and deterministic on-chain execution, when combined with Aragon Court and Aragon Govern.

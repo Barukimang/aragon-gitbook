@@ -1,5 +1,5 @@
 ---
-cover: ../../../.gitbook/assets/Aragon Court.png
+cover: ../../../.gitbook/assets/05.png
 coverY: 0
 ---
 

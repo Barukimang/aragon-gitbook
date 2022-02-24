@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/6188f268d468b5871e75420f_dao.png
+cover: ../../.gitbook/assets/60a39b049c87fc8231ff46ae_Group 14264.png
 coverY: 0
 ---
 
