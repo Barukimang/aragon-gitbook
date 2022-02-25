@@ -5,7 +5,7 @@ coverY: 0
 
 # Agent App
 
-The _Agent app_ enables Aragon organizations to **interact** directly with any **other smart contract** on Ethereum.&#x20;
+The _Agent app_ enables Aragon organizations to **interact** directly with any **other smart contracts** on Ethereum.&#x20;
 
 Before Agent, an organization would have to nominate a trusted party to interact with an Ethereum smart contract on its behalf. For example, an organization would send some $DAI to one of its employees, who would then be trusted to lend the $DAI on Compound, earn interest, and then send the interest plus the principle back to the organization.&#x20;
 

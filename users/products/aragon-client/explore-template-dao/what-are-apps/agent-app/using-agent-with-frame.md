@@ -18,7 +18,7 @@ Your **acting account** is the account that holds at least one (or partial if it
 
 Open the Frame desktop app and click the _plus-sign_ button to add your acting account. You can add it using a hardware wallet or a hot wallet.&#x20;
 
-It is recommended that you use a hardware wallet but in this example, we will use a hot wallet since we are using the Rinkeby testnet and not real money on the Ethereum mainnet.
+It is recommended that you use a hardware wallet but in this example, we will use a hot wallet since we are using the Rinkeby Testnet and not real money on the Ethereum Mainnet.
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d8bd9702c7d3a7e9ae1a220/file-wPNVEoD1j4.png)
 

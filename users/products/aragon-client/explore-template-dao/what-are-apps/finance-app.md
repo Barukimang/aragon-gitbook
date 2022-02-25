@@ -7,9 +7,9 @@ coverY: 0
 
 The _Finance app_ is used to manage the financial resources of an organization. You can:
 
-* see **the balance** of each asset the organization owns,&#x20;
-* see a **history** of past transfers
-* create **new transfers** from the Finance app
+* See **the balance** of each asset the organization owns.
+* See a **history** of past transfers.
+* Create **new transfers** from the Finance app.
 
 ![](<../../../../../.gitbook/assets/Schermata 2022-02-09 alle 09.52.02.png>)
 
@@ -53,18 +53,18 @@ Follow these steps to create a new transfer from the Finance app:
 
 _Deposit Funds:_ to send funds to your organization, you can create a deposit using the Finance app:
 
-* click the _New Transfer_ button,&#x20;
-* open the _Deposit_ tab,&#x20;
-* select the token you want to deposit,&#x20;
-* enter the amount&#x20;
-* enter an (optional) reference note,&#x20;
-* then click the _Submit deposit_ button.
+* Click the _New Transfer_ button.
+* Open the _Deposit_ tab.
+* Select the token you want to deposit.&#x20;
+* Enter the amount.&#x20;
+* Enter an (optional) reference note.&#x20;
+* Then click the _Submit deposit_ button.
 
 {% hint style="info" %}
 _Note: For non-ETH tokens, two transactions may be required to make a deposit. The first transaction approves the Finance app to pull the deposit amount from your account balance, and the second transaction is the actual deposit transaction. This is a safety feature to prevent the Finance app from pulling more funds from your account than you have explicitly authorized._
 {% endhint %}
 
-**On testnet**: go to the Organizations app and press the _**Request test tokens**_ button. Open your Ethereum provider to sign and send the transaction. About a minute or so after your transaction is confirmed, test tokens will be available in the Finance app of your organization. You can then create a new transfer to send these tokens to another address.\
+**When on testnet**: go to the Organizations app and press the _**Request test tokens**_ button. Open your Ethereum provider to sign and send the transaction. About a minute or so after your transaction is confirmed, test tokens will be available in the Finance app of your organization. You can then create a new transfer to send these tokens to another address.\
 
 
 ![Deposit Funds - Finance App](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d8a631b2c7d3a7e9ae190c3/file-PVF6PN5gbK.png)
@@ -73,12 +73,12 @@ _Note: For non-ETH tokens, two transactions may be required to make a deposit. T
 
 _Withdrawal funds:_ to create a new transfer from your organization to another address, you can create a withdrawal using the Finance app:
 
-* click the _New Transfer_ button,&#x20;
-* open the _Withdrawal_ tab,&#x20;
-* enter the address you want to make the transfer to,&#x20;
-* enter what token you want to send,&#x20;
-* enter the amount of tokens you want to send.&#x20;
-* add (optionally) a reference note to provide more context for the transfer.&#x20;
+* Click the _New Transfer_ button.
+* Open the _Withdrawal_ tab.
+* Enter the address you want to make the transfer to.
+* Enter what token you want to send.
+* Enter the amount of tokens you want to send.&#x20;
+* Add (optionally) a reference note to provide more context for the transfer.&#x20;
 
 Once you have filled out all of this information you can click the _Submit transfer_ button to complete the action, if you have permission.
 

@@ -13,6 +13,12 @@ In this section, we will walk you through how to deploy a DAO using the Aragon C
 
 [Polygon](https://polygon.technology) is an [L2 scaling solution](https://ethereum.org/en/developers/docs/scaling/layer-2-rollups/) for Ethereum. It is a 'Proof of Stake' network, where users can transact with each other for fraction of the Mainnet transaction cost. Assets on Ethereum can be moved to Polygon and back again using [bridges](https://support.opensea.io/hc/en-us/articles/1500012881642-How-do-I-transfer-ETH-from-Ethereum-to-Polygon-). Ethereum fees are proportional to the complexity of the transaction but Polygon enables complex transactions for very low cost without leaving the Ethereum ecosystem. This is why Aragon has deployed its DAO infrastructure to Polygon, effectively reducing the cost of deploying a DAO from $500+ to a few cents.
 
+## Getting Started with the Polygon Testnet
+
+Connect your Web3 wallet to the Polygon Testnet and deposit "test-MATIC". How? [Here](../set-up-metamask/getting-started-with-mumbai-testnet.md) is a good guide.&#x20;
+
+Connect your Web3 wallet to the Harmony network and deposit at least 0.2 MATIC. How? [Here](../set-up-metamask/getting-started-with-harmony.md) is a good guide.&#x20;
+
 ## Getting Started with Polygon
 
 ### **Connect your Web3 wallet to the Polygon network**

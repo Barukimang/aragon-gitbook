@@ -3,16 +3,16 @@ cover: ../../../../../.gitbook/assets/03.png
 coverY: 0
 ---
 
-# Token App
+# Tokens App
 
 The Tokens app is used to **mint new tokens** and **assign** them to yourself or other entities. Tokens minted by the Tokens app **confer voting abilities** to holders of the tokens.
 
 There are many reasons an organization might mint tokens for entities. Here are a few examples:
 
-* The organization commits to giving its workers a stake in the company e.g. half of the company tokens are held by workers and the other half by investors&#x20;
-* The organization mints tokens to entities proportional to the amount of funds they have invested in the company
-* The organization mints a specific amount of tokens for an entity in exchange for a specific good or service&#x20;
-* The organization mints a fixed amount of tokens per month and distributes them proportionally to everyone who has contributed value to the organization that month
+* The organization commits to giving its workers a stake in the company e.g. half of the company tokens are held by workers and the other half by investors .
+* The organization mints tokens to entities proportional to the amount of funds they have invested in the company.
+* The organization mints a specific amount of tokens for an entity in exchange for a specific good or service .
+* The organization mints a fixed amount of tokens per month and distributes them proportionally to everyone who has contributed value to the organization that month.
 
 The Tokens app is used to **manage membership** and **voting power** in an organization. To add members to an organization, it’s as easy as minting and assigning a token to them.
 
@@ -32,9 +32,9 @@ In the _Holder_ section of the _Tokens_ app, you can see the current list of tok
 
 Clicking on the dropdown menu on one of the rows in the list will provide you options for:
 
-* assigning more tokens to that token holder (_Add tokens_ option)&#x20;
-* removing tokens from the token holder (_Remove tokens_ option)
-* editing a custom label (for more about this go [here](../home.md))
+* Assigning more tokens to that token holder (_Add tokens_ option).&#x20;
+* Removing tokens from the token holder (_Remove tokens_ option).
+* Editing a custom label (for more about this go [here](../home.md)).
 
 ![Tokens app view](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d867d622c7d3a7e9ae174be/file-dgpIXaBkm6.png)
 
@@ -43,8 +43,8 @@ Clicking on the dropdown menu on one of the rows in the list will provide you op
 In the _Token Info_ section you can see information about the token that is used for governance in your organization:
 
 * _Token supply_: how many tokens have been minted in total
-* _Transferable_: whether or not the token can be transferred to another entity after it has been assigned
-* _Token_: the token name and token symbol
+* _Transferable_: whether or not the token can be transferred to another entity after it has been assigned.
+* _Token_: the token name and token symbol.
 
 ![Token info view](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d867df22c7d3a7e9ae174bf/file-7fiikNO0jj.png)
 
@@ -60,8 +60,8 @@ If you need to add members to your organization and assign them DAO tokens, you 
 
 If you click the _Add Tokens_ button, a panel will open up with text fields for entering:
 
-* the _recipient_: the address of the entity you want to assign tokens to&#x20;
-* _number of tokens_: how many tokens you want to assign.&#x20;
+* The _recipient_: the address of the entity you want to assign tokens to.&#x20;
+* _Number of tokens_: how many tokens you want to assign.&#x20;
 
 After you enter this information, you can click the _Add tokens_ button in the panel to finish completing the action.
 

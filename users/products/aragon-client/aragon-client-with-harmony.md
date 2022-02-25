@@ -15,9 +15,9 @@ In this article, we will walk you through how to deploy DAOs on the Harmony test
 
 ## Introduction
 
-[Harmony.one](https://www.harmony.one) is an L2 Ethereum compatible blockchain network with broad compatibility, low costs, and [high transaction rates (allegedly up to 10M/sec)](https://medium.com/@aervinaervin/harmony-10million-transactions-per-second-e8161b7b7f61). It is an 'Effective Proof of Stake' network, where users can transact with each other for fraction of the Mainnet transaction costs. Assets on Ethereum can be moved to Harmony and back again using [bridges](https://docs.harmony.one/home/general/horizon-bridge/bridging-eth-one). By reducing the cost of deploying a DAO from $500+ to a few cents Aragon hopes to inspire hundreds of businesses and non-profits to enter into the Web3 economy.
+[Harmony.one](https://www.harmony.one) is an L2 Ethereum compatible blockchain network with broad compatibility, low costs, and [high transaction rates (allegedly up to 10M/ sec)](https://medium.com/@aervinaervin/harmony-10million-transactions-per-second-e8161b7b7f61). It is an 'Effective Proof of Stake' network, where users can transact with each other for fraction of the Mainnet transaction costs. Assets on Ethereum can be moved to Harmony and back again using [bridges](https://docs.harmony.one/home/general/horizon-bridge/bridging-eth-one). By reducing the cost of deploying a DAO from $500+ to a few cents Aragon hopes to inspire hundreds of businesses and non-profits to enter into the Web3 economy.
 
-## Getting your feet wet with the Harmony Testnet
+## Getting Started with Harmony Testnet
 
 Connect your Web3 wallet to the Harmony Testnet and deposit "test-ONE". How? [Here](../set-up-metamask/getting-started-with-harmony-testnet.md) is a good guide.&#x20;
 

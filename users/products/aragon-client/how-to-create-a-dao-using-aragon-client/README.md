@@ -12,7 +12,7 @@ In this section, you will learn how to create a DAO using the Aragon Client. In 
 
 ## How to create a DAO
 
-Login to your web3 wallet (aka metamask), select your account address and the network you want to use.
+Login to your Web3 wallet (e.g. Metamask), select your account address and the network you want to use.
 
 Go [here](https://aragon.org) and click the _Create your DAO_ button and then choose to use _Aragon Client._
 

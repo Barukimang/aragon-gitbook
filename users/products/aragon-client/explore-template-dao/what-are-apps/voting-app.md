@@ -48,8 +48,8 @@ The vote card tell you more detailed information about the status of a vote, suc
 * **The vote number**
 * **The question being voted on**
 * **What entity created the vote**
-* **Current votes**, showing how many tokens in total have so far voted yes and how many have voted no
-* **Time remaining**: how much time is left until the vote closes, should no other votes cast cause the vote to automatically pass.
+* **Current votes:** showing how many tokens in total have so far voted yes and how many have voted no
+* **Time remaining:** how much time is left until the vote closes, should no other votes cast cause the vote to automatically pass.
 * **Relative Support %**: what percent of voters are required to vote “yes” for the vote to pass, what percent of voters and how many tokens have voted “yes”, and what percent of voters and how many tokens have voted “no”.
 * **Minimum Approval %**: what percent of the total token supply is needed to vote “yes” for the vote to be valid, and what percent of the total token supply has voted “yes” so far.
 * **If you have not yet cast your vote**, buttons for voting “yes” or “no”.

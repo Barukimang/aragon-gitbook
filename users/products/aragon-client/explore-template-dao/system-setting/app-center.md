@@ -5,7 +5,7 @@ coverY: 0
 
 # App Center
 
-The _App Center_ has tabs for upgrading currently-installed apps and browsing apps that are currently in-development.&#x20;
+The _App Center_ has tabs for upgrading currently-installed apps and browsing apps which are currently available (not that some apps are _not maintained_ anymore to be recognized by a _not maintained_ label).
 
 To upgrade an existing app, simply click the _Upgrade app_ button and open a vote to upgrade the app if you do not have direct permission to upgrade the app.
 

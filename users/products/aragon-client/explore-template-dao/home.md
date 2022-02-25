@@ -15,15 +15,15 @@ The **Home page** welcomes you to your organization and offers you several optio
 
 The Home page is a simple landing page that shows you:
 
-* the **name of the organization** (on the top left) you have created and loaded,&#x20;
-* the **wallet address** and the **network** in use (on the top right),
-* as well as different actions that you can take using the **pre-installed apps** in your organization.&#x20;
+* The **name of the organization** (on the top left) you have created and loaded.
+* The **wallet address** and the **network** in use (on the top right).
+* As well as different actions that you can take using the **pre-installed apps** in your organization.
 
 You can also use the menu on the left-hand side of the screen to view the different **apps** that are currently installed for your organization.&#x20;
 
 In the example (shown in the image), the organization _camino.aragonid.eth_ has the **Token Manager, Voting, Finance**, and **Agent** apps installed, plus default **Permissions, App Center**, and **Organization** System apps.&#x20;
 
-So in this DAO we can perform the actions of assign _Tokens_, _Vote_, _Check Finance_, and _New Payment_.
+So in this DAO we can perform the actions of assign _Tokens_, _Vote_, _Check Finance_, and _Create Payments_.
 
 ![Aragon Client Home Page](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d86746c04286364bc8f65bf/file-xfmyJqyDNO.png)
 
@@ -35,7 +35,7 @@ Note that many of these features take advantage of the "local storage" in your b
 
 ### Network connection indicator
 
-The network connection indicator (located on the top right) will tell you if the Aragon client you are using is connected to one of the supported networks or not (either Ethereum, Polygon, Harmony, Rinkeby and so on).&#x20;
+The network connection indicator (located on the top right) will tell you if the Aragon client you are using is connected to one of the supported networks or not (either Ethereum, Polygon, Harmony, Rinkeby, and so on).&#x20;
 
 * If the node your Aragon client is connected to is having any issues then the light will turn red and indicate that the connection has failed.&#x20;
 * If the node your Aragon client is connected to is working properly, then the light will turn green and indicate that the client is successfully connected to the network.
@@ -112,6 +112,6 @@ On the left side bar click on the _System_ menu to reveal the System settings th
 * App Center
 * Organization
 
-For more info go about the settings go [here](https://app.gitbook.com/o/3h8kxj8geKVXgyMnGbYT/s/zhQIP88M8McmSaEGSymT/\~/changes/vX8aOKfWp1bYBMHIkTj7/users/products/aragon-client/system-menu).&#x20;
+For more info go about the settings go [here](system-setting/).&#x20;
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d86746c04286364bc8f65bf/file-xfmyJqyDNO.png)

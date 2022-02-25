@@ -8,7 +8,7 @@ In this section, you will learn how to create a Company DAO using the Company Te
 Before starting:  be sure to have read the "[How to create a DAO](./)" section.
 {% endhint %}
 
-A _Company_ organization is an organization that uses t**ransferable tokens** to represent stake in the company. Decisions are made using **token-weighted voting**, where one token equals one vote.
+A _Company_ organization is an organization that uses **transferable tokens** to represent stake in the company. Decisions are made using **token-weighted voting**, where one token equals one vote.
 
 ## Creating a Company DAO
 
@@ -26,19 +26,19 @@ Aragon uses the [Ethereum Name Service](https://ens.domains) (ENS) to assign nam
 
 Note: this name will be useful for accessing your DAO. Don't forget it!&#x20;
 
-![Select a DAO name.](<../../../../.gitbook/assets/Schermata 2022-02-04 alle 18.52.45.png>)
+![Select a DAO name](<../../../../.gitbook/assets/Schermata 2022-02-04 alle 18.52.45.png>)
 
 ## Configure the parameters of the Voting App
 
-_Note: The Voting app parameters currently cannot be changed from the Aragon frontend client. To change the Voting app parameters after your organization has been created, you must first initialize the permissions to change these parameters, then you can change the parameters using the_ [_aragonCLI_](https://hack.aragon.org/docs/cli-intro.html)_._
+_Note: The Voting app parameters currently cannot be changed from the Aragon front-end client. To change the Voting app parameters after your organization has been created, you must first initialize the permissions to change these parameters, then you can change the parameters using the_ [_aragonCLI_](https://hack.aragon.org/docs/cli-intro.html)_._
 
 Configure the voting settings. Select:
 
 * the S_upport_ percentage: is the relative percentage of tokens that are required to vote “Yes” for a proposal to be approved. For example, if “Support” is set to 50%, then more than 50% of the tokens used to vote on a proposal must vote “Yes” for it to pass.
-* the M_inimum Approval_ percentage: is the percentage of the total token supply that is required to vote “Yes” on a proposal before it can be approved. For example, if the “Minimum Approval” is set to 20%, then more than 20% of the outstanding token supply must vote “Yes” on a proposal for it to pass.
-* the V_ote Duratio_n: is the length of time that the vote will be open for participation. For example, if the Vote Duration is set to 24 hours, then token holders have 24 hours to participate in the vote.
+* the _Minimum Approval_ percentage: is the percentage of the total token supply that is required to vote “Yes” on a proposal before it can be approved. For example, if the “Minimum Approval” is set to 20%, then more than 20% of the outstanding token supply must vote “Yes” on a proposal for it to pass.
+* the _Vote Duratio_n: is the length of time that the vote will be open for participation. For example, if the Vote Duration is set to 24 hours, then token holders have 24 hours to participate in the vote.
 
-![Configure the Voting settings.](<../../../../.gitbook/assets/Schermata 2022-02-04 alle 19.01.42.png>)
+![Configure the Voting settings](<../../../../.gitbook/assets/Schermata 2022-02-04 alle 19.01.42.png>)
 
 ## Configure the parameters of the Token App
 
@@ -46,7 +46,7 @@ Choose a token name, a symbol, the tokenholders and the amount (_balance_) of to
 
 Note: The token name and symbol currently cannot be changed. Do not add more than a few tokenholders to your organization on this screen or the transaction to create your organization may fail; you can add more tokenholders after the organization has been created.
 
-![Token app settings.](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d8624862c7d3a7e9ae173e4/file-wSKI8WfAzK.png)
+![Token app settings](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d8624862c7d3a7e9ae173e4/file-wSKI8WfAzK.png)
 
 ## Review organization information
 
@@ -83,4 +83,4 @@ Now you can [explore your new Company organization](../explore-template-dao/).
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d8624ee04286364bc8f650e/file-a4bAYgLmxU.png)
 
-If your DAO doesn't open automatically, go [here](../../../../faq/products/aragon-client/where-is-my-dao.md) and find how to access.
+If your DAO doesn't open automatically, go [here](../../../../faq/products/aragon-client/where-is-my-dao.md) and find how to access it.
