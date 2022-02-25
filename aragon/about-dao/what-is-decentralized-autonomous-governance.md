@@ -5,8 +5,16 @@ coverY: 0
 
 # What is decentralized autonomous governance?
 
-Every centralized organization is controlled by an individual or a small group. They serve as a trusted middleman and ideally would act in the name of the shared interest. Yet most would only care about personal interest, which in that case would be 'a single point of failure'.&#x20;
+Every centralized organization is controlled by an individual or a small group. They serve as a trusted middleman and ideally would act in the name of the shared interest. Unfortunately these individuals or small groups sometimes put their own interests above the shared interest of the organisation they are supposed to serve. In this case they are a 'single point of failure' which causes the whole organisation to malfunction.
 
-Decentralized governance is here to fix the 'single point of failure' issue. Just like digital currencies revolutionised finance, it will do the same to governance. **Abolishing central authority**, the community looks after the organization. Only if the majority (how exactly this is to be calculated is decided per use case) agrees with an action, it will be enforced.
+Decentralized governance aims to fix the 'single point of failure' issue. How? It is basically decentralizing governance into the hands of all the organization members instead of an individual or small group. It is using transparent management of finance and efficient voting mechanisms to do so:
 
-Decentralized governance also reduces bureaucracy and speeds up innovation. No more single points of failure!
+| DAO                                                                                | A traditional organization                                                                       |
+| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| Voting required by members for any changes to be implemented.                      | Depending on structure, changes can be demanded from a sole party, or voting may be offered.     |
+| Votes tallied, and outcome implemented automatically without trusted intermediary. | If voting allowed, votes are tallied internally, and outcome of voting must be handled manually. |
+| All activity is transparent and fully public.                                      | Activity is typically private, and limited to the public.                                        |
+
+#### **References**
+
+[What are DAOs?](https://ethereum.org/en/dao/)
