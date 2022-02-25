@@ -16,3 +16,5 @@ The good news is, once you have loaded an organization, its data gets stored loc
 **"I waited and it still hasn't loaded!"**
 
 If you have waited longer than expected for an organization to load, and it still hasn't finished, try refreshing the page. Sometimes there might be a connectivity issue that is preventing the organization from loading, and refreshing will reset the network connection and help it load properly.
+
+If these actions are not helpful, your organization loading may be slow due to different reasons. For more information, review the [general troubleshooting tips.](https://app.gitbook.com/o/3h8kxj8geKVXgyMnGbYT/s/zhQIP88M8McmSaEGSymT/\~/changes/abgRqrELBOMTheWAlezk/faq/general-troubleshooting-tips)

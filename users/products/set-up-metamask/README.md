@@ -1,46 +1,50 @@
-# Set up Metamask
+# Set up Metamask Wallet
+
+{% hint style="info" %}
+In this section, you will learn how to set up a Metamask wallet and how to configure it on the different blockchains.
+{% endhint %}
 
 Where can I download the wallet? How can I set up it for the different networks? How to send funds to my wallet?&#x20;
 
-This section replies to all and other questions about your Web3 wallet:relaxed:.
+This section replies to all these and other questions about your Web3 wallet:relaxed:.
 
-We recommend using [MetaMask](https://metamask.io) as your Web3 wallet. Metamask is a browser plugin that lets you make Ethereum (and other blockchains) transactions through regular websites. ****&#x20;
+We recommend using [Metamask](https://metamask.io) as your Web3 wallet. Metamask is a browser plugin that lets you make Ethereum (and other blockchains) transactions through regular websites. ****&#x20;
 
-### Getting started <a href="#getting-started" id="getting-started"></a>
+## Getting started <a href="#getting-started" id="getting-started"></a>
 
 Visit the [Metamask homepage](https://metamask.io) and download the relevant browser extension (this guide will be based around the Chrome extension, but the process is similar for all browsers).
 
-Once it's downloaded, you should be automatically directed to a welcome page.
+Once it is downloaded, you should be automatically directed to a welcome page.
 
 ![Metamask welcome Page](https://hack.aragon.org/docs/assets/metamask-guide/m-0.png)
 
 Follow the instructions carefully. They should be pretty self-explanatory. If you need more info you can go [here](https://docs.polygon.technology/docs/develop/metamask/hello/).
 
-Once your MetaMask setup is complete, you should be redirected to your newly created Ethereum wallet.
+Once your Metamask setup is complete, you should be redirected to your newly created Ethereum wallet.
 
+![Metamask account](<../../../.gitbook/assets/mm account (1).png>)
 
+{% hint style="success" %}
+If you have made it this far, congratulations 🎉.
+{% endhint %}
 
-![](<../../../.gitbook/assets/mm account (1).png>)
+## Account address <a href="#account-address" id="account-address"></a>
 
-If you've made it this far, congratulations 🎉.
+If you click on the _Three Dots_ button below your account name - in our case _Account 1_ - a popup will appear with your account address. It should look something like this:
 
-### Account address <a href="#account-address" id="account-address"></a>
+> **0x931D387731bBbC988B312206c74F77D004D6B84b**
 
-If you click on the **Three Dots** button below your account name  - in my case Account 1 -  a popup will appear with your account address. It should look something like:
+This is your **public address** (or public key). You can share this with other people to receive ETH or other tokens.
 
-**0x931D387731bBbC988B312206c74F77D004D6B84b**
+## Selected networks <a href="#selected-networks" id="selected-networks"></a>
 
-This is your public address (or public key). You can share this with other people to receive ETH.
+In the top right you should see a dropdown menu with _**Main Ethereum Network**_ selected.
 
-### Selected networks <a href="#selected-networks" id="selected-networks"></a>
+With this option selected, you are able to interact directly with the main Ethereum blockchain. If you click on it however, you should see that you have the ability to select other networks.
 
-In the top right you should see a dropdown menu with **Main Ethereum Network** selected.
+![Drop down menu for selecting the network.](https://hack.aragon.org/docs/assets/metamask-guide/m-2.png)
 
-With this option selected, you're able to interact directly with the main Ethereum blockchain. If you click on it however, you should see that you have the ability to select other networks.
-
-![](https://hack.aragon.org/docs/assets/metamask-guide/m-2.png)
-
-Why would we need to select other networks? Simply put, before launching a project (or dapp) on the main Ethereum network, it's good practice to deploy a version to an Ethereum test network. Or, simply,  you want to use a network with save cost fees (like Polygon or Harmony).
+Why would we need to select other networks? Simply put, before launching a project (or Dapp) on the main Ethereum network, it is good practice to deploy a version to an Ethereum test network or on other main networks (like Polygon or Harmony) to save on costs for transaction fees.
 
 The main reason for using a testnet is that Testnet ETH can be obtained without having to pay real money. This gives developers and the community a chance to iron out any problems before real money is involved.
 
@@ -50,17 +54,6 @@ Don't worry about the precise differences between them at this stage. All you ne
 
 Finally, you can also interact with private Ethereum networks by selecting **Localhost 8545**. Private in this case doesn't mean more secure. It just means that the nodes are not connected to the main or test network nodes. Perfect for rapid experimentation and testing.
 
-Remember that if you want to use different networks, you need to set up your wallet and load your wallet with enough funds for paying the transaction fees.&#x20;
-
-#### &#x20;<a href="#account-address" id="account-address"></a>
-
-
-
-~~~~
-
-
-
-
-
-
-
+{% hint style="warning" %}
+Remember that if you want to use different networks, you need to set up your wallet and load your wallet with enough funds for paying the transaction fees. We will explain how to do this in the next sections.
+{% endhint %}

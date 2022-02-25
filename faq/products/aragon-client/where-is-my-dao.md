@@ -8,8 +8,8 @@ If the Dao creation process is well completed and the DAO was correctly deployed
 
 Copy and paste this URL to your browser:
 
-[https://client.aragon.org/#/](https://client.aragon.org/#/) <_**DAO name**_>
+[https://client.aragon.org/#/](https://client.aragon.org/#/)<**DAO name**>
 
-Note: <_**DAO name**_> is the name of your DAO that you have chosen during the Dao creation phase.
+Note: <**DAO name**> is the name of your DAO that you have chosen during the Dao creation phase.
 
-Don't forget to connect your web3 wallet to the network (aka the network where you have deployed your Dao) and to select the right wallet address account.
+Don't forget to connect your Web3 wallet to the network (aka the network where you have deployed your DAO) and also to select the correct wallet address account.

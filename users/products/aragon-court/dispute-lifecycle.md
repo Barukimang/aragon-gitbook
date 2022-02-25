@@ -7,7 +7,7 @@ coverY: 0
 
 The following guide aims to cover all the information you need to know as a guardian to understand a dispute's lifecycle and its related tasks so you can have the best experience possible using the Aragon Court Dashboard. For an overview of the Dashboard and its modules, [click here](https://help.aragon.org/article/42-aragon-court-dashboard).
 
-![](https://lh6.googleusercontent.com/wZNFNZPV4a\_pZBMJA4-vmFfv9GSB6YEysbFgEaaCOnwQTfEnfkiZML9K1v3XFqdhh0C2jGSnSgTzsr8YXTeF5W9BVyhZgXwnKSjeo\_M3uqMCcrJpj6Ld\_fmrjYKc76y8ENOtggqs)
+![](<../../../.gitbook/assets/Screenshot 2022-02-07 at 11.19.38 (1).png>)
 
 The Court's main unit of time is called a **term**, which is currently set to **eight hours**. Every time period in Aragon Court is composed of terms (e.g. the vote commit duration lasts six terms, or two days). The current term and its remaining time is always displayed at the top of the dashboard.
 
@@ -27,7 +27,7 @@ No action is required by guardians during this period.
 
 ### **Summoning Guardians**
 
-![](https://lh6.googleusercontent.com/61agOM4rpaMkT4m4FYZN57ksha0-oxWTPFnXqAjDS-cDUQnd7NnvXzNdaY857ciNOCKcsMiElcxFbvIvf0JKaOJ-HAGQnHxzpHYQ3A8XoK8xPL3W-lFuYdzU3xI3Y23lMWb\_EKW3)
+![](<../../../.gitbook/assets/Screenshot 2022-02-10 at 12.15.55.png>)
 
 After the evidence period is over, the first adjudication round is initiated and the Summon guardians period begins. The only task required during this period is to click on the Summon guardians button in the dispute page. Anybody can execute this task and receive a DAI reward proportional to the number of guardians being drafted. The current draft reward amount is [`Draft_Fee`](https://help.aragon.org/article/48-aragon-court-faq) per guardian.
 
@@ -36,7 +36,7 @@ Your chances of being drafted as a guardian are directly proportional to your ac
 **If you get selected as a guardian,** here are a few things you need to know:
 
 * You will receive an email notification containing information about the dispute and the next steps for you (if you subscribed to email notifications).
-* A portion of your active tokens will be locked until the final ruling is confirmed. The main purpose of locking your active tokens is to incentivize consensus decisions and honest behavior. The exact locked amount is equal to 30% of the minimum active balance for each time you get drafted. The minimum active balance is currently [`Min_Active_Balance`](https://help.aragon.org/article/48-aragon-court-faq), therefore the amount locked would be [`Min_Active_Balance x 0.3`](https://help.aragon.org/article/48-aragon-court-faq).&#x20;
+* A portion of your active tokens will be locked until the final ruling is confirmed. The main purpose of locking your active tokens is to incentivise consensus decisions and honest behavior. The exact locked amount is equal to 30% off the minimum active balance for each time you get drafted. The minimum active balance is currently [`Min_Active_Balance`](https://help.aragon.org/article/48-aragon-court-faq), therefore the amount locked would be [`Min_Active_Balance x 0.3`](https://help.aragon.org/article/48-aragon-court-faq).&#x20;
 * It's possible to get drafted multiple times for the same dispute, if there are appeal rounds. In that case, the amount locked will be multiplied by the number of times you are being drafted. The voting power will also be proportional to this number. For example, a guardian getting drafted twice for a dispute would have [`Min_Active_Balance x 0.3 x 2`](https://help.aragon.org/article/48-aragon-court-faq) locked and twice the normal voting weight.
 * **Neither your inactive tokens nor the tokens contained in your wallet will be locked, only a portion of your active tokens.**
 
@@ -44,7 +44,7 @@ Your chances of being drafted as a guardian are directly proportional to your ac
 
 The voting period is critical for a drafted guardian. What you must do within the allocated time is first to review the evidence, then to try anticipating what the voting decision of the plurality of guardians will be.
 
-This seems counterintuitive at first. Aragon Court is not exactly functioning like most legacy court systems in which every guardian is asked for their unbiased opinion. If this would be the case, it would be unfair to penalize the ruling minority. Instead, guardians are incentivized to reach consensus and are rewarded or penalized accordingly.
+This seems counterintuitive at first. Aragon Court is not exactly functioning like most legacy court systems in which every guardian is asked for their unbiased opinion. If this would be the case, it would be unfair to penalize the ruling minority. Instead, guardians are incentivised to reach consensus and are rewarded or penalized accordingly.
 
 Most importantly, it is essential to cast a vote since failing to do so will result in financial penalties for you.
 
@@ -52,7 +52,7 @@ Most importantly, it is essential to cast a vote since failing to do so will res
 
 The vote commit period lasts **two days**. Here are the steps required to cast a vote:
 
-**Select one of the three voting choices**
+**Select one of the three voting choices.**
 
 Three choices are available: voting to **Allow** the action being disputed, voting to **Block** the action, or **Refuse to vote**. You can choose to refuse to vote for many reasons, for example if you consider that the evidence was not conclusive enough or the description was incoherent. Remember that you should vote the way that you think a plurality of guardians will vote, since you will be penalized if your vote is in the minority.
 
@@ -66,19 +66,21 @@ To keep the votes secret until the end of the voting period, your vote will be c
 
 Click the **Commit your vote** button to send the transaction.
 
+
+
 **Leaking the secret one-time-use code**
 
-If you leak your one-time-use-code, either on accident or on purpose, you could be **penalized**. This will put you on the losing side of a dispute even if you cast your vote for the plurality outcome, and your locked tokens will be redistributed to the plurality guardians after the final ruling. This mechanism is in place to dis-incentivize cheating/ collusion among guardians.
+If you leak your one-time-use-code, either on accident or on purpose, you could be **penalized**. This will put you on the losing side of a dispute even if you cast your vote for the plurality outcome, and your locked tokens will be redistributed to the plurality guardians after the final ruling. This mechanism is in place to dis-incentivise cheating/ collusion among guardians.
 
 If another guardian leaks their one-time-use code then you can penalize them using the following steps (this will be added to the guardian dashboard for ease of use in the near future).
 
-Step 1. Visit the **"leak"** section of the Aragon Court ["write contract" page](https://etherscan.io/address/0x96D7B5E5372743Abc69d1eAc714e893fA71d3baa#writeContract) on Etherscan.
+Step 1. Visit the **"leak"** section of the Aragon Court ["write contract page"](https://etherscan.io/address/0x96D7B5E5372743Abc69d1eAc714e893fA71d3baa#writeContract) on Etherscan.
 
 Step 2. Fill out the form fields with the following information:
 
 * &#x20;\_voteId: enter the **vote ID** that the guardian is leaking their code for.
   * To get the vote ID, go to the Aragon Court subgraph ["Disputes and rounds with votes"](https://thegraph.com/explorer/subgraph/aragon/aragon-court?query=Disputes%20and%20rounds%20with%20votes) section, enter the Dispute # in place of "0" where it says {id\_in: \[0]}, then press Ctrl+Enter on your keyboard to execute the query. On the right side of the query box it will say "vote": "id": "0". In this case 0 is the vote ID. Note that the vote ID will be different for any dispute other than Dispute #0.
-* \_voter: the **Ethereum address** of the cheating guardian
+* \_voter: the **Ethereum address** of the cheating guardian.
 * \_outcome: the outcome the cheating guardian submitted. It can be a 2 (Refuse to rule), a 3 (Against), or a 4 (In favor).
 * \_salt: the **salt** the cheating guardian used to commit the vote
   * To get the salt, take the one-time-use code that was leaked and enter it as the "Input" on [this Keccak256 conversion tool](https://emn178.github.io/online-tools/keccak\_256.html) then press the "Hash" button. The result in the "Output" box is what you should copy/paste into the \_salt field.

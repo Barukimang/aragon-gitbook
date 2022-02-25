@@ -19,9 +19,9 @@ This will replace the Voting App with a cheaper governance mechanism that will a
 
 #### **Important: Please make sure both DAOs are on the same network.**
 
-3\. Grant the Govern Executor address desired permissions within the Aragon Client DAO. Follow [this](https://help.aragon.org/article/21-permissions) article to learn how to do this. You should grant the permissions you want the Aragon Govern DAO to be able to schedule execution for.&#x20;
+3\. Grant the Govern Executor address desired permissions within the Aragon Client DAO. Follow [this](../aragon-client/explore-template-dao/system-setting/permissions-setting.md) article to learn how to do this. You should grant the permissions you want the Aragon Govern DAO to be able to schedule execution for.&#x20;
 
-If you want to replace the governance mechanism, then grant the Govern Executor the same set of permissions that the Voting App currently has and then revoke the Voting App's permissions. I would not recommend changing the Permission Manager from the Voting App as it will make setting up permissions complicated in the future.
+If you want to replace the governance mechanism, then grant the Govern Executor the same set of permissions that the Voting App currently has and then revoke the Voting App's permissions. We would not recommend changing the Permission Manager from the Voting App as it will make setting up permissions complicated in the future.
 
 To get the Govern Executor Address:
 
@@ -35,15 +35,15 @@ To get the Govern Executor Address:
 
 ### Linked Execution:
 
-1\. Go to your Aragon Govern DAO and press "New Transaction"
+1\. Go to your Aragon Govern DAO and press _New Transaction_
 
-2\. Populate "Title" and "Justification" fields
+2\. Populate _Title_ and _Justification_ fields
 
-3\. Press the "Add new transaction" button
+3\. Press the _Add new transaction_ button
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/61127d6664a230081ba1dc1f/file-aOxPU2RNOl.png)
 
-4\. Select the "External Contract" option
+4\. Select the _External Contract_ option
 
 5\. Enter "0x4c0960a290be920c92c5c2538e6d9d9e4d50e397" or any other unverified contract from Etherscan. We will change it later.&#x20;
 
@@ -51,35 +51,37 @@ This is a workaround due to current Govern UI limitations. Hopefully, in the fut
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/61127efa6ffe270af2a9766e/file-lPh3S1aIUP.png)
 
-6\. When prompted with an "Input contract address" change it with the address of the App from the Aragon Client DAO you would like to interact with.
+6\. When prompted with an _Input contract address_ change it with the address of the App from the Aragon Client DAO you would like to interact with.
 
-You can find it on the "Organisations" page of your DAO portal. Look at the "INSTALLED ARAGON APPS" section there.
+You can find it on the _Organisations_ page of your DAO portal. Look at the "INSTALLED ARAGON APPS" section there.
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/610d1014766e8844fc34e2cd/file-8cuqErvYC1.png)
 
-7\. Into the "Input function ABI" field enter the ABI obtained with the following steps:
+7\. Into the _Input function ABI_ field enter the ABI obtained with the following steps:
+
+
 
 1\. Find the base contract of the selected Aragon App that you would like to interact with&#x20;
 
 a. Open the address that you have used in step 4 on [Etherscan](https://etherscan.io).&#x20;
 
-b. Go to "Contract"&#x20;
+b. Go to _Contract_
 
-c. Select "Read contract"&#x20;
+c. Select _Read contract_
 
-d. Expand "Implementation"&#x20;
+d. Expand _Implementation_&#x20;
 
-e. Open the address that appeared under "implementation" on [Etherscan](https://etherscan.io).&#x20;
+e. Open the address that appeared under _implementation_ on [Etherscan](https://etherscan.io).&#x20;
 
 ![](../../../.gitbook/assets/file-g3POvBnP7e.png)
 
 2\. Copy the ABI of the opened address to the field in Step 5&#x20;
 
-a. Go to "Contract"&#x20;
+a. Go to _Contract_
 
-b. Select "Code"&#x20;
+b. Select _Code_&#x20;
 
-c. Locate "Contract ABI"&#x20;
+c. Locate _Contract ABI_&#x20;
 
 d. Copy the ABI to the Govern Form ABI input field&#x20;
 
@@ -89,9 +91,9 @@ e. You should see a page similar to the following
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/611280b56ffe270af2a97676/file-PXPncUqoqC.png)
 
-8\. Press the "Select" button and select the method you would like to invoke on the Client DAO App, then press "Select".
+8\. Press the _Select_ button and select the method you would like to invoke on the Client DAO App, then press _Select_.
 
-Here we will interact with the "Finance" app and we have selected to create a new payout from the Client DAO vault.
+Here we will interact with the _Finance_ app and we have selected to create a new payout from the Client DAO vault.
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/611281d4b55c2b04bf6dcede/file-bLujO4lFMW.png)
 
@@ -99,7 +101,7 @@ Here we will interact with the "Finance" app and we have selected to create a ne
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/61128276b37d837a3d0e2588/file-xmRD6BPguS.png)
 
-10\. Press the "Add new transaction" button you would like to add more contract interactions to this proposal. Otherwise, press the "Schedule" button.
+10\. Press the _Add new transaction_ button you would like to add more contract interactions to this proposal. Otherwise, press the "Schedule" button.
 
 11\. Once the challenge period is over, you will be able to execute the actions that will take effect on the Aragon Client DAO.
 

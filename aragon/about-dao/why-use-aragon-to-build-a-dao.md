@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/02.png
+cover: ../../.gitbook/assets/6188f268d468b5871e75420f_dao.png
 coverY: 0
 ---
 
@@ -7,6 +7,6 @@ coverY: 0
 
 Aragon is the major player in building DAOs on **Ethereum and other blockchains**. Most of the DAOs currently operational are either built directly on Aragon or have forked Aragon source code.&#x20;
 
-As Aragon is largely community-driven, our users always have a say on how the platform evolves. Aragon is transparent. You can talk to developers in Discord or on our forum and ask any outstanding questions.
+As Aragon is largely community-driven, our users always have a say on how the platform evolves. Aragon is transparent. You can talk to developers in Discord or on our forum and ask any question.
 
-Finally, Aragon offers friendly guides on how to build DAOs and a welcoming community that will help you out with advice. And if you are not confident, you can always hire an Aragon Expert, that will tailor a DAO to best fit your needs.
+Finally, Aragon offers user-friendly guides on how to build DAOs and a welcoming community that will help you out with advice. And if you are not confident, you can always hire an Aragon Expert, that will tailor a DAO to best fit your needs.
