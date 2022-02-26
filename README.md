@@ -26,7 +26,9 @@ The Aragon Network DAO consists of a Main DAO and three satellite organizations:
 If you're new to this ecosystem, don't worry if some (or all) of the above sounded a bit abstract. You can think of Aragon as **providing the lego pieces** to allow people (like you) to build the **next generation of human organizations**.[NextCommunicating values](https://app.gitbook.com/o/3h8kxj8geKVXgyMnGbYT/s/zhQIP88M8McmSaEGSymT/\~/changes/CPFwMGGx8RKICpM5s9Es/aragon/readme/communicating-values).
 
 {% hint style="success" %}
-Leave your comments here at our Discourse forum :arrow\_double\_down:
+Leave your comments here at our Discourse forum&#x20;
+
+:arrow\_double\_down::arrow\_double\_down::arrow\_double\_down::arrow\_double\_down::arrow\_double\_down::arrow\_double\_down::arrow\_double\_down::arrow\_double\_down::arrow\_double\_down::arrow\_double\_down::arrow\_double\_down::arrow\_double\_down::arrow\_double\_down::arrow\_double\_down::arrow\_double\_down::arrow\_double\_down::arrow\_double\_down::arrow\_double\_down::arrow\_double\_down::arrow\_double\_down:
 {% endhint %}
 
 {% embed url="https://aragon-test.trydiscourse.com" %}
