@@ -17,7 +17,7 @@ These tools help people to freely organize **across borders** and **without inte
 
 Organizations that can be spun up instantly, that can't be shut down by governments, that are resistant to internet censorship, and that allows small groups of people to collaborate effectively.
 
-The Aragon Network DAO is a [decentralized autonomous organization](https://en.wikipedia.org/wiki/Decentralized\_autonomous\_organization) that was established by the Aragon Association after a public vote of $ANT holders on the Aragon Network Charter[ ](https://en.wikipedia.org/wiki/Draft:Aragon\_\(organization\)#cite\_note-6)in October 2021. The AN DAO is intended to be the vehicle for the Aragon project after the dissolution of the Aragon Association.
+The Aragon Network DAO (AN DAO) is a [decentralized autonomous organization](https://en.wikipedia.org/wiki/Decentralized\_autonomous\_organization) that was established by the Aragon Association after a public vote of $ANT holders on the Aragon Network Charter[ ](https://en.wikipedia.org/wiki/Draft:Aragon\_\(organization\)#cite\_note-6)in October 2021. The AN DAO is intended to be the vehicle for the Aragon project after the dissolution of the Aragon Association.
 
 Aragon takes care of the most important pieces of infrastructure to deliver censorship-resistant, decentralized and upgradeable apps.
 
