@@ -8,7 +8,7 @@ The first step is to open up the Metamask browser extension and login. If you ar
 
 If you can't see it, [click here](https://chrome.google.com/webstore/search/metamask). This will open up an interface to your Ethereum wallet. Set up your wallet as described [here](./).
 
-In the Metamask wallet, select the network and the account you want to use. Access your DAO, connect your Metamask wallet, and interact to the DAO with an action.&#x20;
+In the Metamask wallet, select the network and the account you want to use. Access your DAO, connect your Metamask wallet, and interact to the DAO with an action (for example: adding a new member in the Token App).&#x20;
 
 In the following example, we will add a new token and we will show how to sign the transaction to finalize this. If you need help on "How to add tokens to your Dao" please go [here](../aragon-client/explore-template-dao/what-are-apps/token-app.md).&#x20;
 
