@@ -2,8 +2,6 @@
 
 Your Ethereum provider (also called Metamask) _should_ pre-fill the correct gas limit and gas price, but sometimes it will pre-fill the amounts too low which causes transactions to execute very slow or even not at all.
 
-Your Ethereum provider (aka metamask) _should_ pre-fill the correct gas limit and gas price, but sometimes it will pre-fill the amounts too low.
-
 You can check yourself which is the best gas price to set and adjust it in the transaction settings of your wallet during the transaction approval process:
 
 * Mainnet - [https://etherscan.io/gastracker](https://etherscan.io/gastracker)
