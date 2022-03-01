@@ -57,3 +57,9 @@ Finally, you can also interact with private Ethereum networks by selecting **Loc
 {% hint style="warning" %}
 Remember that if you want to use different networks, you need to set up your wallet and load your wallet with enough funds for paying the transaction fees. We will explain how to do this in the next sections.
 {% endhint %}
+
+
+
+> #### <mark style="color:purple;">Do you have a question? Leave your comments here at our Discourse forum</mark> 👇
+
+{% embed url="https://aragontesting.trydiscourse.com/t/web-3-metamask-wallet/15" %}

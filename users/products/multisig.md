@@ -3,7 +3,7 @@ cover: ../../.gitbook/assets/03.png
 coverY: 0
 ---
 
-# Set up a MultiSig wallet
+# Set up MultiSig wallet
 
 {% hint style="info" %}
 In this section, we will look into how Aragon Client DAOs can be managed by a MultiSig wallet.
@@ -106,3 +106,10 @@ You can find it on the _Organizations_ page of your DAO portal. Look at the _Ins
 3\. If you are populating fractional numbers, add 18 zeros to the original value. For example, if you want to invoke **immediateTransfer** method that will transfer 10.5 tokens, you will have to input 10.5\*10^18 = 10500000000000000000 into the amount field.&#x20;
 
 4\. If the ABI is not displaying on one network (Rinkeby e.g.), get the similar ABI from another DAO on a different network (Ethereum Mainnet e.g.).
+
+
+
+> #### <mark style="color:purple;">Do you have a question? Leave your comments here at our Discourse forum</mark> 👇
+
+{% embed url="https://aragontesting.trydiscourse.com/t/web3-multisig-wallet/17" %}
+
