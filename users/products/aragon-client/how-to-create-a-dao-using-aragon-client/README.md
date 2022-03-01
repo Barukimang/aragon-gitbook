@@ -29,3 +29,9 @@ For more details about the different Templates go [here](https://app.gitbook.com
 * If you have selected Company template go [here](use-company-template.md).
 * If you have selected Membership template go [here](use-membership-template.md).
 * If you have selected Reputation template go [here](page-1.md).
+
+
+
+> #### <mark style="color:purple;">Do you have a question? Leave your comments here at our Discourse forum</mark> 👇
+
+{% embed url="https://aragontesting.trydiscourse.com/t/aragon-client-create-a-dao/19" %}
