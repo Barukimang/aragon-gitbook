@@ -23,5 +23,3 @@ Clear communication is at the heart of Aragon, and various tools are used throug
 * Aragon Github - Open source GPL goodness: [https://github.com/aragon](https://github.com/aragon)
 * Aragon Discord [#questions](https://discord.gg/XgCeeKYd) and [#dev-space](https://discord.gg/nSDwG5tf) channels
 * Technical Forum: [https://forum.aragon.org/c/product/13](https://forum.aragon.org/c/product/13)
-
-{% embed url="https://codepen.io/barukimang/pen/OJOWxga" %}
