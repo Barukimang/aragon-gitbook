@@ -14,3 +14,7 @@ To upgrade an existing app, simply click the _Upgrade app_ button and open a vot
 ![Example of App details (Agent installed on the DAO)](../../../../../.gitbook/assets/file-nfkS8rXd3C.png)
 
 ![Apps that can be installed on the DAO](<../../../../../.gitbook/assets/file-Z7YN9k6LKs (1).png>)
+
+
+
+> #### <mark style="color:purple;">Do you have a question? Leave your comments here at our Discourse forum</mark> 👇
