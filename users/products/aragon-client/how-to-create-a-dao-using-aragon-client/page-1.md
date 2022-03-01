@@ -85,3 +85,7 @@ Now you can [explore your new Reputation organization.](../explore-template-dao/
 ![](<../../../../.gitbook/assets/Schermata 2022-02-10 alle 15.17.04.png>)
 
 If your DAO doesn't open automatically, go [here](../../../../faq/products/aragon-client/where-is-my-dao.md) and find how to access.
+
+
+
+> #### <mark style="color:purple;">Do you have a question? Leave your comments here at our Discourse forum</mark> 👇

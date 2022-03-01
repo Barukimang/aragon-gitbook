@@ -35,8 +35,3 @@ Connect your Web3 wallet to the Polygon network and deposit at least 0.2 MATIC. 
 2. Click _Create an Organization_ and follow [this tutorial](how-to-create-a-dao-using-aragon-client/) that will run you through the creation process
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/6139f3ebd3b029285070f569/file-MSqrvMAds0.png)
-
-> #### <mark style="color:purple;">Do you have a question? Leave your comments here at our Discourse forum</mark> 👇
-
-{% embed url="https://aragontesting.trydiscourse.com/t/aragon-client-create-a-dao-on-polygon/21" %}
-

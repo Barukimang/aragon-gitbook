@@ -1,4 +1,4 @@
-# Use the Company Template
+# Using the Company Template
 
 {% hint style="info" %}
 In this section, you will learn how to create a Company DAO using the Company Template in the Aragon Client.&#x20;
@@ -84,3 +84,7 @@ Now you can [explore your new Company organization](../explore-template-dao/).
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d8624ee04286364bc8f650e/file-a4bAYgLmxU.png)
 
 If your DAO doesn't open automatically, go [here](../../../../faq/products/aragon-client/where-is-my-dao.md) and find how to access it.
+
+
+
+> #### <mark style="color:purple;">Do you have a question? Leave your comments here at our Discourse forum</mark> 👇

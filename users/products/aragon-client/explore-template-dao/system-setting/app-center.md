@@ -18,3 +18,5 @@ To upgrade an existing app, simply click the _Upgrade app_ button and open a vot
 
 
 > #### <mark style="color:purple;">Do you have a question? Leave your comments here at our Discourse forum</mark> 👇
+
+{% embed url="https://aragontesting.trydiscourse.com/t/aragon-client-navigate-your-dao-app-center-settings/30" %}

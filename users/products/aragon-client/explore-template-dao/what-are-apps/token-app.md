@@ -92,9 +92,3 @@ Your organization just went from one to two members. A good start to a new Compa
 Note: If a vote is cast that causes the Approval % to be equal to or greater than the Support required (e.g. 60% required Support with current 65% Approval), then the proposition will be completed automatically. If the Approval % is less than the Support required (e.g. 60% required Support with current 40% Approval) then additional "no" votes could still stop the proposition from being passed. Thus the proposition will remain open until either the duration is reached or the  Approval % is equal to or greater than the Support requirement.&#x20;
 
 ![](https://lh4.googleusercontent.com/DOedZ-Oj8ettsh6BPRTs7e7aY9ubI8k\_1R9oYcVTdiDouLo3coVdYI4s8pGTtZdHqw65aS1JgJ4ZTdQT77Unz86R9BvorceFOaebefJP9u1UJ2pfMY71PPZEerI3uVcGD\_CW13UA)
-
-
-
-> #### <mark style="color:purple;">Do you have a question? Leave your comments here at our Discourse forum</mark> 👇
-
-{% embed url="https://aragontesting.trydiscourse.com/t/aragon-client-navigate-your-dao-token-app/26" %}

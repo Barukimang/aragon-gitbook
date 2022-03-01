@@ -103,9 +103,3 @@ In this case, the other tokenholder in the organization supports the proposal an
 Since there are only two tokenholders in this organization, and the Support parameter is set to 50%, the unanimous vote on the proposal has resulted in the proposal being passed.
 
 ![](https://lh5.googleusercontent.com/s3ZFomLX49IX0uwO-cQESFA6b2TtIWoFm2yF6E\_i5EbRAW-wBkYSUwqBnAAH70Sq\_AAvoElR7s0\_R5\_kQcTxzXgro3bs\_dscBn4NfZlYvY9GpzPQs6acQbt0gul29-OO6lL28DWU)
-
-
-
-> #### <mark style="color:purple;">Do you have a question? Leave your comments here at our Discourse forum</mark> 👇
-
-{% embed url="https://aragontesting.trydiscourse.com/t/aragon-client-navigate-your-dao-voting-apps/24" %}
