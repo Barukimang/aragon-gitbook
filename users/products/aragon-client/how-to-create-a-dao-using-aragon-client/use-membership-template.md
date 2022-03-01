@@ -96,3 +96,4 @@ If your DAO doesn't open automatically, go [here](../../../../faq/products/arago
 
 > #### <mark style="color:purple;">Do you have a question? Leave your comments here at our Discourse forum</mark> 👇
 
+{% embed url="https://aragontesting.trydiscourse.com/t/aragon-client-membership-templates/34" %}
