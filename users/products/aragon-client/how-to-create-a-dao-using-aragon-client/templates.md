@@ -22,3 +22,9 @@ This section will walk you through examples of how you can use these templates a
 {% hint style="warning" %}
 _Note: If the default templates don't give you exactly what you want for your organization, you can set up a_ [_development environment_](https://hack.aragon.org/docs/getting-started#environment-setup) _and use the_ [_aragonCLI_](https://hack.aragon.org/docs/cli-intro) _to_ [_create a custom organization_](https://hack.aragon.org/docs/guides-custom-deploy)_._
 {% endhint %}
+
+
+
+> #### <mark style="color:purple;">Do you have a question? Leave your comments here at our Discourse forum</mark> 👇
+
+{% embed url="https://aragontesting.trydiscourse.com/t/aragon-client-templates/20" %}

@@ -53,6 +53,7 @@
         * [Permissions Setting](users/products/aragon-client/explore-template-dao/system-setting/permissions-setting.md)
         * [App Center](users/products/aragon-client/explore-template-dao/system-setting/app-center.md)
         * [Organization Setting](users/products/aragon-client/explore-template-dao/system-setting/organization-setting.md)
+    * [Things to do after you've started a DAO](users/products/aragon-client/things-to-do-after-youve-started-a-dao.md)
   * [Aragon Govern](users/products/aragon-govern/README.md)
     * [What is Aragon Govern?](users/products/aragon-govern/what-is-aragon-govern.md)
     * [How to create an Aragon Govern DAO](users/products/aragon-govern/how-do-i-create-an-aragon-govern-dao.md)
@@ -76,7 +77,6 @@
     * [Aragon Court Glossary](users/products/aragon-court/aragon-court-glossary.md)
     * [Aragon Court Troubleshooting](users/products/aragon-court/aragon-court-troubleshooting.md)
     * [Aragon Court FAQ](users/products/aragon-court/aragon-court-faq.md)
-  * [Things to do after you've started a DAO](users/products/things-to-do-after-youve-started-a-dao.md)
 
 ## 🛠 Developers
 

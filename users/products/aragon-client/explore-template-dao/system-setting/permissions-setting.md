@@ -132,3 +132,8 @@ _Note: **“Support”** is the percentage of votes on a proposal that the total
 
 {% embed url="https://youtu.be/kMF7Y_KPm-4?t=666" %}
 
+
+
+> #### <mark style="color:purple;">Do you have a question? Leave your comments here at our Discourse forum</mark> 👇
+
+{% embed url="https://aragontesting.trydiscourse.com/t/aragon-client-navigate-your-dao-permissions-settings/29" %}

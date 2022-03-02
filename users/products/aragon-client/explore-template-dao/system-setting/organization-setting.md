@@ -13,3 +13,9 @@ _Note: Do not send any tokens to your organization's app addresses. If you want 
 
 
 ![Apps smart contracts](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d8a6c8804286364bc8f8165/file-8w15BGoHek.png)
+
+
+
+> #### <mark style="color:purple;">Do you have a question? Leave your comments here at our Discourse forum</mark> 👇
+
+{% embed url="https://aragontesting.trydiscourse.com/t/aragon-client-navigate-your-dao-permissions-settings/29" %}
