@@ -77,6 +77,7 @@
     * [Aragon Court Glossary](users/products/aragon-court/aragon-court-glossary.md)
     * [Aragon Court Troubleshooting](users/products/aragon-court/aragon-court-troubleshooting.md)
     * [Aragon Court FAQ](users/products/aragon-court/aragon-court-faq.md)
+  * [Aragon Vocdoni](users/products/aragon-vocdoni.md)
 
 ## 🛠 Developers
 
