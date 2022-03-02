@@ -74,7 +74,6 @@
     * [Aragon Court Dashboard](users/products/aragon-court/aragon-court-dashboard.md)
     * [Dispute lifecycle](users/products/aragon-court/dispute-lifecycle.md)
     * [Acting as guardian for an Aragon Govern dispute](users/products/aragon-court/acting-as-guardian-for-an-aragon-govern-dispute.md)
-    * [Aragon Court Glossary](users/products/aragon-court/aragon-court-glossary.md)
     * [Aragon Court Troubleshooting](users/products/aragon-court/aragon-court-troubleshooting.md)
     * [Aragon Court FAQ](users/products/aragon-court/aragon-court-faq.md)
   * [Aragon Vocdoni](users/products/aragon-vocdoni.md)
@@ -312,4 +311,5 @@
 
 * [Glossary](glossary/glossary/README.md)
   * [Aragon Client](glossary/glossary/aragon-client.md)
+  * [Aragon Court](glossary/glossary/aragon-court-glossary.md)
 * [Useful Links](glossary/useful-links.md)

@@ -1,11 +1,11 @@
 ---
-cover: ../../../.gitbook/assets/05.png
+cover: ../../.gitbook/assets/05.png
 coverY: 0
 ---
 
-# Aragon Court Glossary
+# Aragon Court
 
-_Find below a list of unique terms that you may encounter when using Aragon Court. You can learn more about these concepts and why they matter to you as an Aragon Court user by reading through the rest of the_ [_Aragon Court documentation_](https://help.aragon.org/category/47-aragoncourt)_._
+_Find below a list of unique terms that you may encounter when using Aragon Court. You can learn more about these concepts and why they matter to you as an Aragon Court user by reading through the rest of the_ [_Aragon Court documentation_](../../users/products/aragon-court/)_._
 
 ### **Appeal**
 
