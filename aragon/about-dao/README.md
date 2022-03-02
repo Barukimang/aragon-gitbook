@@ -18,3 +18,9 @@ DAO (_acronym_) = **Decentralized Autonomous Organization**
 ****
 
 The term **DAO** is constantly evolving. It can be perceived differently by anyone. By reading this part of the documentation, you will gain proper understanding of how Aragon perceives a DAO. Consequently, it will improve your overall experience with our products.
+
+
+
+> #### <mark style="color:purple;">Leave your comments here at the Aragon forum</mark> 👇
+
+{% embed url="https://forum.aragon.org/categories" %}

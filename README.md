@@ -27,7 +27,6 @@ If you're new to this ecosystem, don't worry if some (or all) of the above sound
 
 
 
-> #### <mark style="color:purple;">Leave your comments here at our Discourse forum</mark> 👇
+> #### <mark style="color:purple;">Leave your comments here at the Aragon forum</mark> 👇
 
-{% embed url="https://aragontesting.trydiscourse.com/t/aragon-values-finances-and-legal/13" %}
-
+{% embed url="https://forum.aragon.org/categories" %}
