@@ -5,10 +5,6 @@ coverY: 678.9988876529476
 
 # Aragon Values, Finances, and Legal
 
-{% hint style="info" %}
-In this section, you will learn about what is Aragon, its values, finance and technical and legal infrastructure.&#x20;
-{% endhint %}
-
 ## Manifesto
 
 Aragon is governed by our [manifesto](https://aragon.org/manifesto) - a living document developed in the community and evolving with time.
@@ -31,8 +27,3 @@ Organizations that can be spun up instantly, that can't be shut down by governme
 
 If you're new to this ecosystem, don't worry if some (or all) of the above sounded a bit abstract. You can think of Aragon as **providing the lego pieces** to allow people (like you) to build the **next generation of human organizations**.
 
-
-
-> #### <mark style="color:purple;">Leave your comments here at the Aragon forum</mark> 👇
-
-{% embed url="https://forum.aragon.org/categories" %}
