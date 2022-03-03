@@ -6,7 +6,6 @@
   * [Communicating values](aragon/aragon-values-finances-and-legal/communicating-values.md)
   * [DAO Finances](aragon/aragon-values-finances-and-legal/dao-finances.md)
   * [Legal and technical infrastructure](aragon/aragon-values-finances-and-legal/legal-and-technical-infrastructure.md)
-  * [Aragon Values, Finances, and Legal - test](aragon/readme/aragon-values-finances-and-legal-test.md)
 * [About DAOs](aragon/about-dao/README.md)
   * [What is a DAO?](aragon/about-dao/what-is-a-dao.md)
   * [Why do we need DAOs?](aragon/about-dao/why-do-we-need-daos.md)
