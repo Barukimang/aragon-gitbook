@@ -5,7 +5,9 @@ coverY: 0
 
 # Aragon Court
 
+{% hint style="info" %}
 _Find below a list of unique terms that you may encounter when using Aragon Court. You can learn more about these concepts and why they matter to you as an Aragon Court user by reading through the rest of the_ [_Aragon Court documentation_](../../users/products/aragon-court/)_._
+{% endhint %}
 
 ### **Appeal**
 

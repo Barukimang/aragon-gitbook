@@ -1,6 +1,8 @@
 # Aragon Client
 
+{% hint style="info" %}
 _Find below a list of unique terms that you may encounter when using Aragon Client. You can learn more about these concepts and why they matter to you as an Aragon Client user by reading through the rest of the_ [_Aragon Client documentation_](../../users/products/aragon-client/)_._
+{% endhint %}
 
 ### <mark style="color:blue;"></mark>[<mark style="color:blue;">**Access Control List**</mark>](https://hack.aragon.org/docs/acl-intro.html) <mark style="color:blue;">**(ACL)**</mark> <mark style="color:blue;"></mark><mark style="color:blue;"></mark>&#x20;
 
