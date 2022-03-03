@@ -3,14 +3,14 @@
 ## 🔷 Aragon
 
 * [Aragon Values, Finances, and Legal](README.md)
-  * [Communicating values](aragon/aragon-values-finances-and-legal/communicating-values.md)
-  * [DAO Finances](aragon/aragon-values-finances-and-legal/dao-finances.md)
+  * [Key value: communication](aragon/aragon-values-finances-and-legal/communicating-values.md)
+  * [Financial infrastructure](aragon/aragon-values-finances-and-legal/dao-finances.md)
   * [Legal and technical infrastructure](aragon/aragon-values-finances-and-legal/legal-and-technical-infrastructure.md)
-* [About DAOs](aragon/about-dao/README.md)
+* [Learn about DAOs](aragon/about-dao/README.md)
   * [What is a DAO?](aragon/about-dao/what-is-a-dao.md)
   * [Why do we need DAOs?](aragon/about-dao/why-do-we-need-daos.md)
   * [What is decentralized autonomous governance?](aragon/about-dao/what-is-decentralized-autonomous-governance.md)
-  * [Is Aragon a DAO?](aragon/about-dao/is-aragon-a-dao.md)
+  * [What is the AN DAO?](aragon/about-dao/is-aragon-a-dao.md)
   * [Why use Aragon to build a DAO?](aragon/about-dao/why-use-aragon-to-build-a-dao.md)
 
 ## 🌐 Users
