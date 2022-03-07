@@ -76,7 +76,12 @@
     * [Acting as guardian for an Aragon Govern dispute](users/products/aragon-court/acting-as-guardian-for-an-aragon-govern-dispute.md)
     * [Aragon Court Troubleshooting](users/products/aragon-court/aragon-court-troubleshooting.md)
     * [Aragon Court FAQ](users/products/aragon-court/aragon-court-faq.md)
-  * [Aragon Vocdoni](users/products/aragon-vocdoni.md)
+  * [Aragon Vocdoni](users/products/aragon-vocdoni/README.md)
+    * [What is Vocdoni?](users/products/aragon-vocdoni/what-is-vocdoni.md)
+    * [Is my data safe with Vocdoni?](users/products/aragon-vocdoni/is-my-data-safe-with-vocdoni.md)
+    * [As an Organization, what can I do with Vocdoni?](users/products/aragon-vocdoni/as-an-organization-what-can-i-do-with-vocdoni.md)
+    * [Is Vocdoni anonymous?](users/products/aragon-vocdoni/is-vocdoni-anonymous.md)
+    * [Is Vocdoni easy to use?](users/products/aragon-vocdoni/is-vocdoni-easy-to-use.md)
 
 ## 🛠 Developers
 
