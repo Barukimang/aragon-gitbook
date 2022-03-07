@@ -20,13 +20,7 @@ All these sections will be described below.
 
 ### Dashboard
 
-On the dashboard page, you can create a new vote (using the _Creating Voting Process button_). A list of the votes is resumed in the dedicated box.&#x20;
-
-The Votes are grouped by:
-
-* Active votes: are the open votes&#x20;
-* Ended Votes: are the closed votes
-* Upcoming Votes: are votes that aren't already opened.
+On the dashboard page, you can create a new vote (using the _Creating Voting Process button_).&#x20;
 
 ![Dashboard page](<../../../.gitbook/assets/Schermata 2022-03-07 alle 13.06.27.png>)
 
@@ -39,6 +33,22 @@ If you haven't made a backup of your account you will visualize an alert message
 
 _`Please proceed with the backup of your account as described in the dedicated paragraph below`_ **** :arrow\_down:_`.`_
 {% endhint %}
+
+### Vote box
+
+The list of the votes is resumed in the dedicated box.&#x20;
+
+The Votes are grouped by:
+
+* Active votes: are the open votes&#x20;
+* Ended Votes: are the closed votes
+* Upcoming Votes: are votes that aren't already opened.
+
+![Vote box](<../../../.gitbook/assets/Schermata 2022-03-07 alle 22.50.22.png>)
+
+Clicking on a Vote (in our example "Test Vote") you can see how many have voted and the results.&#x20;
+
+![Vote Results](<../../../.gitbook/assets/Schermata 2022-03-07 alle 22.51.00.png>)
 
 ### Public page
 

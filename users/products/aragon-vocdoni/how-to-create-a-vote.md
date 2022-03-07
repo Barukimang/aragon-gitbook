@@ -70,8 +70,7 @@ Now in your _Dashboard_ will be showed the _Active Vote_.&#x20;
 
 ![Active vote in the Dashboard.](<../../../.gitbook/assets/Schermata 2022-03-07 alle 15.39.41.png>)
 
+If you need to close or to cancel a vote, go on the _Dashboard_ and click the Vote you need to close or cancel. On the _Vote details_ page click the _Close_ or _Cancel_ button.
 
+![](<../../../.gitbook/assets/Schermata 2022-03-07 alle 23.05.59.png>)
 
-> #### <mark style="color:purple;">Do you have a question? Leave your comments here at our Discourse forum</mark> 👇
-
-Carla Note: add the link to the forum.
