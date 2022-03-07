@@ -80,12 +80,9 @@
     * [Abaout Aragon Vocdoni](users/products/aragon-vocdoni/what-is-vocdoni.md)
     * [How to create an Aragon Vodconi Organization](users/products/aragon-vocdoni/how-to-create-an-aragon-vodconi-dao.md)
     * [How to access an Aragon Vodconi Organization](users/products/aragon-vocdoni/how-to-access-an-aragon-vodconi-dao.md)
-    * [Navigate your Aragon Vocdoni Organization](users/products/aragon-vocdoni/navigate-your-aragon-vocdoni-dao.md)
-    * [How to create a Vote](users/products/aragon-vocdoni/how-to-create-a-vote.md)
-    * [Is my data safe with Vocdoni?](users/products/aragon-vocdoni/is-my-data-safe-with-vocdoni.md)
-    * [As an Organization, what can I do with Vocdoni?](users/products/aragon-vocdoni/as-an-organization-what-can-i-do-with-vocdoni.md)
-    * [Is Vocdoni anonymous?](users/products/aragon-vocdoni/is-vocdoni-anonymous.md)
-    * [Is Vocdoni easy to use?](users/products/aragon-vocdoni/is-vocdoni-easy-to-use.md)
+    * [Navigate your Aragon Vocdoni Organization](users/products/aragon-vocdoni/navigate-your-aragon-vocdoni-organization/README.md)
+      * [How to create a Vote](users/products/aragon-vocdoni/navigate-your-aragon-vocdoni-organization/how-to-create-a-vote.md)
+      * [How to Vote](users/products/aragon-vocdoni/navigate-your-aragon-vocdoni-organization/how-to-vote.md)
 
 ## 🛠 Developers
 
@@ -290,6 +287,11 @@
     * [Where are my tokens?](faq/products/aragon-govern/where-are-my-tokens.md)
     * [How to delete a DAO](faq/products/aragon-govern/how-to-delete-a-dao.md)
     * [How can I transfer funds to the Aragon Govern?](faq/products/aragon-govern/how-can-i-transfer-funds-to-the-aragon-govern.md)
+  * [Aragon Vocdoni](faq/products/aragon-vocdoni/README.md)
+    * [Is Vocdoni easy to use?](faq/products/aragon-vocdoni/is-vocdoni-easy-to-use.md)
+    * [Is my data safe with Vocdoni?](faq/products/aragon-vocdoni/is-my-data-safe-with-vocdoni.md)
+    * [Is Vocdoni anonymous?](faq/products/aragon-vocdoni/is-vocdoni-anonymous.md)
+    * [As an Organization, what can I do with Vocdoni?](faq/products/aragon-vocdoni/as-an-organization-what-can-i-do-with-vocdoni.md)
 * [Wallet](faq/wallet/README.md)
   * [Metamask transaction alert](faq/wallet/metamask-transaction-alert.md)
 * [ANT Token](faq/ant-token/README.md)
