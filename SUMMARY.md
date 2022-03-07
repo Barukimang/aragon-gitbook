@@ -291,6 +291,7 @@
     * [Is Vocdoni easy to use?](users/products/aragon-vocdoni/is-vocdoni-easy-to-use.md)
     * [Is my data safe with Vocdoni?](users/products/aragon-vocdoni/is-my-data-safe-with-vocdoni.md)
     * [Is Vocdoni anonymous?](users/products/aragon-vocdoni/is-vocdoni-anonymous.md)
+    * [Is Vocdoni free?](faq/products/aragon-vocdoni/is-vocdoni-free.md)
     * [As an Organization, what can I do with Vocdoni?](users/products/aragon-vocdoni/as-an-organization-what-can-i-do-with-vocdoni.md)
 * [Wallet](faq/wallet/README.md)
   * [Metamask transaction alert](faq/wallet/metamask-transaction-alert.md)
