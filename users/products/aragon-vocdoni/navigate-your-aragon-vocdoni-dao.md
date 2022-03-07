@@ -38,11 +38,17 @@ _`Please proceed with the backup of your account as described in the dedicated p
 
 ### Public page
 
+The public page shows the information about your entity/organization. It could be access to everyone (only read mode).&#x20;
 
+The page shows: the name of the entity/organization, the logo, the header, the entity description, the entity address and the entity processes.
+
+![Public page](<../../../.gitbook/assets/Schermata 2022-03-07 alle 14.24.50.png>)
 
 ### Update entity
 
+The update entity page allows to update easily the information about your entity/organization. Fill in the new information and save.
 
+![](<../../../.gitbook/assets/Schermata 2022-03-07 alle 14.27.18.png>)
 
 ### Create account backup
 
@@ -62,10 +68,21 @@ Your account is now protected, store this file in a safe place.&#x20;
 
 ### Language
 
+This option allows to select the preferred language. At this moment are available:
 
+* English
+* Català
+* Castellano
 
 ### Help and feedback
 
-
+This option redirects to the Vocdini documentation.
 
 ### Logout
+
+This option allows you to log out to your account.&#x20;
+
+{% hint style="warning" %}
+To access again after a logout you need your backup file.
+{% endhint %}
+
