@@ -1,2 +1,0 @@
-# Navigate your Vocdoni DAO
-
