@@ -1,5 +1,9 @@
 # How to create a Vote
 
+{% hint style="info" %}
+In this section, you will learn How to create a vote process on the Aragon Vocdoni Organization.
+{% endhint %}
+
 ### Create a Vote
 
 On the top right click on the name of your entity/organization select the _Dashboard_ option.

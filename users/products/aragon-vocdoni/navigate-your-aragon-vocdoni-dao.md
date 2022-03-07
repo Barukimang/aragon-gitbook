@@ -1,5 +1,9 @@
 # Navigate your Aragon Vocdoni Organization
 
+{% hint style="info" %}
+In this section, you will learn How to navigate an Organization using Aragon Vocdoni.
+{% endhint %}
+
 On the top right click on the name of your entity/organization (in our example _Vodconi Test_). A drop-down menu appears:
 
 * Dashboard

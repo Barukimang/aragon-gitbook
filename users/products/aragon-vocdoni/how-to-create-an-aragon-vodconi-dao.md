@@ -1,5 +1,9 @@
 # How to create an Aragon Vodconi Organization
 
+{% hint style="info" %}
+In this section, you will learn How to create an Organization using Aragon Vocdoni.
+{% endhint %}
+
 ### How to create a Vocdoni organization
 
 Go to [https://aragon.org/vocdoni](https://aragon.org/vocdoni) and click on the _Try it Now for Free_.&#x20;

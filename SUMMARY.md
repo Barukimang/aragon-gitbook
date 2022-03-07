@@ -82,7 +82,7 @@
     * [How to access an Aragon Vodconi Organization](users/products/aragon-vocdoni/how-to-access-an-aragon-vodconi-dao.md)
     * [Navigate your Aragon Vocdoni Organization](users/products/aragon-vocdoni/navigate-your-aragon-vocdoni-dao.md)
       * [How to create a Vote](users/products/aragon-vocdoni/how-to-create-a-vote.md)
-      * [How to Vote](users/products/aragon-vocdoni/navigate-your-aragon-vocdoni-organization/how-to-vote.md)
+      * [How to vote a proposal](users/products/aragon-vocdoni/navigate-your-aragon-vocdoni-organization/how-to-vote-a-proposal.md)
 
 ## 🛠 Developers
 
