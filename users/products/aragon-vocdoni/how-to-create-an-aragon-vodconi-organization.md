@@ -1,6 +1,6 @@
-# How to create an Aragon Vodconi DAO
+# How to create an Aragon Vodconi Organization
 
-### How to create a DAO
+### How to create a Vocdoni organization
 
 Go to [https://aragon.org/vocdoni](https://aragon.org/vocdoni) and click on the _Try it Now for Free_.&#x20;
 
@@ -45,7 +45,7 @@ After clicking the _Continue_ button on the Credentials page :point\_up\_2:, the
 ![The created page](<../../../.gitbook/assets/Schermata 2022-03-07 alle 11.31.59.png>)
 
 {% hint style="success" %}
-If you visualize this page, your Vocdoni DAO was successfully created and you can start using it. :tada:
+If you visualize this page, your Vocdoni Organization was successfully created and you can start using it. :tada:
 {% endhint %}
 
 

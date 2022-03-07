@@ -1,4 +1,4 @@
-# Navigate your Aragon Vocdoni DAO
+# Navigate your Aragon Vocdoni Organization
 
 On the top right click on the name of your entity/organization (in our example _Vodconi Test_). A drop-down menu appears:
 
@@ -86,3 +86,10 @@ This option allows you to log out to your account.&#x20;
 To access again after a logout you need your backup file.
 {% endhint %}
 
+
+
+
+
+> #### <mark style="color:purple;">Do you have a question? Leave your comments here at our Discourse forum</mark> 👇
+
+Carla Note: add the link to the forum.
