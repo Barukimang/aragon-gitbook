@@ -1,14 +1,40 @@
 # How to create an Aragon Vodconi DAO
 
-##
-
-## How to create a DAO
+### How to create a DAO
 
 Go to [https://aragon.org/vocdoni](https://aragon.org/vocdoni) and click on the _Try it Now for Free_.&#x20;
 
 ![ https://aragon.org/vocdoni](<../../../.gitbook/assets/Schermata 2022-03-07 alle 10.56.45.png>)
 
-## <mark style="color:purple;"></mark>
+Fill in all the requested fields on the _Entity name_ page. Here you can define your entity/organization details:
+
+* _Name of the entity_: name of your entity/organization
+* _Contact Email_: email address that members of your entity/organization can using to contact you
+* _Type of organization_: you can choose the type of organization listed on the drop-down menu
+* _Entity size_: you can choose the entity size listed on the drop-down menu
+* _Entity description_: insert a brief description of the entity, it will be displayed in the public entity page.
+* _Entity logo_: enter the URL of the file or upload a file of your logo (the format of the logo must be a .jpg, .jpeg or .png file - 2mb max)
+* _Entity header_: enter the URL of the file or upload a file of your header (the format of the logo must be a .jpg, .jpeg or .png file - 2mb max)
+* _Personal Data Protection Information_: accept “Personal Data Protection Information” and (optional) express consent for the commercial, and service management
+
+![Entity name page](<../../../.gitbook/assets/Schermata 2022-03-07 alle 11.16.59.png>)
+
+* Choose a secure password for your entity/organization and fill in the _Password field_ and in the _Repeat Password field_. The password must have 8 characters or more, with at least 1 uppercase and 1 lowercase.
+* Check the box about the acknowledgement of the password lose&#x20;
+
+{% hint style="danger" %}
+**Important Note!!!**
+
+Decentralized accounts cannot be recovered by an external agent. If you lose your password, you will not be able to access your account in the future.
+{% endhint %}
+
+![Choose a password for your entity/organization](<../../../.gitbook/assets/Schermata 2022-03-07 alle 11.27.51.png>)
+
+
+
+
+
+
 
 
 
