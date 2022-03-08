@@ -1,6 +1,6 @@
 # How to mint and assign DAO tokens to others
 
-## Mint and Assign Tokens
+## Minting and assigning Tokens
 
 The token can be minted and assigned to other wallets in the _**Actions**_ section:
 

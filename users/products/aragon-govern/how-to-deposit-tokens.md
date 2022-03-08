@@ -1,6 +1,6 @@
 # How to deposit tokens
 
-## Deposit Tokens
+## Depositing Tokens
 
 The token can be deposited on the Govern Finance in the _**Finance**_ section:&#x20;
 
