@@ -17,7 +17,7 @@
 
 * [Products](users/products/README.md)
   * [Prerequisites](users/products/prerequisites.md)
-  * [Set up Metamask Wallet](users/products/set-up-metamask/README.md)
+  * [Setting up a Metamask Wallet](users/products/set-up-metamask/README.md)
     * [Getting started with Ethereum](users/products/set-up-metamask/getting-started-with-ethereum.md)
     * [Getting started with Rinkeby Testnet](users/products/set-up-metamask/getting-started-with-rinkeby-testnet.md)
     * [Getting started with Polygon](users/products/set-up-metamask/getting-started-with-polygon.md)

@@ -6,11 +6,47 @@ coverY: 0
 # Products
 
 {% hint style="info" %}
-In this section, you will learn about the Aragon Products: Aragon Client, Aragon Govern, Aragon Voice, Aragon Court. Which are the prerequisites, which wallets can be used, how use the Aragon Products.&#x20;
+**In this section, you will learn about Aragon Products:**&#x20;
+
+* Aragon Client,&#x20;
+* Aragon Govern,&#x20;
+* Aragon Voice,&#x20;
+* Aragon Court.&#x20;
+
+
+
+**The following questions are answered in the Products section:**
+
+* Which are the prerequisites?&#x20;
+* Which wallets can be used?&#x20;
+* How to use Aragon Products?&#x20;
 {% endhint %}
 
-How does Aragon fit in? Aragon provides you with tools (apps) that make it easy for you to create DAOs -- you can think of Aragon apps as lego bricks that can be flexibly combined to make DAOs (the final lego structures).
+## Why you should use Aragon Products?
 
-The Aragon solutions are **decentralized apps (dApp)** on the Ethereum blockchain that enable anyone to **create and manage autonomous decentralized organizations** such as clubs, companies, gaming guilds, cooperatives, nonprofits, open-source projects, and any other type of organization you can imagine.&#x20;
+Aragon provides you with tools that enable the creation of DAOs. You can adjust and combine those tools according to your own preference. As a result, you will be able to build a personalized framework for your DAO.&#x20;
 
-Aragon currently supports creating organizations on the main [Ethereum](https://ethereum.org) network (“mainnet”), [Polygon](https://polygonscan.com), [Harmony](https://explorer.harmony.one) and [Andromeda](https://andromeda-explorer.metis.io) network and the [Rinkeby](https://www.rinkeby.io/#stats) test network (“testnet”),[ Mumbai,](https://mumbai.polygonscan.com) [BSC Testnet](https://testnet.bscscan.com), Stardust and [Harmony Testnet](https://explorer.testnet.harmony.one).
+The Aragon solutions are **decentralized apps (dApp)** on the Ethereum blockchain that enables anyone to **create and manage autonomous decentralized organizations** such as clubs, companies, gaming guilds, cooperatives, nonprofits, open-source projects, and any other type of organization you can imagine.&#x20;
+
+The tools are so-called decentralized apps aka. dApps. They are built on the Ethereum blockchain. There are limitless possibilities of the types of DAOs that can be created using Aragon solutions.&#x20;
+
+### Here are some of the examples:
+
+* associations
+* companies
+* gaming guilds
+* cooperatives
+* NGOs
+* open-source projects
+
+## Aragon currently supports creating organizations on:
+
+* the Main [Ethereum](https://ethereum.org) Network (“mainnet”),
+* [Polygon](https://polygonscan.com) Network,
+* [Harmony](https://explorer.harmony.one) Network,
+* [Andromeda](https://andromeda-explorer.metis.io) Network,&#x20;
+* [Rinkeby](https://www.rinkeby.io/#stats) Test Network (“testnet”),
+* [Mumbai](https://mumbai.polygonscan.com) Testnet,
+* [BSC](https://testnet.bscscan.com) Testnet,&#x20;
+* Stardust Testnet,
+* [Harmony](https://explorer.testnet.harmony.one) Testnet.
