@@ -6,7 +6,7 @@ coverY: 678.9988876529476
 # Aragon Values, Finances, and Legal
 
 {% hint style="info" %}
-In this section, you will learn about what is Aragon, its values, finance, technical and legal infrastructure.&#x20;
+In this section, you will learn about what is Aragon, its values, finance and technical and legal infrastructure.&#x20;
 {% endhint %}
 
 ## Manifesto
