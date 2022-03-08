@@ -5,6 +5,10 @@ coverY: 0
 
 # Permissions Setting
 
+{% hint style="info" %}
+In this section, we explore in-depth the Permissions setting. You can find a dedicated video at the end of this page.
+{% endhint %}
+
 The _Permissions app_ is used to view all of the current permissions that have been set in an organization and add or remove permissions as needed.&#x20;
 
 The permissions set by the Permissions app define which entities have what permissions to perform various actions in an organization.&#x20;
