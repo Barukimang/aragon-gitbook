@@ -60,3 +60,7 @@ Important: If a wallet address is in the whitelist, it still needs to hold the c
 Lastly, it is time to review the information to make sure everything is correct. If you are happy with it, just go ahead and click the "Confirm and create a DAO" button.
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/611559fdb55c2b04bf6dddb3/file-fxIiexUROg.png)
+
+> #### <mark style="color:purple;">Do you have a question? Leave your comments here at our Discourse forum</mark> 👇
+
+{% embed url="https://aragontesting.trydiscourse.com/t/aragon-govern-create-a-dao/43" %}
