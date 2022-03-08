@@ -43,3 +43,9 @@ _Context_ - should be 0x (without " ") or any other hex byte you wish.
 Click _Schedule_ to execute the transaction.
 
 ![](<../../../.gitbook/assets/Screenshot 2022-02-10 at 11.35.40.png>)
+
+
+
+> #### <mark style="color:purple;">Do you have a question? Leave your comments here at our Discourse forum</mark> 👇
+
+{% embed url="https://aragontesting.trydiscourse.com/t/aragon-govern-navigate-your-dao-actions-app/44" %}

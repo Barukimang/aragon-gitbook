@@ -21,3 +21,7 @@ If you do not agree with a transaction that has been scheduled, provide a clear 
 * When you challenge a transaction, you need to add collateral to the challenge. The collateral token and amount are defined in the DAO settings.
 * When creating a dispute, you also need to pay the court fees (in DAI), which will be used to pay guardians and actors on the dispute.&#x20;
 {% endhint %}
+
+
+
+> #### <mark style="color:purple;">Do you have a question? Leave your comments here at our Discourse forum</mark> 👇

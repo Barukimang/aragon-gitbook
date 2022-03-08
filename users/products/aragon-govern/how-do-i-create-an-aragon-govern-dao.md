@@ -5,17 +5,11 @@ coverY: 0
 
 # How to create an Aragon Govern DAO
 
-{% hint style="info" %}
-In this section, you will learn how to create a DAO using the Aragon Govern.&#x20;
-{% endhint %}
-
-## How to create a DAO
-
 Creating a Govern DAO is a quick and easy process.
 
 Go to [https://govern.aragon.org/#/create-dao](https://govern.aragon.org/#/create-dao), choose the network and connect you web3 wallet (if you need help go [here](../set-up-metamask/)) and fill out all the relevant information regarding your DAO.
 
-## Basic Information
+## <mark style="color:purple;">Basic Information</mark>
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/61155889b55c2b04bf6ddda0/file-jQxSjLKpa8.png)
 
@@ -35,11 +29,9 @@ Currently, there is no practical usage for the token information within the DAO.
 
 \- **Proxies**: When selecting this option you will drastically reduce the amount of gas needed to deploy your DAO. This means that instead of deploying a whole smart contract to be the executor of your DAO (the one that executes transactions as the DAO), you will just deploy a proxy contract (which is a minimal version that forwards requests to a full contract that was already deployed by Aragon).&#x20;
 
-{% hint style="warning" %}
-<mark style="background-color:red;"><mark style="color:blue;background-color:red;">Important:<mark style="color:blue;background-color:red;"></mark> <mark style="background-color:red;"></mark><mark style="background-color:red;"></mark> This option **DOES NOT** reduce the security of your DAO in any way.
-{% endhint %}
+<mark style="color:blue;background-color:red;">Important:</mark> This option **DOES NOT** reduce the security of your DAO in any way.
 
-## Configuration
+## <mark style="color:purple;">Configuration</mark>
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/6115589a6ffe270af2a9855f/file-jLdUKuX5Ov.png)
 
@@ -51,7 +43,7 @@ In this step you should define:
 
 \- **Dispute resolution client**:  This is the address of a smart contract that can act as a dispute resolution system for the optimistic governance model to be enacted. The default address is set to Aragon Court, a tested and secure dispute resolution system by Aragon. Be aware that if you change this address, and the new smart contract does not implement the [ERC3k standard](https://eips.ethereum.org/EIPS/eip-3000), or it relies on an insecure system, you might make your DAO unusable or allow funds to be stolen.
 
-## Collateral
+## <mark style="color:purple;">Collateral</mark>
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/611558bd64a230081ba1eaec/file-dYJrDvkzgq.png)
 

@@ -22,3 +22,6 @@ Click on the _Review Deposit_ button and _Confirm the Deposit_.
 
 
 
+> #### <mark style="color:purple;">Do you have a question? Leave your comments here at our Discourse forum</mark> 👇
+
+{% embed url="https://aragontesting.trydiscourse.com/t/aragon-govern-navigate-your-dao-finance-app/46" %}
