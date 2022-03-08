@@ -4,8 +4,8 @@
 
 * [Aragon Values, Finances, and Legal](README.md)
   * [Key value: communication](aragon/aragon-values-finances-and-legal/communicating-values.md)
-  * [Financial infrastructure](aragon/aragon-values-finances-and-legal/dao-finances.md)
   * [Legal and technical infrastructure](aragon/aragon-values-finances-and-legal/legal-and-technical-infrastructure.md)
+  * [Financial infrastructure](aragon/aragon-values-finances-and-legal/dao-finances.md)
 * [Learn about DAOs](aragon/about-dao/README.md)
   * [What is a DAO?](aragon/about-dao/what-is-a-dao.md)
   * [Why do we need DAOs?](aragon/about-dao/why-do-we-need-daos.md)
