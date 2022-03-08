@@ -3,21 +3,29 @@ cover: ../../../.gitbook/assets/60a39be473bc185893775da8_govern.png
 coverY: 0
 ---
 
-# Client DAO with Govern Execution Engine
+# How to use the Client DAO with the Govern Execution Engine
 
-In this article, we will show how you can incorporate optimistic governance within your Aragon Client DAO. We are going to use Aragon Govern to schedule, challenge, and execute proposals that will take effect on the Aragon Client DAO.&#x20;
+{% hint style="info" %}
+In this article, we will show how you can incorporate optimistic governance within your Aragon Client DAO.&#x20;
+
+We are going to use Aragon Govern to schedule, challenge, and execute proposals that will take effect on the Aragon Client DAO.&#x20;
 
 This will replace the Voting App with a cheaper governance mechanism that will also lower users' governance fatigue.
+{% endhint %}
 
-**Note:** Aragon Govern is in Beta and the UI might have changed from the time of this article.&#x20;
+{% hint style="warning" %}
+Aragon Govern is in Beta and the UI might have changed from the time of this article.&#x20;
+{% endhint %}
 
-### Prerequisites:
+## Prerequisites:
 
 1\. An Aragon Client DAO: you can create one [here](https://client.aragon.org).
 
 2\. An Aragon Govern DAO: you can create one [here](https://aragon.org/aragon-govern).
 
+{% hint style="danger" %}
 #### **Important: Please make sure both DAOs are on the same network.**
+{% endhint %}
 
 3\. Grant the Govern Executor address desired permissions within the Aragon Client DAO. Follow [this](../aragon-client/explore-template-dao/system-setting/permissions-setting.md) article to learn how to do this. You should grant the permissions you want the Aragon Govern DAO to be able to schedule execution for.&#x20;
 
@@ -33,7 +41,7 @@ To get the Govern Executor Address:
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/61127cbfb55c2b04bf6dcec3/file-ywEiJaplN9.png)
 
-### Linked Execution:
+## Linked Execution:
 
 1\. Go to your Aragon Govern DAO and press _New Transaction_
 
@@ -105,9 +113,13 @@ Here we will interact with the _Finance_ app and we have selected to create a ne
 
 11\. Once the challenge period is over, you will be able to execute the actions that will take effect on the Aragon Client DAO.
 
-### Possible Issues:
+## Possible Issues:
 
 1\. If action execution has failed there has been a mistake either in permissions, method parameters, or ABI and contract address. If you have not granted the right permissions to the Govern Executor Address do so and try to execute the action again. If a mistake has been made in method parameters or ABI and contract address you will have to redo the whole process.&#x20;
 
 2\. If you are populating fractional numbers, add 18 zeros to the original value. For example, if you want to invoke the immediateTransfer method that will transfer 10.5 tokens, you will have to input 10.5\*10^18 = 10500000000000000000 into the amount field.&#x20;
+
+
+
+#### <mark style="color:purple;">Do you have a question? Leave your comments here at our Discourse forum</mark> 👇
 

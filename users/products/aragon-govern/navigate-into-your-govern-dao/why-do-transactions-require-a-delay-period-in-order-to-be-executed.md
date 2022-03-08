@@ -19,5 +19,4 @@ Thanks to the delay period, the community has the opportunity to challenge any t
 
 > #### <mark style="color:purple;">Do you have a question? Leave your comments here at our Discourse forum</mark> 👇
 
-{% embed url="https://aragontesting.trydiscourse.com/t/aragon-govern-delay-period/48" %}
-
+{% embed url="https://aragontesting.trydiscourse.com/t/aragon-govern-navigate-your-dao-challenging/47" %}

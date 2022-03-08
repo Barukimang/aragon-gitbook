@@ -64,7 +64,7 @@
     * [Why do transactions require a delay period in order to be executed?](users/products/aragon-govern/navigate-into-your-govern-dao/why-do-transactions-require-a-delay-period-in-order-to-be-executed.md)
     * [Why is it necessary collateral for scheduling or challenging a transaction?](users/products/aragon-govern/navigate-into-your-govern-dao/understanding-collaterals-in-aragon-govern.md)
     * [Acting as a guardian for an Aragon Govern dispute](users/products/aragon-govern/acting-as-a-guardian-for-an-aragon-govern-dispute.md)
-    * [Client DAO with Govern Execution Engine](users/products/aragon-govern/client-dao-with-govern-execution-engine.md)
+    * [How to use the Client DAO with the Govern Execution Engine](users/products/aragon-govern/client-dao-with-govern-execution-engine.md)
   * [Aragon Voice](users/products/aragon-voice/README.md)
     * [What is Aragon Voice?](users/products/aragon-voice/what-is-aragon-voice.md)
     * [How to create a proposal](users/products/aragon-voice/how-to-create-a-proposal.md)
