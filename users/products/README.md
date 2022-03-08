@@ -11,7 +11,8 @@ coverY: 0
 * Aragon Client,&#x20;
 * Aragon Govern,&#x20;
 * Aragon Voice,&#x20;
-* Aragon Court.&#x20;
+* Aragon Court,
+* Aragon Vocdoni.
 
 
 
