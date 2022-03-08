@@ -59,7 +59,7 @@
     * [How to create an Aragon Govern DAO](users/products/aragon-govern/how-do-i-create-an-aragon-govern-dao.md)
     * [Navigate into your Govern DAO](users/products/aragon-govern/navigate-into-your-govern-dao/README.md)
       * [How to mint and assign DAO tokens to others](users/products/aragon-govern/how-to-assign-tokens-to-others.md)
-      * [How to deposit tokens](users/products/aragon-govern/how-to-deposit-tokens.md)
+      * [How to deposit funds](users/products/aragon-govern/how-to-deposit-tokens.md)
       * [Challenging a transaction](users/products/aragon-govern/challenging-a-transaction.md)
     * [Why do transactions require a delay period in order to be executed?](users/products/aragon-govern/navigate-into-your-govern-dao/why-do-transactions-require-a-delay-period-in-order-to-be-executed.md)
     * [Why is it necessary collateral for scheduling or challenging a transaction?](users/products/aragon-govern/navigate-into-your-govern-dao/understanding-collaterals-in-aragon-govern.md)
