@@ -79,7 +79,7 @@
   * [Aragon Vocdoni](users/products/aragon-vocdoni/README.md)
     * [Abaout Aragon Vocdoni](users/products/aragon-vocdoni/what-is-vocdoni.md)
     * [How to create an Aragon Vodconi Organization](users/products/aragon-vocdoni/how-to-create-an-aragon-vodconi-dao.md)
-    * [How to access an Aragon Vodconi Organization](users/products/aragon-vocdoni/how-to-access-an-aragon-vodconi-dao.md)
+    * [How to access your Aragon Vodconi Organization](users/products/aragon-vocdoni/how-to-access-your-aragon-vodconi-organization.md)
     * [Navigate your Aragon Vocdoni Organization](users/products/aragon-vocdoni/navigate-your-aragon-vocdoni-dao.md)
       * [How to create a Vote](users/products/aragon-vocdoni/how-to-create-a-vote.md)
       * [How to vote a proposal](users/products/aragon-vocdoni/navigate-your-aragon-vocdoni-organization/how-to-vote-a-proposal.md)
