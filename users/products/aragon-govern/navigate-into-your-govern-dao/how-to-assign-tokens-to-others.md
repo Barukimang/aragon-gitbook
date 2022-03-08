@@ -2,7 +2,7 @@
 
 The token can be minted and assigned to other wallets in the _**Actions**_ section:
 
-!["Action" section on the left side menu ](<../../../.gitbook/assets/Schermata 2022-02-11 alle 10.09.01.png>)
+!["Action" section on the left side menu ](<../../../../.gitbook/assets/Schermata 2022-02-11 alle 10.09.01.png>)
 
 _Actions - New action._&#x20;
 
@@ -14,11 +14,11 @@ _Justification_ - a text or a file to tell DAO members why you schedule this tra
 
 Click on the _Add new transaction_ button.
 
-![](<../../../.gitbook/assets/Screenshot 2022-02-10 at 10.56.42.png>)
+![](<../../../../.gitbook/assets/Screenshot 2022-02-10 at 10.56.42.png>)
 
 Click on _Select Action - Mint tokens_ to mint more DAO tokens.
 
-![](<../../../.gitbook/assets/Screenshot 2022-02-10 at 11.18.49.png>)
+![](<../../../../.gitbook/assets/Screenshot 2022-02-10 at 11.18.49.png>)
 
 Select _Other address_ to enable the option to insert the address of a DAO member.
 
@@ -28,7 +28,7 @@ _Amount -_ quantity of token to deposit. The correct format is \<number>.\<numbe
 
 Click _Add transaction_
 
-![](<../../../.gitbook/assets/Screenshot 2022-02-10 at 11.19.14.png>)
+![](<../../../../.gitbook/assets/Screenshot 2022-02-10 at 11.19.14.png>)
 
 Back on the _New transaction_ page fill the following fields in the _mint_ box:
 
@@ -40,4 +40,4 @@ _Context_ - should be 0x (without " ") or any other hex byte you wish.
 
 Click _Schedule_ to execute the transaction.
 
-![](<../../../.gitbook/assets/Screenshot 2022-02-10 at 11.35.40.png>)
+![](<../../../../.gitbook/assets/Screenshot 2022-02-10 at 11.35.40.png>)
