@@ -1,8 +1,10 @@
 # How to deposit tokens
 
+## Deposit Tokens
+
 The token can be deposited on the Govern Finance in the _**Finance**_ section:&#x20;
 
-!["Finance" section on the left side menu ](<../../../../.gitbook/assets/Schermata 2022-02-11 alle 10.11.56.png>)
+!["Finance" section on the left side menu ](<../../../.gitbook/assets/Schermata 2022-02-11 alle 10.11.56.png>)
 
 _Finance - New Transfer - Deposit._&#x20;
 
@@ -16,7 +18,7 @@ _Reference (optional) -_ a text to identify this transa­ction later on.
 
 Click on the _Review Deposit_ button and _Confirm the Deposit_.
 
-![](<../../../../.gitbook/assets/Schermata 2022-01-29 alle 13.28.01.png>)                            ![](<../../../../.gitbook/assets/Schermata 2022-01-29 alle 13.41.21.png>)
+![](<../../../.gitbook/assets/Schermata 2022-01-29 alle 13.28.01.png>)                            ![](<../../../.gitbook/assets/Schermata 2022-01-29 alle 13.41.21.png>)
 
 
 

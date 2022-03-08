@@ -1,5 +1,5 @@
 ---
-cover: ../../../../.gitbook/assets/60a39be473bc185893775da8_govern.png
+cover: ../../../.gitbook/assets/60a39be473bc185893775da8_govern.png
 coverY: 0
 ---
 
@@ -15,8 +15,9 @@ If you do not agree with a transaction that has been scheduled, provide a clear 
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/6113ed15b55c2b04bf6dd6a2/file-hd6ZlldfSY.png)
 
+{% hint style="warning" %}
 **IMPORTANT**
 
-\- When you challenge a transaction, you need to add collateral to the challenge. The collateral token and amount are defined in the DAO settings.
-
-\- When creating a dispute, you also need to pay the court fees (in DAI), which will be used to pay guardians and actors on the dispute.&#x20;
+* When you challenge a transaction, you need to add collateral to the challenge. The collateral token and amount are defined in the DAO settings.
+* When creating a dispute, you also need to pay the court fees (in DAI), which will be used to pay guardians and actors on the dispute.&#x20;
+{% endhint %}
