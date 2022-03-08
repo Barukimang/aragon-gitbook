@@ -6,7 +6,7 @@ coverY: 0
 # Prerequisites
 
 {% hint style="info" %}
-In this section, you will learn which are the prerequisites for using Aragon Products.
+In this section, you will learn what are the prerequisites for using Aragon Products.
 {% endhint %}
 
 To start using Aragon products you need:
