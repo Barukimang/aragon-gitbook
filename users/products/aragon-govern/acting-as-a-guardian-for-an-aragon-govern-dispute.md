@@ -9,7 +9,7 @@ The first use case for Aragon Court is to be the subjective dispute resolution f
 
 Whenever an Aragon Govern transaction is challenged, a new dispute is created in Aragon Court. If you get summoned as a guardian for this kind of dispute, this is what you need to know.
 
-## <mark style="color:purple;">**Understanding the content**</mark>
+## Understanding the content
 
 ### **Dispute fields**
 

@@ -5,7 +5,7 @@ coverY: 0
 
 # Challenging a transaction
 
-With Aragon Govern's **optimistic governance model**, every transaction has a **delay period** (you can read more [here](navigate-into-your-govern-dao/why-do-transactions-require-a-delay-period-in-order-to-be-executed.md)) allowing the community to review these and decide if these contain any malicious actions non-conform to the DAO agreement.
+With Aragon Govern's **optimistic governance model**, every transaction has a **delay period** (you can read more [here](why-do-transactions-require-a-delay-period-in-order-to-be-executed.md)) allowing the community to review these and decide if these contain any malicious actions non-conform to the DAO agreement.
 
 When this happens, **transactions can be challenged**, and a dispute is created in Aragon Court (or any other preferred dispute resolution system specified in the DAO).
 
@@ -26,4 +26,4 @@ If you do not agree with a transaction that has been scheduled, provide a clear 
 
 > #### <mark style="color:purple;">Do you have a question? Leave your comments here at our Discourse forum</mark> 👇
 
-{% embed url="https://aragontesting.trydiscourse.com/t/aragon-govern-navigate-your-dao-challenging-a-transaction/47" %}
+{% embed url="https://aragontesting.trydiscourse.com/t/aragon-govern-navigate-your-dao-challenging/47" %}

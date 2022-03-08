@@ -45,7 +45,7 @@ Important!!! This option **DOES NOT** reduce the security of your DAO in any way
 
 In this step you should define:
 
-\- **Execution delay**: The amount of time a given transaction will be on hold before being executed. During this period, the transaction can be reviewed by your community members, and if it does not conform with your DAO agreement, it can be challenged. At the end of the delay period, the transaction will be available for execution. [Learn more](navigate-into-your-govern-dao/why-do-transactions-require-a-delay-period-in-order-to-be-executed.md).
+\- **Execution delay**: The amount of time a given transaction will be on hold before being executed. During this period, the transaction can be reviewed by your community members, and if it does not conform with your DAO agreement, it can be challenged. At the end of the delay period, the transaction will be available for execution. [Learn more](why-do-transactions-require-a-delay-period-in-order-to-be-executed.md).
 
 \- **Rules & Agreement**: An Aragon Govern DAO works thanks to optimistic governance: it expects its members to act in its best interest, and for these to always follow a specific set of (pre-agreed) rules. These rules are what make a DAO agreement, and can be provided as free text, pdf, or document.&#x20;
 
@@ -57,9 +57,9 @@ In this step you should define:
 
 In this step you should:
 
-\- **Schedule execution collateral token**: This is the token that will be required by any member to detain before they can schedule a transaction. Members who do not own the amount of tokens you define here, will not be able to schedule any transaction. [Learn more about collaterals](navigate-into-your-govern-dao/understanding-collaterals-in-aragon-govern.md).
+\- **Schedule execution collateral token**: This is the token that will be required by any member to detain before they can schedule a transaction. Members who do not own the amount of tokens you define here, will not be able to schedule any transaction. [Learn more about collaterals](understanding-collaterals-in-aragon-govern.md).
 
-\- **Challenge execution collateral token**: This is the token that will be required by any member to detain before they can challenge a transaction. Members who do not own the amount of tokens you define here, will not be able to challenge any transaction. [Learn more about collaterals.](navigate-into-your-govern-dao/understanding-collaterals-in-aragon-govern.md)
+\- **Challenge execution collateral token**: This is the token that will be required by any member to detain before they can challenge a transaction. Members who do not own the amount of tokens you define here, will not be able to challenge any transaction. [Learn more about collaterals.](understanding-collaterals-in-aragon-govern.md)
 
 \- **Whitelist of addresses (optional):** This is an additional safeguard step you might want to add to your DAO. If you select any address, any member that owns the schedule execution collateral can schedule transactions. This said, if you want to grant only a subset of members permission, you can set the list here.&#x20;
 

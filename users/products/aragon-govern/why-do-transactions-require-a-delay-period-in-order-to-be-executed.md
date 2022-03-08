@@ -1,5 +1,5 @@
 ---
-cover: ../../../../.gitbook/assets/60a39be473bc185893775da8_govern.png
+cover: ../../../.gitbook/assets/60a39be473bc185893775da8_govern.png
 coverY: 0
 ---
 
@@ -19,4 +19,5 @@ Thanks to the delay period, the community has the opportunity to challenge any t
 
 > #### <mark style="color:purple;">Do you have a question? Leave your comments here at our Discourse forum</mark> 👇
 
-{% embed url="https://aragontesting.trydiscourse.com/t/aragon-govern-navigate-your-dao-challenging/47" %}
+{% embed url="https://aragontesting.trydiscourse.com/t/aragon-govern-navigate-your-dao-delay-period/48" %}
+

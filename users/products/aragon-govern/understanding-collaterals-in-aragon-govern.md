@@ -1,5 +1,5 @@
 ---
-cover: ../../../../.gitbook/assets/60a39be473bc185893775da8_govern.png
+cover: ../../../.gitbook/assets/60a39be473bc185893775da8_govern.png
 coverY: 0
 ---
 
@@ -11,7 +11,7 @@ In this section, you will learn what is collateral and why it is necessary to sc
 
 Aragon Govern relies on the premise that actors will operate in the **best interest of the DAO**, and that these actors will not schedule transactions that are non-conform to the DAO's agreement.
 
-This said, to provide additional **security**, all transactions can be challenged before being executed. When a given transaction is challenged, a dispute is created in [Aragon Court ](../../aragon-court/)(or any dispute resolution system that is compliant with ERC-3k), and guardians will be summoned to arbitrate the case.
+This said, to provide additional **security**, all transactions can be challenged before being executed. When a given transaction is challenged, a dispute is created in [Aragon Court ](../aragon-court/)(or any dispute resolution system that is compliant with ERC-3k), and guardians will be summoned to arbitrate the case.
 
 To make sure that not only this process, but also the process of scheduling transactions in the DAO is not abused, both the transaction creator as the person challenging the transaction needs to provide collaterals that will be used against each other when the dispute is created.&#x20;
 
