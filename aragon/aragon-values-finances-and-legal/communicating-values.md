@@ -19,6 +19,7 @@ Here you will find ways on how to get started depending on your field of interes
 * Aragon Discord [#intros](https://discord.gg/ATbzCJRA) is a great place to start for introducing yourself. [#biz-dev](https://discord.gg/TnkR229C) working group has specific connection tools for founders and executives.
 * [Aragon Governance Forum ](https://forum.aragon.org)- one way to learn about DAOs is to see the DAO for DAO software itself (Aragon) in action.
 * [Business development form ](https://forms.gle/tWfJa1tcsxyL7eV88?\_imcp=1)- fill this in to get support and review from the community.
+* Technical Forum: [https://forum.aragon.org/c/product/13](https://forum.aragon.org/c/product/13)
 
 ### **Developer => code and coordinate with the tools**
 
