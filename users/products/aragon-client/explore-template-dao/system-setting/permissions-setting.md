@@ -99,13 +99,13 @@ Each app has different actions that an entity can be granted permission to perfo
 
 Granting permission to an entity to perform these actions on these apps will allow them to:
 
-#### **ACL**
+#### **ACL (Access Control List)**
 
 * Create permissions: create permissions that have not been initialized yet in any app that uses this ACL instance`*`
 
 > `*`_These actions are very sensitive actions that will give the entity with permission to perform these actions almost complete control of your organization._
 
-#### **EVM Script Registry**
+#### **EVM (Ethereum Virtual Machine) Script Registry**
 
 * Add executors: add an executor to the organization`*`
 * Enable and disable executors: enable and disable executors in an organization`*`
