@@ -313,7 +313,7 @@
   * [What is the conversion rate ANJ to ANT v2?](faq/ant-token/what-is-the-conversion-rate-anj-to-ant-v2.md)
   * [I accidentally sent my old ANT (ANT v1 or ANJ) to an exchange, I lost them?](faq/ant-token/i-accidentally-sent-my-old-ant-ant-v1-or-anj-to-an-exchange-i-lost-them.md)
 * [Miscellaneous](faq/miscellaneous/README.md)
-  * [Metamask wallet transaction alert](faq/miscellaneous/metamask-transaction-alert.md)
+  * [Metamask wallet transaction alert](faq/wallet/metamask-transaction-alert.md)
   * [Is Aragon open source?](faq/miscellaneous/is-aragon-open-source.md)
   * [Where can I browse through the DAOs created on Aragon?](faq/miscellaneous/where-can-i-browse-through-the-daos-created-on-aragon.md)
   * [How to migrate from "old" DAI to "new" DAI](faq/miscellaneous/how-to-migrate-from-old-dai-to-new-dai.md)

@@ -3,7 +3,7 @@ cover: ../../.gitbook/assets/04.png
 coverY: 0
 ---
 
-# Metamask transaction alert
+# Metamask wallet transaction alert
 
 When the Aragon Client asks you to sign and send multiple transactions to the Ethereum blockchain, your Ethereum provider (e.g. Metamask) may warn you that the subsequent transactions will fail:&#x20;
 
