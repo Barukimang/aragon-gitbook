@@ -19,6 +19,8 @@ Aragon is a community-driven project with the mission to **empower freedom** by 
 
 These tools help people to freely organize **across borders** and **without intermediaries**. Instead of bureaucracy, subjectivity, and trust, the use of smart contracts has opened the door to **experiment with decentralized governance (at the speed of software)**.
 
+Organizations that can be spun up instantly, that can't be shut down by governments, that are resistant to internet censorship, and that allows small groups of people to collaborate effectively.
+
 Aragon takes care of the most important pieces of infrastructure to deliver censorship-resistant, decentralized and upgradeable apps.
 
 ## Vision
