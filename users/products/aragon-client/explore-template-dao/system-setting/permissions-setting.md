@@ -19,7 +19,7 @@ For example, any account may have permission to create a vote but only tokenhold
 
 ## **Browse by app**
 
-The Permissions app shows a list of every **app installed** in the organization and **the address or token symbol** of that app. You can change App permissions and System permissions.
+The Permissions app shows a list of every **app installed** in the organization and **the address or token symbol** of that app. You can change _App permissions_ and _System permissions_.
 
 ![App permissions](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d8a6a562c7d3a7e9ae1912e/file-0y5pgj1j2k.png)
 
@@ -49,17 +49,37 @@ The _Available permissions_ section shows:
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d8a6b052c7d3a7e9ae19132/file-68mYNPchqp.png)
 
-A manager has the ability to choose which entities have permission to perform an action and the ability to change the manager of that action.&#x20;
+A **manager** has the ability to **choose which entities have permission to perform an action** _(Assign Permission)_ and the ability to **change the manager of that action** (_Manage Role_). These actions can be done using the drop-down menu under the three dots.&#x20;
 
-If a manager removes themselves as a manager of a permission without re-assigning the manager role to another entity, then management of that action defaults to whichever entity manages the “Create permissions” action in the ACL app.&#x20;
+![](<../../../../../.gitbook/assets/Schermata 2022-03-09 alle 10.25.57 (1).png>)
 
-If the manager of an action is set as `0x0000000000000000000000000000000000000001` then no new manager can be set and permissions granted for that action will be locked forever.
+#### Assign Permissions
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d8a6b1904286364bc8f814d/file-UNomybgFUB.png)
+Click on the drop-down menu on the _three dots_ and select _Assign Permission._ Select an App under the _On App_ menu, an entity under the _Assign to Entity_ menu and an Action.&#x20;
+
+![Assign a permission](<../../../../../.gitbook/assets/Schermata 2022-03-09 alle 10.26.48.png>)
+
+#### Manage Role
+
+Click on the drop-down menu on the _three dots_ and select _Manage Role._ Select an update under the _Update_ menu. &#x20;
+
+![Manage Permission](<../../../../../.gitbook/assets/Schermata 2022-03-09 alle 10.37.21.png>)
+
+{% hint style="warning" %}
+If a manager removes themselves as a manager of permission without re-assigning the manager role to another entity, then management of that action defaults to whichever entity manages the _Create permissions_ action in the ACL app. In our example (showed in the image below), the management of the action will be assigned to the _Voting_ App.
+{% endhint %}
+
+![](<../../../../../.gitbook/assets/Schermata 2022-03-09 alle 10.12.59.png>)
+
+{% hint style="danger" %}
+If the manager of action is set as `0x0000000000000000000000000000000000000001` then no new manager can be set and permissions granted for that action will be locked forever.
+{% endhint %}
+
+#### Initialize Permission
 
 If an action has not been given a manager yet, then it must be initialized. To initialize an action, enter the address (_Grant permission to_) of the entity that you want to manage the action, select which entity you want to grant permission to perform the action, then click the _Initialize permission_ button to initialize the permission, if you have permission to do so.
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d8a6b2304286364bc8f814f/file-fna5oPikEA.png)
+![](../../../../../.gitbook/assets/inizialize.png)
 
 ### **Browse by entity**
 

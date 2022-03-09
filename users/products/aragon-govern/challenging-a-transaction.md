@@ -26,4 +26,4 @@ If you do not agree with a transaction that has been scheduled, provide a clear 
 
 > #### <mark style="color:purple;">Do you have a question? Leave your comments here at our Discourse forum</mark> 👇
 
-{% embed url="https://aragontesting.trydiscourse.com/t/aragon-govern-navigate-your-dao-challenging-a-transaction/47" %}
+{% embed url="https://aragontesting.trydiscourse.com/t/aragon-govern-navigate-your-dao-challenging/47" %}
