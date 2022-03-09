@@ -64,11 +64,6 @@ _Deposit Funds:_ to send funds to your organization, you can create a deposit us
 _Note: For non-ETH tokens, two transactions may be required to make a deposit. The first transaction approves the Finance app to pull the deposit amount from your account balance, and the second transaction is the actual deposit transaction. This is a safety feature to prevent the Finance app from pulling more funds from your account than you have explicitly authorized._
 {% endhint %}
 
-**When on testnet**: go to the Organizations app and press the _**Request test tokens**_ button. Open your Ethereum provider to sign and send the transaction. About a minute or so after your transaction is confirmed, test tokens will be available in the Finance app of your organization. You can then create a new transfer to send these tokens to another address.\
-
-
-![Deposit Funds - Finance App](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d8a631b2c7d3a7e9ae190c3/file-PVF6PN5gbK.png)
-
 ### **Withdrawal funds**
 
 _Withdrawal funds:_ to create a new transfer from your organization to another address, you can create a withdrawal using the Finance app:
