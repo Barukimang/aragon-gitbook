@@ -5,11 +5,11 @@ coverY: 0
 
 # Acting as a guardian for an Aragon Govern dispute
 
-The first use case for [Aragon Court](../aragon-court/) is to be the subjective dispute resolution for Aragon Govern DAOs, enabling optimistic governance to take place with an extra layer of security.
+The first use case for Aragon Court is to be the subjective dispute resolution for Aragon Govern DAOs, enabling optimistic governance to take place with an extra layer of security.
 
 Whenever an Aragon Govern transaction is challenged, a new dispute is created in Aragon Court. If you get summoned as a guardian for this kind of dispute, this is what you need to know.
 
-## Understanding the content
+## <mark style="color:purple;">**Understanding the content**</mark>
 
 ### **Dispute fields**
 
@@ -100,9 +100,3 @@ You also have the option to enable the auto-reveal service.&#x20;
 ### Next steps
 
 Your guardian duty end here. The next stages can be triggered by anyone in Aragon court (including you) but are not your responsibility. If a dispute is appealed, a new round of guardians will be summoned. If you are one of them, follow this same process again.
-
-
-
-> #### <mark style="color:purple;">Do you have a question? Leave your comments here at our Discourse forum</mark> 👇
-
-{% embed url="https://aragontesting.trydiscourse.com/t/aragon-govern-guardian-and-dispute/50" %}

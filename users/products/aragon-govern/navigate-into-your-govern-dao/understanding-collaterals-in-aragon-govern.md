@@ -25,4 +25,4 @@ Collaterals also allow DAO creators to restrict transaction and challenge creati
 
 > #### <mark style="color:purple;">Do you have a question? Leave your comments here at our Discourse forum</mark> 👇
 
-{% embed url="https://aragontesting.trydiscourse.com/t/aragon-govern-collateral/49" %}
+{% embed url="https://aragontesting.trydiscourse.com/t/aragon-govern-navigate-a-dao-collateral/49" %}
