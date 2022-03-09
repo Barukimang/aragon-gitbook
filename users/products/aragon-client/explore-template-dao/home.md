@@ -42,7 +42,7 @@ The network connection indicator (located on the top right) will tell you if the
 
 ### Enable account
 
-To use the Aragon client, you must first allow Aragon to access your Ethereum account. This will allow the Aragon client to send transactions to your Ethereum account for signing and to read information about your Ethereum account, such as the address and token balances. For more info about this read [here](../../set-up-metamask/).
+To use the Aragon client, you must first allow Aragon to access your Ethereum account (your web3 wallet). This will allow the Aragon client to send transactions to your Ethereum account for signing and to read information about your Ethereum account, such as the address and token balances. For more info about Ethereum account and web3 metamask wallet read [here](../../set-up-metamask/).
 
 If not already connected, click _Enable account_ and approve the access request in your Ethereum provider to complete the process.
 
