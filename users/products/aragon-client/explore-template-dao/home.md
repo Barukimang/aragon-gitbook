@@ -86,7 +86,7 @@ Make sure to export your labels from time to time to ensure you have a backup in
 
 You can opt-in to email notifications about activity in organizations that you are interested in on the Notifications tab of your global preferences.&#x20;
 
-Enter your email address and then click the activation link in your email to sign up. Then you can add "actions" in your organization that you want to get notified about whenever they happen.
+Enter your email address and then click the activation link in your email to sign up. (If you don't receive the email in your inbox folder, please check your Spam folder.) Then you can add "actions" in your organization that you want to get notified about whenever they happen.
 
 ![](<../../../../.gitbook/assets/Schermata 2022-02-04 alle 15.33.22.png>)
 
