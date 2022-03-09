@@ -13,3 +13,6 @@ Return on the main token page [https://voice.aragon.org/](https://voice.aragon.o
 ![](<../../../.gitbook/assets/Schermata 2022-02-11 alle 12.18.51.png>)
 
 > #### <mark style="color:purple;">Do you have a question? Leave your comments here at our Discourse forum</mark> 👇
+
+{% embed url="https://aragontesting.trydiscourse.com/t/aragon-voice-create-a-vote-proposal-using-your-token/59" %}
+

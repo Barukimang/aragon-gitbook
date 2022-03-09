@@ -30,3 +30,5 @@ Fill in all the fields in the new proposal:
 ![](<../../../.gitbook/assets/Schermata 2022-02-11 alle 11.52.46.png>)
 
 > #### <mark style="color:purple;">Do you have a question? Leave your comments here at our Discourse forum</mark> 👇
+
+{% embed url="https://aragontesting.trydiscourse.com/t/aragon-voice-create-a-vote-proposal/58" %}

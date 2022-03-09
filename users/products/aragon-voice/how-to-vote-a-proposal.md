@@ -15,3 +15,5 @@ On the _token details_ page_,_ you can see all the _Active votes_ and the _Vote 
 ![](<../../../.gitbook/assets/Schermata 2022-02-11 alle 12.06.39.png>)
 
 > #### <mark style="color:purple;">Do you have a question? Leave your comments here at our Discourse forum</mark> 👇
+
+{% embed url="https://aragontesting.trydiscourse.com/t/aragon-voice-how-to-vote-a-proposal/60" %}
