@@ -18,6 +18,10 @@ Go [here](https://aragon.org) and click the _Create your DAO_ button and then ch
 
 Check that the wallet account is connected (as shown in the image), if not press _connect wallet_.&#x20;
 
+{% hint style="danger" %}
+Remember that you'll need 0.2ETH (or more depending on the network traffic) to create a DAO on the Ethereum network. So it's recommended that you use a test network (like Rinkeby) when setting up your first DAO. For more info about how to connect to a Test Network go [here](../../set-up-metamask/getting-started-with-rinkeby-testnet.md).
+{% endhint %}
+
 ![Check the wallet connection.](<../../../../.gitbook/assets/Schermata 2022-02-04 alle 18.42.46.png>)
 
 Select a template (click on _view details_ and then _use this template)._
@@ -35,3 +39,4 @@ For more details about the different Templates go [here](https://app.gitbook.com
 > #### <mark style="color:purple;">Do you have a question? Leave your comments here at our Discourse forum</mark> 👇
 
 {% embed url="https://aragontesting.trydiscourse.com/t/aragon-client-create-a-dao/19" %}
+
