@@ -4,64 +4,6 @@ description: What is Aragon and what does it do
 
 # Getting started
 
-~~Aragon is a project to **empower freedom** by creating tools for **decentralized governance**.~~
-
-~~These tools help people freely organize **across borders** and **without intermediaries**. Instead of bureaucracy, subjectivity, and trust, smart contracts have opened the door to **experiment with governance at the speed of software**.~~
-
-The Aragon stack helps you develop software for **human organization**. From the smart contracts to the user interface, ~~Aragon takes care of the most important pieces of infrastructure to deliver censorship-resistant, decentralized and upgradeable apps.~~
-
-~~If you're new to this ecosystem, don't worry if some (or all) of that sounded a little abstract. You can think of Aragon as providing the lego pieces to allow people (like you) to build the next generation of human organizations.~~
-
-~~Organizations that can be spun up instantly, that can't be shut down by governments, that are resistant to internet censorship, and that allow small groups of people to collaborate effectively.~~
-
-![](https://hack.aragon.org/docs/assets/core.png)
-
-> Example of a decentralized, censorship-resistant, good-looking voting app on Aragon
-
-## Introduction <a href="#introduction" id="introduction"></a>
-
-~~Many of us have gone through the pain of setting up a corporate entity. Or felt like we've lacked the tools to collaborate with people all around the globe when we're building stuff we want to see in the world.~~
-
-~~Right now, the current system simply doesn't work. If you want to set up an organisation you have to go to lawyers, pay thousands of dollars, and all you get in return is a set of unintelligible pieces of paper that cost you more than months of development.~~
-
-~~On top of this, these pieces of paper don't enforce anything by themselves: they're more like an idea, or a concept.~~
-
-~~If you try to explain this to a kid, you quickly realise how mad the current system seems to them. When you think about it, it's really impressive that the world functions the way it does with this sort of legacy framework and operating system underneath.~~
-
-~~At Aragon, we believe that decentralized autonomous organizations (DAOs) are the solution to this problem.~~
-
-~~What exactly is a DAO? There are many ways to describe a DAO, and knowledgable people may disagree on the precise definition. For our purposes, you can think of DAOs as flexible, global, and uncensorable online organizations.~~
-
-~~How does Aragon fit in? Aragon provides you with tools (apps) that make it easy for you to create DAOs -- you can think of Aragon apps as lego bricks that can be flexibly combined to make DAOs (the final lego structures).~~
-
-~~Another way to think of Aragon is as a new operating system (OS) for setting up organizations. One that is far more efficient than the existing OS (lawyers, administrative headaches, etc) we are used to dealing with.~~
-
-#### ~~More on DAOs~~ <a href="#more-on-daos" id="more-on-daos"></a>
-
-~~For those of you who are new to DAOs, in this section we'll briefly cover the sorts of things DAOs can enable, when you might want to use a DAO, as well as the trends around the world accelerating their adoption.~~
-
-~~**DAOs can enable:**~~
-
-* ~~Shared bank accounts with custom rules and permissions~~
-* ~~Payroll that automatically runs by itself~~
-* ~~Built-in voting on important topics~~
-
-~~**DAO use cases:**~~
-
-* ~~Part-time projects with friends or strangers~~
-* ~~Future of work: people working part time on multiple things for short periods of time~~
-* ~~Temporary pop-up companies~~
-* ~~Companies in authoritarian jurisdictions~~
-* ~~Global, distributed teams~~
-
-~~**Trends around the world accelerating DAO adoption:**~~
-
-* ~~The rise of populist authoritarians~~
-* ~~The future of work (remote and distributed)~~
-* ~~The growing de-platforming problem~~
-* ~~The rise of decentralized finance~~
-* ~~The~~ [~~increasing~~](https://medium.com/complex-systems-channel/teams-a-manifesto-7490eab144fa) ~~~~ [~~complexity~~](https://necsi.edu/complexity-rising-from-human-beings-to-human-civilization-a-complexity-profile) ~~of human civilization~~
-
 #### Web3 <a href="#web3" id="web3"></a>
 
 Unless you've been living under a rock for the last few years, you've probably come across the term web3 😋. But what does it mean exactly? And why do we care about it in the context of Aragon?

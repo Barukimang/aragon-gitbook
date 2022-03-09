@@ -31,7 +31,13 @@ Every app has:
 * a list of **actions that other entities have been given permission to perform** on the app,&#x20;
 * a list of **permissions that the app has been granted**.
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d8a6a7104286364bc8f8145/file-NKD9Oqrl0V.png)
+The image below shows the list of actions that can be performed by the _Finance_ App (_Action_ column), the other entities that have the permissions to perform these actions (_Assigned to entity_ column) and who has the authority to assign the permission to this entity (_Managed by_ column).
+
+![Finance permissions example](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d8a6a7104286364bc8f8145/file-NKD9Oqrl0V.png)
+
+#### Let's see an example (we are referring to the image up :point\_up:):
+
+If we need to perform a "_Create new payments" on t_he _Finance_ App, this action will pass through a vote in the _Voting_ App (this because the _Create new payments_ action in the _Finance_ App is assigned to the _Voting_ entity). __&#x20;
 
 ### **Available permissions**
 
