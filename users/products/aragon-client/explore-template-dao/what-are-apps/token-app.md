@@ -7,6 +7,12 @@ coverY: 0
 
 The Tokens app is used to **mint new tokens** and **assign** them to yourself or other entities. Tokens minted by the Tokens app **confer voting abilities** to holders of the tokens.
 
+{% hint style="info" %}
+What is minting?&#x20;
+
+Minting is the process of creating new tokens. You can create as many tokens as you'd like (as long as members of the organization are agree). This means you can add as many new users to your organization as you wish, you just need to mint new tokens for them. Below we will show "How to Add new tokens" into your Organization.
+{% endhint %}
+
 There are many reasons an organization might mint tokens for entities. Here are a few examples:
 
 * The organization commits to giving its workers a stake in the company e.g. half of the company tokens are held by workers and the other half by investors .
