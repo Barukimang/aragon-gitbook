@@ -37,8 +37,8 @@ Note that many of these features take advantage of the "local storage" in your b
 
 The network connection indicator (located on the top right) will tell you if the Aragon client you are using is connected to one of the supported networks or not (either Ethereum, Polygon, Harmony, Rinkeby, and so on).&#x20;
 
-* If the node your Aragon client is connected to is having any issues then the light will turn red and indicate that the connection has failed.&#x20;
-* If the node your Aragon client is connected to is working properly, then the light will turn green and indicate that the client is successfully connected to the network.
+* <mark style="color:red;">Red light</mark>: your Aragon client isn't connected to the node. The connection has failed.&#x20;
+* <mark style="color:green;">Green light</mark>: your Aragon client is well connected to the node and it is working properly. The client is successfully connected to the network.
 
 ### Enable account
 
