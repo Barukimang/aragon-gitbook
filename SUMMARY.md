@@ -16,6 +16,7 @@
 ## 🌐 Users
 
 * [Products](users/products/README.md)
+  * [Quickstart](users/products/quickstart.md)
   * [Prerequisites](users/products/prerequisites.md)
   * [Setting up a Metamask Wallet](users/products/set-up-metamask/README.md)
     * [Getting started with Ethereum](users/products/set-up-metamask/getting-started-with-ethereum.md)
@@ -70,13 +71,6 @@
     * [How to create a proposal](users/products/aragon-voice/how-to-create-a-proposal.md)
     * [How to create a proposal using your token](users/products/aragon-voice/how-to-create-a-proposal-1.md)
     * [How to vote a proposal](users/products/aragon-voice/how-to-vote-a-proposal.md)
-  * [Aragon Court](users/products/aragon-court/README.md)
-    * [Aragon Court](users/products/aragon-court/aragon-court.md)
-    * [Aragon Court Dashboard](users/products/aragon-court/aragon-court-dashboard.md)
-    * [Dispute lifecycle](users/products/aragon-court/dispute-lifecycle.md)
-    * [Acting as guardian for an Aragon Govern dispute](users/products/aragon-court/acting-as-guardian-for-an-aragon-govern-dispute.md)
-    * [Aragon Court Troubleshooting](users/products/aragon-court/aragon-court-troubleshooting.md)
-    * [Aragon Court FAQ](users/products/aragon-court/aragon-court-faq.md)
   * [Aragon Vocdoni](users/products/aragon-vocdoni/README.md)
     * [Abaout Aragon Vocdoni](users/products/aragon-vocdoni/what-is-vocdoni.md)
     * [How to create an Aragon Vodconi Organization](users/products/aragon-vocdoni/how-to-create-an-aragon-vodconi-dao.md)
@@ -84,6 +78,13 @@
     * [Navigate your Aragon Vocdoni Organization](users/products/aragon-vocdoni/navigate-your-aragon-vocdoni-dao.md)
       * [How to create a Vote](users/products/aragon-vocdoni/how-to-create-a-vote.md)
       * [How to vote a proposal](users/products/aragon-vocdoni/navigate-your-aragon-vocdoni-organization/how-to-vote-a-proposal.md)
+  * [Aragon Court](users/products/aragon-court/README.md)
+    * [Aragon Court](users/products/aragon-court/aragon-court.md)
+    * [Aragon Court Dashboard](users/products/aragon-court/aragon-court-dashboard.md)
+    * [Dispute lifecycle](users/products/aragon-court/dispute-lifecycle.md)
+    * [Acting as guardian for an Aragon Govern dispute](users/products/aragon-court/acting-as-guardian-for-an-aragon-govern-dispute.md)
+    * [Aragon Court Troubleshooting](users/products/aragon-court/aragon-court-troubleshooting.md)
+    * [Aragon Court FAQ](users/products/aragon-court/aragon-court-faq.md)
 
 ## 🛠 Developers
 
