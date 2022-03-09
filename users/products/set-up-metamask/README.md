@@ -14,6 +14,21 @@ Metamask is a browser plugin that lets you make Ethereum (and other blockchains)
 This guide focuses on a Chrome extension. However, the process is similar for all browsers.
 {% endhint %}
 
+## Keynote <a href="#getting-started" id="getting-started"></a>
+
+For creating or using an Aragon Client DAO you need to connect to one test or one main network. You can choose from different blockchains:
+
+* [Ethereum Mainnet](getting-started-with-ethereum.md)
+* [Rinkeby Testnet](getting-started-with-rinkeby-testnet.md)
+* [Polygon](getting-started-with-polygon.md)
+* [Mumbai Testnet](getting-started-with-mumbai-testnet.md)
+* [Harmony](getting-started-with-harmony.md)
+* [Harmony Testnet](getting-started-with-harmony-testnet.md)
+* [Stardust testnet](getting-started-with-metis-andromeda.md)
+* [BSC Testnet](getting-started-with-bsc-testnet.md)
+
+Let's start to configure and understand the main futures of the metamask wallet and then you can pass to choose your favourite network.
+
 ## Getting started <a href="#getting-started" id="getting-started"></a>
 
 * Visit the [Metamask homepage](https://metamask.io) and download the browser extension. Once it is downloaded, you should be automatically directed to a welcome page.&#x20;
