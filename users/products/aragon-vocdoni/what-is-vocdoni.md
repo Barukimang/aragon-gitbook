@@ -1,4 +1,4 @@
-# Abaout Aragon Vocdoni
+# What is Aragon Vocdoni
 
 **Vocdoni** is a project inside of the Aragon ecosystem, which is aimed at developing secure **digital voting and governance solutions** using decentralized technologies.
 
