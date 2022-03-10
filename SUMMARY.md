@@ -307,6 +307,8 @@
     * [Voting - What's the penalty for leaked votes?](faq/products/aragon-court-faq/voting-whats-the-penalty-for-leaked-votes.md)
     * [Governance - Which parameters of Court can be changed? How?](faq/products/aragon-court-faq/governance-which-parameters-of-court-can-be-changed-how.md)
     * [Governance - Do parameter changes affect ongoing disputes?](faq/products/aragon-court-faq/governance-do-parameter-changes-affect-ongoing-disputes.md)
+    * [Technical - Where is the Court "hosted"?](faq/products/aragon-court-faq/technical-where-is-the-court-hosted.md)
+    * [Technical - Where can I find the source code and technical documentation for Aragon Court?](faq/products/aragon-court-faq/technical-where-can-i-find-the-source-code-and-technical-documentation-for-aragon-court.md)
   * [Aragon Court Troubleshooting](users/products/aragon-court/aragon-court-troubleshooting.md)
 * [ANT Token](faq/ant-token/README.md)
   * [What is ANT?](faq/ant-token/what-is-ant.md)

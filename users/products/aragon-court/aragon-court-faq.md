@@ -7,15 +7,9 @@ coverY: 0
 
 <mark style="color:blue;">****</mark>
 
-## <mark style="color:purple;">**Technical**</mark>
+<mark style="color:purple;">****</mark>
 
-### Where is the Court "hosted"?
-
-Aragon Court is a smart contract system deployed to the [Ethereum](https://ethereum.org) mainnet. The Court Dashboard at [court.aragon.org](https://court.aragon.org) is hosted by Aragon.
-
-### Where can I find the source code and technical documentation for Aragon Court?
-
-The Aragon Court smart contract source code and technical documentation can be found in the [protocol](https://github.com/aragon/protocol) repo on GitHub. The Aragon Court Dashboard source code can similarly be found in the [court-dashboard](https://github.com/aragon/protocol-dashboard) repo.
+###
 
 ## <mark style="color:purple;">ANJ conversion</mark>
 
