@@ -27,3 +27,9 @@ Click on the _Finish voting_ button and confirm your vote (_Yes, submit the vote
 {% hint style="success" %}
 Your vote has been registered. :tada:
 {% endhint %}
+
+
+
+> #### <mark style="color:purple;">Do you have a question? Leave your comments here at our Discourse forum</mark> 👇
+
+{% embed url="https://aragontesting.trydiscourse.com/t/aragon-vocdoni-navigate-your-organization-vote-a-proposal/66" %}

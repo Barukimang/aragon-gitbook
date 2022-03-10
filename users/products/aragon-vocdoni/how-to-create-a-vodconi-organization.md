@@ -1,4 +1,4 @@
-# How to create an Aragon Vodconi Organization
+# How to create a Vodconi Organization
 
 {% hint style="info" %}
 In this section, you will learn How to create an Organization using Aragon Vocdoni.
@@ -56,4 +56,4 @@ If you visualize this page, your Vocdoni Organization was successfully created a
 
 > #### <mark style="color:purple;">Do you have a question? Leave your comments here at our Discourse forum</mark> 👇
 
-Carla Note: add the link to the forum.
+{% embed url="https://aragontesting.trydiscourse.com/t/aragon-vocdoni-create-an-organization/62" %}

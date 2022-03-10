@@ -1,4 +1,4 @@
-# Navigate your Aragon Vocdoni Organization
+# Navigate your Vocdoni Organization
 
 {% hint style="info" %}
 In this section, you will learn How to navigate an Organization using Aragon Vocdoni.
@@ -16,13 +16,13 @@ On the top right click on the name of your entity/organization (in our example _
 
 All these sections will be described below.
 
-![Drop down menu](<../../../.gitbook/assets/Schermata 2022-03-07 alle 11.39.51 (1).png>)
+![Drop down menu](<../../../../.gitbook/assets/Schermata 2022-03-07 alle 11.39.51 (1).png>)
 
 ### Dashboard
 
 On the dashboard page, you can create a new vote (using the _Creating Voting Process button_).&#x20;
 
-![Dashboard page](<../../../.gitbook/assets/Schermata 2022-03-07 alle 13.06.27.png>)
+![Dashboard page](<../../../../.gitbook/assets/Schermata 2022-03-07 alle 13.06.27.png>)
 
 {% hint style="danger" %}
 If you haven't made a backup of your account you will visualize an alert message shown in an orange box (as shown in our example).
@@ -44,11 +44,11 @@ The Votes are grouped by:
 * Ended Votes: are the closed votes
 * Upcoming Votes: are votes that aren't already opened.
 
-![Vote box](<../../../.gitbook/assets/Schermata 2022-03-07 alle 22.50.22.png>)
+![Vote box](<../../../../.gitbook/assets/Schermata 2022-03-07 alle 22.50.22.png>)
 
 Clicking on a Vote (in our example "Test Vote") you can see how many have voted and the results.&#x20;
 
-![Vote Results](<../../../.gitbook/assets/Schermata 2022-03-07 alle 22.51.00.png>)
+![Vote Results](<../../../../.gitbook/assets/Schermata 2022-03-07 alle 22.51.00.png>)
 
 ### Public page
 
@@ -56,13 +56,13 @@ The public page shows the information about your entity/organization. It could b
 
 The page shows: the name of the entity/organization, the logo, the header, the entity description, the entity address and the entity processes.
 
-![Public page](<../../../.gitbook/assets/Schermata 2022-03-07 alle 14.24.50.png>)
+![Public page](<../../../../.gitbook/assets/Schermata 2022-03-07 alle 14.24.50.png>)
 
 ### Update entity
 
 The update entity page allows to update easily the information about your entity/organization. Fill in the new information and save.
 
-![](<../../../.gitbook/assets/Schermata 2022-03-07 alle 14.27.18.png>)
+![](<../../../../.gitbook/assets/Schermata 2022-03-07 alle 14.27.18.png>)
 
 ### Create account backup
 
@@ -72,7 +72,7 @@ In the _Download credentials_ page you can protect your entity's account by expo
 * Confirm your password&#x20;
 * Check the box with the "acknowledgement of the password lose"
 
-![Create account backup](<../../../.gitbook/assets/Schermata 2022-03-07 alle 14.12.30.png>)
+![Create account backup](<../../../../.gitbook/assets/Schermata 2022-03-07 alle 14.12.30.png>)
 
 Press the _Continue_ button. A file .bak will be automatically downloaded. This file contains your account for restoring your Vodconi account.&#x20;
 
@@ -106,4 +106,4 @@ To access again after a logout you need your backup file.
 
 > #### <mark style="color:purple;">Do you have a question? Leave your comments here at our Discourse forum</mark> 👇
 
-Carla Note: add the link to the forum.
+{% embed url="https://aragontesting.trydiscourse.com/t/aragon-vocdoni-navigate-your-organization/64" %}

@@ -1,4 +1,4 @@
-# How to access your Aragon Vodconi Organization
+# How to access your Vodconi Organization
 
 {% hint style="info" %}
 In this section, you will learn how to access your Organization created using Aragon Vocdoni.
@@ -20,4 +20,4 @@ I haven't an account&#x20;
 
 > #### <mark style="color:purple;">Do you have a question? Leave your comments here at our Discourse forum</mark> 👇
 
-Carla Note: add the link to the forum.
+{% embed url="https://aragontesting.trydiscourse.com/t/aragon-vocdoni-access-an-organization/63" %}
