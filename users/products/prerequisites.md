@@ -22,5 +22,3 @@ In this section, you will learn about the prerequisites for using Aragon Product
 ## **Tools for smartphone or tablet:**
 
 * Up-to-date [Coinbase](https://wallet.coinbase.com), [imToken](https://www.token.im/download), [Status](https://status.im), [Trust](https://trustwallet.com/dapp), [Metamask](https://metamask.io) mobile Web3 browser.
-
-****

@@ -3,10 +3,10 @@ cover: ../../../.gitbook/assets/60a39be473bc185893775da8_govern.png
 coverY: 0
 ---
 
-# How to use the Client DAO with the Govern Execution Engine
+# Using the Client DAO with the Govern DAO. How?
 
 {% hint style="info" %}
-In this article, we will show how you can incorporate optimistic governance within your Aragon Client DAO.&#x20;
+In this article, we will show how to use the Client DAO with the Govern Execution Engine and how you can incorporate optimistic governance within your Aragon Client DAO.&#x20;
 
 We are going to use Aragon Govern to schedule, challenge, and execute proposals that will take effect on the Aragon Client DAO.&#x20;
 

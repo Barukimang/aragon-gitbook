@@ -3,10 +3,10 @@ cover: ../../../../.gitbook/assets/60a39be473bc185893775da8_govern.png
 coverY: 0
 ---
 
-# Why is it necessary collateral for scheduling or challenging a transaction?
+# Collateral for scheduling or challenging a transaction. Why?
 
 {% hint style="info" %}
-In this section, you will learn what is collateral and why it is necessary to schedule and challenge a transaction.
+In this section, you will learn what is collateral and why it is necessary to schedule or challenge a transaction.
 {% endhint %}
 
 Aragon Govern relies on the premise that actors will operate in the **best interest of the DAO**, and that these actors will not schedule transactions that are non-conform to the DAO's agreement.
