@@ -167,3 +167,9 @@ By clicking on one of them, you will get redirected to a page containing all the
 Additionally, every single task related to a dispute can be executed from here. [Click here](dispute-lifecycle.md) for a complete guide about the lifecycle of disputes and what you need to do as a guardian to manage them.
 
 ![](<../../../.gitbook/assets/Screenshot 2022-02-07 at 15.44.08.png>)
+
+
+
+> #### <mark style="color:purple;">Do have a question? Leave your comments here at our Discourse forum</mark> 👇
+
+{% embed url="https://aragontesting.trydiscourse.com/t/aragon-court-court-dashboard/68" %}
