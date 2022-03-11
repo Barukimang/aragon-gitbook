@@ -31,7 +31,7 @@
     * [How to process a transaction?](users/products/set-up-metamask/sign-a-transaction-with-metamask.md)
     * [Import your seed wallet to Metamask](users/products/set-up-metamask/import-your-seed-wallet-in-metamask.md)
     * [Gas Tracker](users/products/set-up-metamask/gas-tracker.md)
-  * [Setting up a Frame Wallet](users/products/setting-up-a-frame-wallet.md)
+  * [Setting up a Frame Wallet](users/products/set-up-frame-wallet.md)
   * [Setting up a MultiSig wallet](users/products/multisig.md)
   * [Aragon Client](users/products/aragon-client/README.md)
     * [What is Aragon Client](users/products/aragon-client/about-aragon-client.md)
