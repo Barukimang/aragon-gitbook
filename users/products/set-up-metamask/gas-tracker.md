@@ -1,12 +1,20 @@
 # Gas Tracker
 
-Your Ethereum provider (also called Metamask) _should_ pre-fill the correct gas limit and gas price, but sometimes it will pre-fill the amounts too low which causes transactions to execute very slow or even not at all.
+{% hint style="warning" %}
+Your Ethereum provider - Metamask, should pre-fill the correct gas limit and the gas price, but sometimes the amount will be too low which causes transactions to last longer or not take place at all.
+{% endhint %}
 
-You can check yourself which is the best gas price to set and adjust it in the transaction settings of your wallet during the transaction approval process:
+{% hint style="info" %}
+You can check which gas price is optimal and adjust it in the transaction settings of your wallet during the transaction approval process.
+{% endhint %}
 
-* Mainnet - [https://etherscan.io/gastracker](https://etherscan.io/gastracker)
-* Polygon network - [https://polygonscan.com/gastracker](https://polygonscan.com/gastracker)
-* Harmony network - not yet available
-* Metis Andromeda network - not yet available
+### Gas trackers for different networks
 
-Here you can find how to adjust the gas price in Metamask for a transaction: [https://metamask.zendesk.com/hc/en-us/articles/360022895972-Using-advanced-gas-controls](https://metamask.zendesk.com/hc/en-us/articles/360022895972-Using-advanced-gas-controls)
+* The Mainnet - [https://etherscan.io/gastracker](https://etherscan.io/gastracker)
+* The Polygon Network - [https://polygonscan.com/gastracker](https://polygonscan.com/gastracker)
+* The Harmony Network - not yet available
+* The Metis Andromeda Network - not yet available
+
+{% hint style="info" %}
+[Here](https://metamask.zendesk.com/hc/en-us/articles/360022895972-Using-advanced-gas-controls) you can find how to adjust the gas price in Metamask for a transaction.
+{% endhint %}

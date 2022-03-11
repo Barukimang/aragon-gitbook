@@ -6,30 +6,42 @@ In this section, you will learn how to connect and use your Web3 wallet on the H
 
 ## **Connect your Web3 wallet to the Harmony Testnet**
 
-We recommend using [Metamask wallet](./) as your Web3 wallet.&#x20;
+{% hint style="info" %}
+We recommend using [Metamask wallet](./) as your Web3 wallet.
+{% endhint %}
 
-* Login to your wallet (Metamask in our example)&#x20;
+* Log in to your wallet&#x20;
 * Go to [https://chainlist.org/](https://chainlist.org) site
-* In the search box insert _harmony testnet shard 0_
-* Click the _connect your wallet_ button on the top right (if Metamask is well connected the fox icon appears)
-* And click _add to Metamask_ button_._   &#x20;
+* In the search box insert _**harmony testnet shard 0**_
+* Click the _**connect your wallet**_ button on the top right
 
-![Add the Harmony testnet to metamask using chainlist.org](<../../../.gitbook/assets/Schermata 2022-01-26 alle 23.28.07.png>)
+{% hint style="info" %}
+If Metamask is well connected the fox icon appears.
+{% endhint %}
 
-## **Deposit TEST-ONE to your Harmony test wallet**
+* And click _**add to Metamask** _ button
 
-TEST ONE token is the test-ONE used on Harmony Testnet to pay for transaction fees (abbreviated as ONE) and, consequently, to deploy a DAO, in the same way, that test-ETH is used on Rinkeby.
+![Add the Harmony testnet to Metamask using chainlist.org](<../../../.gitbook/assets/Schermata 2022-01-26 alle 23.28.07.png>)
 
-> Important info: Please note that the symbol of the test-ONE is "ONE", the same as for mainnet-ONE.
+## **Deposit TEST ONE to your Harmony test wallet**
 
-Get your Harmony One address for the faucet:
+### What is TEST ONE?
 
-* Go to [https://explorer.harmony.one/](https://explorer.harmony.one)&#x20;
-* Copy the account address from your Metamask wallet and paste it into the search bar
-* It should output an address that begins with _one1_
+TEST ONE token is used on the Harmony Testnet. It is used to:
+
+* pay for transaction fees (abbreviated as ONE)
+* to deploy a DAO in the same way that test-ETH is used on Rinkeby
+
+{% hint style="warning" %}
+Please note that the symbol of the test-ONE is "ONE", the same as for mainnet-ONE.
+{% endhint %}
+
+### How to get your Harmony One address for the faucet?
+
+* Go to [https://explorer.harmony.one/](https://explorer.harmony.one).
+* Copy the account address from your Metamask wallet and paste it into the search bar.
+* It should output an address that begins with _**one1**._
+* You will need to copy that address and then insert it at [https://faucet.pops.one/](https://faucet.pops.one).
+* In a couple of seconds you should receive 1000 TEST ONE to deploy your DAO.
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/61db0984d268f00e10386d30/file-k4lsn7c6rW.png)
-
-You will need to copy that address and then go to [https://faucet.pops.one/](https://faucet.pops.one) and insert your address.
-
-> Wait a couple of seconds and look forward to receiving 1000 Test One... enough to make DAOs for all your frens'n'fam :sunglasses:.

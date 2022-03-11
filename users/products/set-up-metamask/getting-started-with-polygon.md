@@ -1,10 +1,10 @@
 # Getting started with Polygon
 
 {% hint style="info" %}
-In this section, you will learn how to connect and use your Web3 wallet on the Polygon network.
+In this section, you will learn how to connect and use your Web3 wallet on the Polygon Network.
 {% endhint %}
 
-## **Connect your Web3 wallet to the Polygon network**
+## **Connect your Web3 wallet to the Polygon Network**
 
 {% hint style="info" %}
 We recommend using [Metamask wallet](./) as your Web3 wallet.&#x20;
@@ -14,7 +14,7 @@ We recommend using [Metamask wallet](./) as your Web3 wallet.&#x20;
 * Go to [https://chainlist.org/](https://chainlist.org) site
 * In the search box insert _**polygon mainnet**_
 * Click the _**connect your wallet**_ button on the top right
-* And click _**add to Metamask** _ button_._ &#x20;
+* Click _**add to Metamask** _ button
 
 {% hint style="info" %}
 If Metamask is well connected the fox icon appears.

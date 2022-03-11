@@ -19,9 +19,9 @@ The AN DAO is intended to be the vehicle for the Aragon project after the dissol
 
 The Aragon Network DAO consists of a **Main DAO** and three satellite organizations:&#x20;
 
-* the Executive Sub-DAO,&#x20;
-* the Compliance Sub-DAO,&#x20;
-* the Tech Committee.&#x20;
+* the Executive Sub-DAO
+* the Compliance Sub-DAO&#x20;
+* the Tech Committee
 
 Each sub-DAO has a committee of three members, elected by a combination of a public vote and the Aragon Association.&#x20;
 

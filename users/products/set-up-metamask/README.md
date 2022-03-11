@@ -82,10 +82,10 @@ The main reason for using a testnet ETH is that it can be obtained without havin
 
 #### There are four testnets:&#x20;
 
-* Ropsten,&#x20;
-* Kovan,&#x20;
-* Rinkeby,
-* Goerli.
+* Ropsten
+* Kovan
+* Rinkeby
+* Goerli
 
 {% hint style="warning" %}
 **At this stage don't worry about the differences between these networks.** All you need to know is that they simulate Ethereum and can be used without having to pay real money.

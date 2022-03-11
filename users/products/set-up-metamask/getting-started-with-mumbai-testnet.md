@@ -14,7 +14,7 @@ We recommend using [Metamask wallet](./) as your Web3 wallet.&#x20;
 * Go to [https://chainlist.org/](https://chainlist.org) site
 * In the search box insert _**mumbai**_
 * Click the _**connect your wallet**_ button on the top right
-* And click _**add to Metamask** _ button_._ &#x20;
+* And click _**add to Metamask** _ button
 
 {% hint style="info" %}
 If Metamask is well connected the fox icon appears.
@@ -34,9 +34,9 @@ TEST MATIC token is the test-MATIC used on Mumbai to pay for transaction fees (a
 
 To get test-MATIC, you can go to the [Polygon Mumbai Faucet](https://faucet.polygon.technology):&#x20;
 
-* Network select _**Mumbai**_,&#x20;
-* Select token _**MATIC Token**_,&#x20;
-* Enter your wallet address where you will receive the test-Matic&#x20;
+* Network select _**Mumbai**_
+* Select token _**MATIC Token**_
+* Enter your wallet address where you will receive the test-Matic
 
 {% hint style="info" %}
 If you are using Metamask, it is your wallet account address.

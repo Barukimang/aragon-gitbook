@@ -5,11 +5,17 @@ coverY: 0
 
 # Dispute lifecycle
 
-The following guide aims to cover all the information you need to know as a guardian to understand a dispute's lifecycle and its related tasks so you can have the best experience possible using the Aragon Court Dashboard. For an overview of the Dashboard and its modules, [click here](https://help.aragon.org/article/42-aragon-court-dashboard).
+{% hint style="info" %}
+In this section, you will lean what is a dispute lifecycle.
+{% endhint %}
+
+The following guide aims to cover all the information you need to know as a guardian to understand a dispute's lifecycle and its related tasks so you can have the best experience possible using the Aragon Court Dashboard. For an overview of the Dashboard and its modules, [click here.](aragon-court-dashboard.md)
 
 ![](<../../../.gitbook/assets/Screenshot 2022-02-07 at 11.19.38 (1).png>)
 
-The Court's main unit of time is called a **term**, which is currently set to **eight hours**. Every time period in Aragon Court is composed of terms (e.g. the vote commit duration lasts six terms, or two days). The current term and its remaining time is always displayed at the top of the dashboard.
+The Court's main unit of time is called a **term**, which is currently set to **eight hours**. Every time period in Aragon Court is composed of terms (e.g. the vote commit duration lasts six terms, or two days).&#x20;
+
+The current term and its remaining time is always displayed at the top of the dashboard.
 
 As for disputes, they essentially observe the following lifecycle:
 
@@ -29,7 +35,9 @@ No action is required by guardians during this period.
 
 ![](<../../../.gitbook/assets/Screenshot 2022-02-10 at 12.15.55.png>)
 
-After the evidence period is over, the first adjudication round is initiated and the Summon guardians period begins. The only task required during this period is to click on the Summon guardians button in the dispute page. Anybody can execute this task and receive a DAI reward proportional to the number of guardians being drafted. The current draft reward amount is [`Draft_Fee`](https://help.aragon.org/article/48-aragon-court-faq) per guardian.
+After the evidence period is over, the first adjudication round is initiated and the Summon guardians period begins.&#x20;
+
+The only task required during this period is to click on the Summon guardians button on the dispute page. Anybody can execute this task and receive a DAI reward proportional to the number of guardians being drafted. The current draft reward amount is [`Draft_Fee`](https://help.aragon.org/article/48-aragon-court-faq) per guardian.
 
 Your chances of being drafted as a guardian are directly proportional to your active amount of tokens.
 
@@ -118,3 +126,9 @@ If, however, you voted with the minority, your locked tokens are redistributed t
 ### **Final appeal round**
 
 The maximum number of appeal rounds is not infinite, it is currently set to **four**. If an appeal is still confirmed after the maximum allowed is reached, a final round is initiated where the number of guardians equal to [`total active stake / Min_Active_Balance`](https://help.aragon.org/article/48-aragon-court-faq) is drafted, in which case all drafted guardians will be required to make up and safely store a secret passphrase to vote. The auto-reveal service is currently disabled for the final appeal round, so guardians will have to manually reveal their vote with their secret passphrase during the final reveal period.
+
+
+
+> #### <mark style="color:purple;">Do have a question? Leave your comments here at our Discourse forum</mark> 👇
+
+{% embed url="https://aragontesting.trydiscourse.com/t/aragon-court-dispute-lifecycle/69" %}
