@@ -6,16 +6,14 @@ coverY: 0
 # Dispute lifecycle
 
 {% hint style="info" %}
-In this section, you will lean what is a dispute lifecycle.
+In this section, you will learn what is a dispute lifecycle. The following guide aims to cover all the information you need to know as a guardian to understand a dispute's lifecycle and its related tasks so you can have the best experience possible using the Aragon Court Dashboard. For an overview of the Dashboard and its modules, [click here.](aragon-court-dashboard.md)
 {% endhint %}
-
-The following guide aims to cover all the information you need to know as a guardian to understand a dispute's lifecycle and its related tasks so you can have the best experience possible using the Aragon Court Dashboard. For an overview of the Dashboard and its modules, [click here.](aragon-court-dashboard.md)
 
 ![](<../../../.gitbook/assets/Screenshot 2022-02-07 at 11.19.38 (1).png>)
 
 The Court's main unit of time is called a **term**, which is currently set to **eight hours**. Every time period in Aragon Court is composed of terms (e.g. the vote commit duration lasts six terms, or two days).&#x20;
 
-The current term and its remaining time is always displayed at the top of the dashboard.
+The current term and its remaining time are always displayed at the top of the dashboard.
 
 As for disputes, they essentially observe the following lifecycle:
 
