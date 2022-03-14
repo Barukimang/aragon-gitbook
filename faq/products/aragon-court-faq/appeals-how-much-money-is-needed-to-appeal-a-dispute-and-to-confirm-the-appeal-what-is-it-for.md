@@ -1,9 +1,5 @@
 # Appeals - How much money is needed to appeal a dispute? And to confirm the appeal? What is it for?
 
-
-
-###
-
 * To appeal a dispute or confirm it, the amount required is `(Juror_Fee + Draft_Fee + Settle_Fee) x collateral factor x number of jurors`.
   * Guardian fees = `Juror_Fee`
   * Draft fees = `Draft_Fee`

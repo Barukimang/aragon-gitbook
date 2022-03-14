@@ -5,7 +5,6 @@
     *   Controller contract:
 
         * Court parameters:
-        *
           * Juror fees
           * Draft fees
           * Settlement fees
@@ -18,7 +17,7 @@
           * Final round fees reduction percentage
           * First round guardians number
           * Factor used to increase guardians number in each appeal
-          * Number of regular rounds (before final round with all guardians is triggered)
+          * Number of regular rounds (before final round with all guardians is triggered
           * Number of terms that a coherent guardians in a final round is disallowed to withdraw (to discourage 51% attacks)
           * Multiple of dispute fees required to appeal a preliminary ruling
           * Multiple of dispute fees required to confirm appeal
