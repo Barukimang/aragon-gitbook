@@ -7,7 +7,7 @@ coverY: 0
 
 ****[**Aragon Voice**](https://voice.aragon.org) **** is a new gasless and universally verifiable voting solution for submitting proposals for any ERC20 token and voting on them using a decentralized end-to-end verifiable protocol.
 
-Anyone with an Ethereum address can:
+### Anyone with an Ethereum address can:
 
 * design and implement **on-chain proposals** for their ERC20 project, where **votes** can be cast **without gas fees**, and are recorded as metadata both to Ethereum and IPFS,&#x20;
 * signalling proposals that use a centralized backend but are universally verifiable\* on our custom vote-counting blockchain (Vochain).&#x20;
@@ -27,5 +27,5 @@ This technology is also the base for layer-2 (L2), a voting-specific blockchain 
 The result is a completely permissionless, decentralized and highly scalable governance solution for DAOs and other initiatives that make use of ERC-20 tokens.
 
 {% hint style="info" %}
-Aragon Voice can be used for permissionless signalling but also for dispute resolution and deterministic on-chain execution when combined with Aragon Court and Aragon Govern.
+Aragon Voice can be used for permissionless signaling but also for dispute resolution and deterministic on-chain execution when combined with Aragon Court and Aragon Govern.
 {% endhint %}

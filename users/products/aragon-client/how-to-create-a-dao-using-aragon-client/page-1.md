@@ -5,10 +5,10 @@
 {% endhint %}
 
 {% hint style="danger" %}
-Before starting:  be sure to have read the "[How to create a DAO](./)" section.
+Before starting be sure to have read [How to create a DAO](./).
 {% endhint %}
 
-A _Reputation_ organization is an organization that uses **non-transferable tokens** to represent reputation. Decisions are made using **reputation-weighted voting**.
+A Reputation organization is an organization that uses **non-transferable tokens** to represent reputation. Decisions are made using **reputation-weighted voting**.
 
 ## Creating a Reputation DAO
 
@@ -16,29 +16,41 @@ A _Reputation_ organization is an organization that uses **non-transferable toke
 
 
 
-Click _View details_, review the apps available, check the boxes to install any optional apps you want to install. When finished, click _Use this template_.
+Click _**View details**_, review the apps available, check the boxes to install any optional apps you want to install. When finished, click _**Use this template**_.
 
 ![](<../../../../.gitbook/assets/Schermata 2022-02-10 alle 15.22.29.png>)
 
 ## Claim a name
 
-Select the name of your DAO and fill in the _Organization Name_ tab.&#x20;
+Select the name of your DAO and fill in the _**Organization Name**_** ** tab. Aragon uses the [Ethereum Name Service](https://ens.domains) (ENS) to assign names to organizations.
 
-Aragon uses the [Ethereum Name Service](https://ens.domains) (ENS) to assign names to organizations.
-
-Note: this name will be useful for accessing your DAO. Don't forget it!&#x20;
+{% hint style="warning" %}
+This name will be useful for accessing your DAO. Don't forget it!&#x20;
+{% endhint %}
 
 ![](<../../../../.gitbook/assets/Schermata 2022-02-10 alle 15.23.36.png>)
 
 ## Configure the parameters of the Voting App
 
-_Note: The Voting app parameters currently cannot be changed from the Aragon frontend client. To change the Voting app parameters after your organization has been created, you must first initialize the permissions to change these parameters, then you can change the parameters using the_ [_aragonCLI_](https://hack.aragon.org/docs/cli-intro.html)_._
+__
 
-Configure the voting settings. Select:
+{% hint style="info" %}
+The Voting app parameters currently cannot be changed from the Aragon front-end client. To change the Voting app parameters after your organization has been created, you must first initialize the permissions to change these parameters, then you can change the parameters using the [aragonCLI](https://hack.aragon.org/docs/cli-intro.html).
+{% endhint %}
 
-* the S_upport_ percentage: is the relative percentage of tokens that are required to vote “Yes” for a proposal to be approved. For example, if “Support” is set to 50%, then more than 50% of the tokens used to vote on a proposal must vote “Yes” for it to pass.
-* the M_inimum Approval_ percentage: is the percentage of the total token supply that is required to vote “Yes” on a proposal before it can be approved. For example, if the “Minimum Approval” is set to 20%, then more than 20% of the outstanding token supply must vote “Yes” on a proposal for it to pass.
-* the V_ote Duratio_n: is the length of time that the vote will be open for participation. For example, if the Vote Duration is set to 24 hours, then token holders have 24 hours to participate in the vote.
+### Configure the voting settings
+
+#### The Support percentage&#x20;
+
+It __ is the relative percentage of tokens that are required to vote _**Yes**_ for a proposal to be approved. For example, if _**Support**_ is set to 50%, then more than 50% of the tokens used to vote on a proposal must vote _**Yes**_ for it to pass.
+
+#### The Minimum Approval percentage
+
+It is the percentage of the total token supply that is required to vote _**Yes**_ on a proposal before it can be approved. For example, if the _**Minimum Approval**_ is set to 20%, then more than 20% of the outstanding token supply must vote _**Yes**_ on a proposal for it to pass.
+
+#### The Vote Duration&#x20;
+
+It is the length of time that the vote will be open for participation. For example, if the Vote Duration is set to 24 hours, then token holders have 24 hours to participate in the vote.
 
 ![](<../../../../.gitbook/assets/Schermata 2022-02-10 alle 15.08.36.png>)
 
@@ -46,15 +58,19 @@ Configure the voting settings. Select:
 
 ## Configure the parameters of the Token App
 
-Choose a token name, a symbol, the tokenholders and the amount (_balance_) of token for each tokenholders. You can add the token holder using the _Add more_ button.
 
-Note: The token name and symbol currently cannot be changed. Do not add more than a few tokenholders to your organization on this screen or the transaction to create your organization may fail; you can add more tokenholders after the organization has been created.
+
+Choose a token name, a symbol, the token holders and the amount (balance) of token for each token holders. You can add the token holder using the _**Add more**_ button.
+
+{% hint style="warning" %}
+The token name and symbol currently cannot be changed. Do not add more than a few token holders to your organization on this screen or the transaction to create your organization may fail. You can add more token holders after the organization has been created.
+{% endhint %}
 
 ![](<../../../../.gitbook/assets/Schermata 2022-02-10 alle 15.25.03.png>)
 
 ## Review organization information
 
-Open each panel to make sure that the information entered to launch your organization is correct. If anything is incorrect, you can click the "back" button to return to an earlier screen and make the necessary correction.
+Open each panel to make sure that the information entered to launch your organization is correct. If anything is incorrect, you can click the _**back**_ button to return to an earlier screen and make the necessary correction.
 
 ![](<../../../../.gitbook/assets/Schermata 2022-02-10 alle 15.25.54.png>)
 
@@ -64,11 +80,9 @@ Open each panel to make sure that the information entered to launch your organiz
 
 ## Launch your organization
 
-Now you need to sign a transaction to create your organization. Open your Ethereum provider if the window does not open automatically. Click the _confirm_ button in your Ethereum provider to sign and broadcast the transaction.
+Now you need to sign a transaction to create your organization. Open your Ethereum provider if the window does not open automatically. Click the _**confirm**_ button in your Ethereum provider to sign and broadcast the transaction.
 
 Wait until the transaction is completed.&#x20;
-
-
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d8624d704286364bc8f650d/file-arEtXF8S0j.png)
 
@@ -84,7 +98,9 @@ Now you can [explore your new Reputation organization.](../explore-template-dao/
 
 ![](<../../../../.gitbook/assets/Schermata 2022-02-10 alle 15.17.04.png>)
 
+{% hint style="info" %}
 If your DAO doesn't open automatically, go [here](../../../../faq/products/aragon-client/where-is-my-dao.md) and find how to access.
+{% endhint %}
 
 
 

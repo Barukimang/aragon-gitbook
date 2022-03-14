@@ -5,7 +5,7 @@ In this section, you will learn how to create a Company DAO using the Company Te
 {% endhint %}
 
 {% hint style="danger" %}
-**Before starting** be sure to have read the [How to create a DAO](./) section.
+Before starting be sure to have read [How to create a DAO](./).
 {% endhint %}
 
 ## What is a company organization?
@@ -57,7 +57,7 @@ It is the length of time that the vote will be open for participation. For examp
 Choose a token name, a symbol, the token holders and the amount (balance) of token for each token holders. You can add the token holder using the _**Add more**_ button.
 
 {% hint style="warning" %}
-The token name and symbol currently cannot be changed. Do not add more than a few token holders to your organization on this screen or the transaction to create your organization may fail; you can add more token holders after the organization has been created.
+The token name and symbol currently cannot be changed. Do not add more than a few token holders to your organization on this screen or the transaction to create your organization may fail. You can add more token holders after the organization has been created.
 {% endhint %}
 
 ![Token app settings](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d8624862c7d3a7e9ae173e4/file-wSKI8WfAzK.png)
@@ -79,7 +79,7 @@ Open each panel to make sure that the information entered to launch your organiz
 
 ## Launch your organization
 
-Now you need to sign a transaction to create your organization. Open your Ethereum provider if the window does not open automatically. Click the _confirm_ button in your Ethereum provider to sign and broadcast the transaction.
+Now you need to sign a transaction to create your organization. Open your Ethereum provider if the window does not open automatically. Click the _**confirm** _ button in your Ethereum provider to sign and broadcast the transaction.
 
 Wait until the transaction is completed.&#x20;
 
@@ -97,7 +97,9 @@ Now you can [explore your new Company organization](../explore-template-dao/).
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d8624ee04286364bc8f650e/file-a4bAYgLmxU.png)
 
+{% hint style="info" %}
 If your DAO doesn't open automatically, go [here](../../../../faq/products/aragon-client/where-is-my-dao.md) and find how to access it.
+{% endhint %}
 
 
 

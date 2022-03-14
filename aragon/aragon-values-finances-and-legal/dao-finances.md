@@ -1,8 +1,3 @@
----
-cover: ../../.gitbook/assets/619622a69961413c646ac357_bg_02 (1).png
-coverY: 773.46829810901
----
-
 # Financial infrastructure
 
 {% hint style="info" %}
@@ -13,7 +8,7 @@ Here you will learn how Aragon deals with its financial ecosystem.
 
 The current portfolio composition of the Aragon Association is made up of predominantly:
 
-* &#x20;$ETH,&#x20;
+* $ETH,&#x20;
 * $BTC,&#x20;
 * altcoins,
 * stable coins,

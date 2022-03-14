@@ -1,8 +1,3 @@
----
-cover: ../../.gitbook/assets/02.png
-coverY: 0
----
-
 # Prerequisites
 
 {% hint style="info" %}

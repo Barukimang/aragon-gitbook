@@ -9,7 +9,9 @@ With Aragon Govern's **optimistic governance model**, every transaction has a **
 
 When this happens, **transactions can be challenged**, and a dispute is created in Aragon Court (or any other preferred dispute resolution system specified in the DAO).
 
+{% hint style="warning" %}
 If you do not agree with a transaction that has been scheduled, provide a clear justification so that guardians can understand why you are disputing it. This will greatly increase case comprehension for the guardians and can allow for fast dispute resolution.
+{% endhint %}
 
 &#x20;
 

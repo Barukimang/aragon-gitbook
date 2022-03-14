@@ -1,8 +1,3 @@
----
-cover: ../../../../.gitbook/assets/03.png
-coverY: 0
----
-
 # Navigate into your DAO
 
 {% hint style="info" %}

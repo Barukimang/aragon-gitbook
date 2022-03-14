@@ -87,18 +87,15 @@ You also have the option to enable the auto-reveal service.&#x20;
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/6113a83f6ffe270af2a97c78/file-AfZaSlWkn6.png)
 
 {% hint style="danger" %}
-### **IMPORTANT:**&#x20;
-
-1 - Auto-reveal service might not be available sometimes. If this happens, please wait for about 2 minutes, and try again.
-
-2 - If you do not enable auto-reveal, and do not manually reveal your vote when the reveal stage is available, the system will consider that you did not vote, and you will get your tokens slashed.
+* Auto-reveal service might not be available sometimes. If this happens, please wait for about 2 minutes, and try again.
+* If you do not enable auto-reveal, and do not manually reveal your vote when the reveal stage is available, the system will consider that you did not vote, and you will get your tokens slashed.
 {% endhint %}
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/6113a872b55c2b04bf6dd4e7/file-2ebMDlmKLp.png)
 
 ### Next steps
 
-Your guardian duty end here. The next stages can be triggered by anyone in Aragon court (including you) but are not your responsibility. If a dispute is appealed, a new round of guardians will be summoned. If you are one of them, follow this same process again.
+The next stages can be triggered by anyone in Aragon court (including you) but are not your responsibility. If a dispute is appealed, a new round of guardians will be summoned. If you are one of them, follow this same process again.
 
 
 

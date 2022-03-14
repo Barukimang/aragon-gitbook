@@ -1,8 +1,3 @@
----
-cover: ../../.gitbook/assets/03.png
-coverY: 0
----
-
 # Setting up a MultiSig wallet
 
 {% hint style="info" %}

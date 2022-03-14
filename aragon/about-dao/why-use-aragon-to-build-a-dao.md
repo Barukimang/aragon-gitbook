@@ -1,8 +1,3 @@
----
-cover: ../../.gitbook/assets/6188f268d468b5871e75420f_dao.png
-coverY: 0
----
-
 # Why use Aragon to build a DAO?
 
 ### Aragon is the major player in building DAOs&#x20;

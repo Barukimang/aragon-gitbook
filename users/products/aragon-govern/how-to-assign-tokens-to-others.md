@@ -6,45 +6,49 @@ The token can be minted and assigned to other wallets in the _**Actions**_ secti
 
 !["Action" section on the left side menu ](<../../../.gitbook/assets/Schermata 2022-02-11 alle 10.09.01.png>)
 
-_Actions - New action._&#x20;
+{% hint style="info" %}
+Actions = new action
 
-Insert the following fields:
+#### Insert the following fields:
 
-_Title_ - a title to identify the transaction.
+Title = a title to identify the transaction.
 
-_Justification_ - a text or a file to tell DAO members why you schedule this transaction.
+Justification = a text or a file to tell DAO members why you schedule this transaction.-&#x20;
+{% endhint %}
 
-Click on the _Add new transaction_ button.
+* Click on the ** **_**Add new transaction**_** ** button.
 
 ![](<../../../.gitbook/assets/Screenshot 2022-02-10 at 10.56.42.png>)
 
-Click on _Select Action - Mint tokens_ to mint more DAO tokens.
+* Click on _**Select Action - Mint tokens**_ to mint more DAO tokens.
 
 ![](<../../../.gitbook/assets/Screenshot 2022-02-10 at 11.18.49.png>)
 
-Select _Other address_ to enable the option to insert the address of a DAO member.
+* Select _Other address_ to enable the option to insert the address of a DAO member.
 
-_Recipient address_ - insert the address where the new to mint DAO tokens should be transferred to.
+{% hint style="info" %}
+Recipient address - insert the address where the new to mint DAO tokens should be transferred to.
 
-_Amount -_ quantity of token to deposit. The correct format is \<number>.\<number> (ex. 5.0)
+Amount - quantity of token to deposit. The correct format is \<number>.\<number> (ex. 5.0)
+{% endhint %}
 
-Click _Add transaction_
+* Click _Add transaction_
 
 ![](<../../../.gitbook/assets/Screenshot 2022-02-10 at 11.19.14.png>)
 
-Back on the _New transaction_ page fill the following fields in the _mint_ box:
+* Back on the _**New transaction**_** ** page fill the fields in the _**mint**_ box.
 
-_To_ - insert the address where the new to mint DAO tokens should be transferred.
+{% hint style="info" %}
+To - insert the address where the new to mint DAO tokens should be transferred.
 
-_Amount_ - needs to be in wei (not in Ether), you can use a converter such as [https://eth-converter.com/](https://eth-converter.com) (for example: so instead of 200.0 for your amount you need to input 200000000000000000000).
+Amount - needs to be in wei (not in Ether), you can use a converter such as [https://eth-converter.com/](https://eth-converter.com) (for example: so instead of 200.0 for your amount you need to input 200000000000000000000).
 
-_Context_ - should be 0x (without " ") or any other hex byte you wish.
+Context - should be 0x (without " ") or any other hex byte you wish.
+{% endhint %}
 
-Click _Schedule_ to execute the transaction.
+* Click _**Schedule**_ to execute the transaction.
 
 ![](<../../../.gitbook/assets/Screenshot 2022-02-10 at 11.35.40.png>)
-
-
 
 > #### <mark style="color:purple;">Do you have a question? Leave your comments here at our Discourse forum</mark> 👇
 

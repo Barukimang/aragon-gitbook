@@ -17,7 +17,7 @@ Aragon Court is one of the core components of the Aragon OpenStack. It is a **di
 
 Unlike traditional courts, Aragon Court guardians are not asked to rule impartially on disputes but instead are asked **to rule the way they expect the plurality of guardians to rule.** Aragon Court attempts to find what the subjective truth is (i.e. the most correct outcome of a dispute) with a Schelling point. Every time a guardian is drafted for a dispute, a portion of their activated tokens is locked until the dispute is finalized. To incentivize consensus, guardians who don’t vote in favour of the final ruling have their locked tokens slashed. Guardians who vote in favor of the final ruling are rewarded with dispute fees and tokens from any guardians who voted for a minority ruling.&#x20;
 
-## "Proof of stake"
+## Proof of stake
 
 The Aragon Court is a **permissionless protocol** where any participant can come and go without asking for anyone's authorization. Therefore, the protocol must function with integrity even in the presence of malicious actors, who may pose as multiple guardians at once to "Sybil attack" the Court. The defence against these attacks begins with a simple **staking system where guardian impact is weighted by their active stake of tokens**.
 

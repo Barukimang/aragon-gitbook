@@ -1,8 +1,3 @@
----
-cover: ../../.gitbook/assets/6188f268d468b5871e75420f_dao.png
-coverY: 0
----
-
 # What is decentralized autonomous governance?
 
 Every centralized organization is controlled by an individual or a small group. They serve as a trusted middleman and ideally would act in the name of the shared interest. Unfortunately these individuals or small groups sometimes put their own interests above the shared interest of the organisation they are supposed to serve. In this case they are a 'single point of failure' which causes the whole organisation to malfunction.

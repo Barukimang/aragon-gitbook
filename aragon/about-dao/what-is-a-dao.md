@@ -1,8 +1,3 @@
----
-cover: ../../.gitbook/assets/6188f268d468b5871e75420f_dao.png
-coverY: 0
----
-
 # What is a DAO?
 
 {% hint style="info" %}

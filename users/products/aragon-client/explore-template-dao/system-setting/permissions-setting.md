@@ -1,19 +1,16 @@
----
-cover: ../../../../../.gitbook/assets/03.png
-coverY: 0
----
-
 # Permissions Setting
 
 {% hint style="info" %}
 In this section, we explore in-depth the Permissions setting. You can find a dedicated video at the end of this page.
 {% endhint %}
 
-The _Permissions app_ is used to view all of the current permissions that have been set in an organization and add or remove permissions as needed.&#x20;
+## What is the Permissions app?
+
+The _**Permissions app**_** ** is used to view all of the current permissions that have been set in an organization and add or remove permissions as needed.&#x20;
 
 The permissions set by the Permissions app define which entities have what permissions to perform various actions in an organization.&#x20;
 
-For example, any account may have permission to create a vote but only tokenholders in an organization may have permission to cast a vote.
+For example, any account may have permission to create a vote but only token holders in an organization may have permission to cast a vote.
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d8a697f2c7d3a7e9ae19121/file-gDcISkpUXb.png)
 
@@ -25,23 +22,25 @@ The Permissions app shows a list of every **app installed** in the organization 
 
 ![System permissions](../../../../../.gitbook/assets/file-mnVytX0QZA.png)
 
-Every app has:
+### Every app has:
 
 * a list of **actions that can be performed** on the app,&#x20;
 * a list of **actions that other entities have been given permission to perform** on the app,&#x20;
 * a list of **permissions that the app has been granted**.
 
+{% hint style="info" %}
 The image below shows the list of actions that can be performed by the _Finance_ App (_Action_ column), the other entities that have the permissions to perform these actions (_Assigned to entity_ column) and who has the authority to assign the permission to this entity (_Managed by_ column).
+{% endhint %}
 
 ![Finance permissions example](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d8a6a7104286364bc8f8145/file-NKD9Oqrl0V.png)
 
-#### Let's see an example (we are referring to the image up :point\_up:):
+### Example
 
-If we need to perform a "_Create new payments" on t_he _Finance_ App, this action will pass through a vote in the _Voting_ App (this because the _Create new payments_ action in the _Finance_ App is assigned to the _Voting_ entity). __&#x20;
+If we need to perform a _**Create new payments** _ on the Finance App, this action will pass through a vote in the Voting App. The reason behind is that the Create new payments action in the Finance App is assigned to the Voting entity.
 
 ### **Available permissions**
 
-The _Available permissions_ section shows:
+The Available permissions section shows:
 
 * **what actions** can be performed on the app,&#x20;
 * **what entity** has permission to **perform** each action,&#x20;
@@ -53,20 +52,22 @@ A **manager** has the ability to **choose which entities have permission to perf
 
 ![](<../../../../../.gitbook/assets/Schermata 2022-03-09 alle 10.25.57 (1).png>)
 
-#### Assign Permissions
+### Assign Permissions
 
 Click on the drop-down menu on the _three dots_ and select _Assign Permission._ Select an App under the _On App_ menu, an entity under the _Assign to Entity_ menu and an Action.&#x20;
 
 ![Assign a permission](<../../../../../.gitbook/assets/Schermata 2022-03-09 alle 10.26.48.png>)
 
-#### Manage Role
+### Manage Role
 
-Click on the drop-down menu on the _three dots_ and select _Manage Role._ Select an update under the _Update_ menu. &#x20;
+Click on the drop-down menu on the ** **_**three dots**_ and select _**Manage Role**._ Select an update under the _**Update**_** ** menu. &#x20;
 
 ![Manage Permission](<../../../../../.gitbook/assets/Schermata 2022-03-09 alle 10.37.21.png>)
 
 {% hint style="warning" %}
-If a manager removes themselves as a manager of permission without re-assigning the manager role to another entity, then management of that action defaults to whichever entity manages the _Create permissions_ action in the ACL app. In our example (showed in the image below), the management of the action will be assigned to the _Voting_ App.
+If a manager removes themselves as a manager of permission without re-assigning the manager role to another entity, then management of that action defaults to whichever entity manages the _**Create permissions**_** ** action in the ACL app.&#x20;
+
+In the example below, the management of the action will be assigned to the Voting App.
 {% endhint %}
 
 ![](<../../../../../.gitbook/assets/Schermata 2022-03-09 alle 10.12.59.png>)
@@ -75,7 +76,7 @@ If a manager removes themselves as a manager of permission without re-assigning 
 If the manager of action is set as `0x0000000000000000000000000000000000000001` then no new manager can be set and permissions granted for that action will be locked forever.
 {% endhint %}
 
-#### Initialize Permission
+### Initialize Permission
 
 If an action has not been given a manager yet, then it must be initialized. To initialize an action, enter the address (_Grant permission to_) of the entity that you want to manage the action, select which entity you want to grant permission to perform the action, then click the _Initialize permission_ button to initialize the permission, if you have permission to do so.
 
@@ -85,13 +86,15 @@ If an action has not been given a manager yet, then it must be initialized. To i
 
 Back on the main Permissions page, you have the ability to get an at-a-glance view of all of the permissions set in an organization in the _Browse by entity_ section.&#x20;
 
-Here, you can quickly see which entities have been granted permission to perform which actions in the organization. Clicking _View details_ will take you to the permissions page for that entity.
+Here, you can quickly see which entities have been granted permission to perform which actions in the organization.&#x20;
+
+Clicking ** **_**View details**_ will take you to the permissions page for that entity.
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d8a6b6104286364bc8f8153/file-W609vjv1Pi.png)
 
 ### **Add permission**
 
-To give permission to an entity to perform an action on an app, click the _Add permission_ button, select which app you want the entity to perform the action on, select which entity you want to grant the permission to, then select the action you want to grant the entity permission to perform.
+To give permission to an entity to perform an action on an app, click the _**Add permission**_ button, select which app you want the entity to perform the action on, select which entity you want to grant the permission to, then select the action you want to grant the entity permission to perform.
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d8a6b732c7d3a7e9ae1913a/file-xsxDomUDSy.png)
 
@@ -103,19 +106,19 @@ Granting permission to an entity to perform these actions on these apps will all
 
 * Create permissions: create permissions that have not been initialized yet in any app that uses this ACL instance`*`
 
-> `*`_These actions are very sensitive actions that will give the entity with permission to perform these actions almost complete control of your organization._
+> `*`_These actions are very sensitive and will give the entity with permission to perform these actions almost complete control of your organization._
 
 #### **EVM (Ethereum Virtual Machine) Script Registry**
 
-* Add executors: add an executor to the organization`*`
-* Enable and disable executors: enable and disable executors in an organization`*`
+* **Add executors**: add an executor to the organization`*`
+* **Enable and disable executors**: enable and disable executors in an organization`*`
 
 > `*` _These actions are very sensitive actions that will give the entity with permission to perform these actions almost complete control of your organization._
 
 {% hint style="warning" %}
-_Note: An executor is an interpreter for running scripts in an organization. All of the apps in an organization use the executors in the organization to execute scripts that are part of transactions sent to the app. Each script has an identifier that determines which executor is used for running the script._&#x20;
+An executor is an interpreter for running scripts in an organization. All of the apps in an organization use the executors in the organization to execute scripts that are part of transactions sent to the app. Each script has an identifier that determines which executor is used for running the script.&#x20;
 
-_For example, whenever a vote transaction is sent to the Voting app, the app runs a script, then uses an executor to execute the script in the transaction. You can find more documentation about executors in the_ [_Aragon Developer Portal_](https://hack.aragon.org/docs/aragonos-ref.html#52-evmscripts)_._
+For example, whenever a vote transaction is sent to the Voting app, the app runs a script, then uses an executor to execute the script in the transaction. You can find more documentation about executors in the [Aragon Developer Portal](https://hack.aragon.org/docs/aragonos-ref.html#52-evmscripts).
 {% endhint %}
 
 #### Kernel
@@ -141,11 +144,19 @@ _For example, whenever a vote transaction is sent to the Voting app, the app run
 __
 
 {% hint style="info" %}
-_Note: **“Minimum Approval %”** is the percentage of the total token supply that support for a proposal must be greater than for the proposal to be considered valid. For example, if the Minimum Approval % is set to 20%, then more than 20% of the outstanding token supply must vote to approve a proposal for the vote to be considered valid. If a vote does not make quorum, then it will fail, even if more tokens voted to approve the proposal than voted against it. For example, if the Minimum Approval % is set to 20% and 10% of the outstanding token supply votes against the proposal but only 15% vote in support, then the proposal will fail because it has not reached the Minimum Approval % threshold._
+**Minimum Approval %** is the percentage of the total token supply that support for a proposal must be greater than for the proposal to be considered valid.&#x20;
+
+#### Example 1
+
+If the Minimum Approval % is set to 20%, then more than 20% of the outstanding token supply must vote to approve a proposal for the vote to be considered valid. If a vote does not make quorum, then it will fail, even if more tokens voted to approve the proposal than voted against it.&#x20;
+
+#### Example 2
+
+If the Minimum Approval % is set to 20% and 10% of the outstanding token supply votes against the proposal but only 15% vote in support, then the proposal will fail because it has not reached the Minimum Approval % threshold.
 {% endhint %}
 
 {% hint style="info" %}
-_Note: **“Support”** is the percentage of votes on a proposal that the total support must be greater than for the proposal to be approved. For example, if “Support” is set to 51%, then more than 51% of the votes on a proposal must vote “Yes” for the proposal to pass._
+**Support** is the percentage of votes on a proposal that the total support must be greater than for the proposal to be approved. For example, if “Support” is set to 51%, then more than 51% of the votes on a proposal must vote “Yes” for the proposal to pass.
 {% endhint %}
 
 #### Finance
