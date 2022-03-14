@@ -60,7 +60,13 @@ The vote commit period lasts **two days**. Here are the steps required to cast a
 
 **Select one of the three voting choices.**
 
-Three choices are available: voting to **Allow** the action being disputed, voting to **Block** the action, or **Refuse to vote**. You can choose to refuse to vote for many reasons, for example if you consider that the evidence was not conclusive enough or the description was incoherent. Remember that you should vote the way that you think a plurality of guardians will vote, since you will be penalized if your vote is in the minority.
+Three choices are available: voting to **Allow** the action being disputed, voting to **Block** the action, or **Refuse to vote**.&#x20;
+
+You can choose to refuse to vote for many reasons, for example, if you consider that the evidence was not conclusive enough or the description was incoherent.&#x20;
+
+{% hint style="warning" %}
+Remember that you should vote the way that you think a plurality of guardians will vote, since you will be penalized if your vote is in the minority.
+{% endhint %}
 
 ![](https://lh6.googleusercontent.com/OQFRlQMHSUhTctxiC6beX-WiTWoa2kXPUQEXeW0gAXx0KUiDfE\_1omvsxYVCqAD-a1RAZlZK1KofrJOPvFPwJszi5eFQvuRI1iWGctDk7RejgpG2v-XbjNm2C79Tr4mlpt\_q6TFj)
 
@@ -105,25 +111,37 @@ If you enabled the **Auto-reveal service**, there is no action required from you
 
 Now that the votes are revealed, you can see whether you voted with the plurality or not. But before the ruling can be executed, an appeal period is started during which any user can lock DAI as collateral to propose an appeal. Appeal collateral amounts can be found in the Aragon Court FAQ.
 
-However, an appeal must be confirmed by a second user to officially start a new round. Appeal confirmation collateral amounts can be found in the Aragon Court FAQ.
+However, an appeal must be confirmed by a second user to officially start a new round. Appeal confirmation collateral amounts can be found in the [Aragon Court FAQ](aragon-court-faq.md).
 
 If an appeal is confirmed, a new adjudication round is initiated and a new jury is drafted. With each new appeal, the number of guardians is multiplied by **three**. The appeal and appeal confirmation periods both last **two days.**
 
 If an appeal is not confirmed, then the outcome proposed by the appealing party wins. For example, if the ruling of the previous round was "Allow" and the appealing party proposes an "Block" ruling, and no one confirms the appeal, then the final ruling will be "Block".
 
-When the final ruling is confirmed, if the ruling has switched in favor of the user who appealed (the "appealing party") then the collateral of the user who confirmed the appeal (the "confirming party") is redistributed to the appealing party. If the ruling is in favor of the confirming party, then the collateral of the appealing party is redistributed to the confirming party. And if the final ruling is in neither the appealing party nor the confirming party's favor, then both the appealing party and confirming party get their collateral back minus a fee that goes to the guardians who voted in the plurality.
+When the final ruling is confirmed:
+
+* if the ruling has switched in favor of the user who appealed (the "appealing party") then the collateral of the user who confirmed the appeal (the "confirming party") is redistributed to the appealing party.&#x20;
+* If the ruling is in favor of the confirming party, then the collateral of the appealing party is redistributed to the confirming party.&#x20;
+* Iff the final ruling is in neither the appealing party nor the confirming party's favor, then both the appealing party and confirming party get their collateral back minus a fee that goes to the guardians who voted in the plurality.
 
 ### **Final ruling**
 
 Once a ruling has been decided without any appeal, the final ruling is sent to the smart contract that triggered the dispute and all the adjudication rounds for the dispute can be settled taking into account the final ruling for rewards and penalties.
 
-If, as a guardian, you voted with the plurality of guardians in the final ruling, congratulations! You just earned a percentage of the slashed tokens from guardians who voted in the minority.
+{% hint style="success" %}
+If, as a guardian, you voted with the plurality of guardians in the final ruling, congratulations! :tada:
 
+You just earned a percentage of the slashed tokens from guardians who voted in the minority.
+{% endhint %}
+
+{% hint style="danger" %}
 If, however, you voted with the minority, your locked tokens are redistributed to the guardians who voted with the plurality in the final ruling.
+{% endhint %}
 
 ### **Final appeal round**
 
-The maximum number of appeal rounds is not infinite, it is currently set to **four**. If an appeal is still confirmed after the maximum allowed is reached, a final round is initiated where the number of guardians equal to [`total active stake / Min_Active_Balance`](https://help.aragon.org/article/48-aragon-court-faq) is drafted, in which case all drafted guardians will be required to make up and safely store a secret passphrase to vote. The auto-reveal service is currently disabled for the final appeal round, so guardians will have to manually reveal their vote with their secret passphrase during the final reveal period.
+The maximum number of appeal rounds is not infinite, it is currently set to **four**.&#x20;
+
+If an appeal is still confirmed after the maximum allowed is reached, a final round is initiated where the number of guardians equal to [`total active stake / Min_Active_Balance`](https://help.aragon.org/article/48-aragon-court-faq) is drafted, in which case all drafted guardians will be required to make up and safely store a secret passphrase to vote. The auto-reveal service is currently disabled for the final appeal round, so guardians will have to manually reveal their vote with their secret passphrase during the final reveal period.
 
 
 
