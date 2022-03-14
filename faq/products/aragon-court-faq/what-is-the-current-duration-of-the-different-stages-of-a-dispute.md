@@ -1,6 +1,6 @@
 # What is the current duration of the different stages of a dispute?
 
-Currently the different stage lengths are:
+Currently, the different stage lengths are:
 
 * Argument submission: 7 days. It can be cut short if the Aragon Court subscriber decides to cut it short (commonly if both parties signal that they are done with argument submission).
 * Vote commitment: 2 days
