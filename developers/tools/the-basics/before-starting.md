@@ -1,8 +1,8 @@
 # Before starting
 
-Before starting to going in depth to the notions, the main commands, etc a rightful premise.
+Before starting to go in depth to the notions, the main commands, etc a couple of important notions.
 
-### What is the Web3? <a href="#web3" id="web3"></a>
+## What is the Web3? <a href="#web3" id="web3"></a>
 
 Unless you've been living under a rock for the last few years, you've probably come across the term **web3** 😋.&#x20;
 
@@ -43,3 +43,19 @@ You can read more about these concept on the links below.
 * [The case for decentralization](https://a16z.com/2019/04/17/why-work-in-crypto-startup-grind-2019/)
 * [What comes after open source?](https://a16z.com/2019/01/22/what-comes-after-open-source/)
 * [Fat protocols](http://www.usv.com/blog/fat-protocols)
+
+## What is a Web3 provider? <a href="#web3" id="web3"></a>
+
+Definition: a web3 provider an abstraction of a connection to the Ethereum network, providing a concise, consistent interface to standard Ethereum node functionality.
+
+In poor words, a web3 provider is "something" that actually sign and send transactions to the Ethereum blockchain.
+
+If you're new to the decentralized web you might be wondering why we have to use a separate provider to interact with the blockchain.&#x20;
+
+Why don't decentralized apps (like Aragon's) just do it themselves?
+
+In short, while it's possible for dapps to interact directly with the blockchain, using a web3 provider allows users to interact with dapps without trusting every one of them with their private keys (the keys to their funds).
+
+Without a web3 provider, users have to have total trust in every dapp they use. With a web3 provider, they just need to trust that provider.
+
+Examples of web3 providers are [Metamask](../../../users/products/set-up-metamask/) and [Frame](../../../users/products/set-up-frame-wallet.md).

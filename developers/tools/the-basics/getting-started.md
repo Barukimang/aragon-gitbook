@@ -8,11 +8,15 @@ description: What is Aragon and what does it do
 
 Now that we've got you all excited, let's go through what you need to get started building with Aragon 😊
 
-### Environment setup <a href="#environment-setup" id="environment-setup"></a>
+## Environment setup <a href="#environment-setup" id="environment-setup"></a>
 
-#### Node.js <a href="#nodejs" id="nodejs"></a>
+### Node.js <a href="#nodejs" id="nodejs"></a>
 
-First off, we need to be sure we have a recent version of Node.js installed, for compatibility across OS we recommend LTS (`v12`) version.
+First off, we need to be sure we have the right version of Node.js installed.
+
+{% hint style="warning" %}
+For compatibility across OS we recommend `v12 LTS` version.
+{% endhint %}
 
 To see which version of Node you have installed, from the command line run:
 
@@ -20,19 +24,15 @@ To see which version of Node you have installed, from the command line run:
 node -v
 ```
 
-To download node, [follow this link](https://nodejs.org/en/download/).
+If you haven't a node installed or if you haven't the right one you can download it [here](https://nodejs.org/en/download/).
 
-#### Web3 provider <a href="#web3-provider" id="web3-provider"></a>
+### Web3 provider <a href="#web3-provider" id="web3-provider"></a>
 
 Next, we'll need what we call a web3 provider to actually sign and send transactions to the Ethereum blockchain.
 
-If you're new to the decentralized web you might be wondering why we have to use a separate provider to interact with the blockchain. Why don't decentralized apps (like Aragon's) just do it themselves?
+In general, if you have a hardware wallet, we recommend you use [Frame](https://frame.sh) as your web3 provider -- we'll go over how to do this in the [tutorial](https://hack.aragon.org/docs/tutorial.html) that follows.&#x20;
 
-In short, while it's possible for dapps to interact directly with the blockchain, using a web3 provider allows users to interact with dapps without trusting every one of them with their private keys (the keys to theirs funds).
-
-Without a web3 provider, users have to have total trust in every dapp they use. With a web3 provider, they just need to trust that provider.
-
-> In general, if you have a hardware wallet, we recommend you use [Frame](https://frame.sh) as your web3 provider -- we'll go over how to do this in the [tutorial](https://hack.aragon.org/docs/tutorial.html) that follows. To interact with the app in this section however, we'll be using [Metamask](https://metamask.io).
+To interact with the app in this section however, we'll be using [Metamask](https://metamask.io).
 
 **Metamask**
 
