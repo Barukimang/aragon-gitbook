@@ -154,13 +154,21 @@ Done! We hope you enjoyed that 😊!&#x20;
 
 Now that you’ve built your first DAO, feel free to take a look at the docs. If you're interested in understanding things at a deeper level go ahead this tutorial.&#x20;
 
-## :paperclip: Contributing <a href="#contributing" id="contributing"></a>
+## ✏️Contributing <a href="#contributing" id="contributing"></a>
 
-You should find that there is a light blue EDIT button in the top-right corner the page. This button is available on every page of the Aragon docs. If you feel like you can improve our documentation in any way, please don't hesitate to click on it!
+You should find that there is a pencil :pencil2:EDIT button at the botton-right corner page. This button is available on every page of the Aragon docs. If you feel like you can improve our documentation in any way, please don't hesitate to click on it!
 
 If you don't have any programming experience or if this is your first time contributing to an open-source project, don't worry. We've created a [GitHub guide](https://github.com/aragon/hack/tree/master/docs-internal/github-guide.md) just for you 😊.
 
 P.S. Before you submit any changes, make sure to read our [contribution guidelines.](https://github.com/aragon/hack/blob/master/CONTRIBUTING.md)
+
+
+
+{% hint style="success" %}
+[Contribute](https://github.com/aragon/hack/edit/master/docs/getting-started.md)[ ](https://github.com/aragon/hack/edit/master/docs/getting-started.md):pencil2:
+{% endhint %}
+
+
 
 
 
