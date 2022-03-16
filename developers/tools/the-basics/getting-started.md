@@ -34,13 +34,13 @@ Next, we'll need what we call a [web3 provider](before-starting.md) to actually 
 
 In general, if you have a hardware wallet, we recommend you use [Frame](https://frame.sh) as your web3 provider -- we'll go over how to do this in the[ tutorial](../guides/your-first-aragon-app.md) that follows.&#x20;
 
-For now, to interact with the **Aragon app** in this section we'll be using [Metamask.](../../../users/products/set-up-metamask/)
+For now in this section, to interact with the **Aragon app** we'll be using Metamask. If you haven't please proceed with the installation of [Metamask](../../../users/products/set-up-metamask/).
 
 ### The aragonCLI <a href="#the-aragoncli" id="the-aragoncli"></a>
 
 The aragonCLI (or Aragon Command Line Interface) is a tool used for complex interactions with DAOs, like installing a new app, granting permissions with specific parameters or executing transactions through the [Agent app](https://hack.aragon.org/docs/guides-use-agent).
 
-To install aragonCLI from the command line run:
+Now install aragonCLI from the command line running:
 
 ```
 npm i -g @aragon/cli
@@ -52,15 +52,15 @@ If you're having trouble with this step, you should take a look at the installin
 
 ### The Aragon Buidler plugin <a href="#the-aragon-buidler-plugin" id="the-aragon-buidler-plugin"></a>
 
-The [Aragon Buidler plugin](https://github.com/aragon/buidler-aragon) is a user-friendly tool for developing apps on top of Aragon. The plugin is automatically installed when using the boilerplate templates but can be added to any project with the following command:
+The [Aragon Buidler plugin](https://github.com/aragon/buidler-aragon) is a user-friendly tool for developing apps on top of Aragon. The plugin is automatically installed when using the boilerplate templates but we can suggest to install now with the following command:
 
 ```
 npm i @aragon/buidler-aragon
 ```
 
-### Quick start <a href="#quick-start" id="quick-start"></a>
+## Quick start - Build your first DAO <a href="#quick-start" id="quick-start"></a>
 
-In order to get up and running quickly, we’ll build our first DAO using some basic scaffolding. Just like real scaffolding in a construction site, when we talk about scaffolding in this context, we mean a simple prebuilt structure for your project, on top of which you can build the real one.
+In order to get up and running quickly, **we’ll build our first DAO** using some basic scaffolding. Just like real scaffolding in a construction site, when we talk about scaffolding in this context, we mean a simple prebuilt structure for your project, on top of which you can build the real one.
 
 To create your first (scaffolded) DAO, from the command line run:
 
@@ -68,14 +68,15 @@ To create your first (scaffolded) DAO, from the command line run:
 npx create-aragon-app first-dao.aragonpm.eth
 ```
 
-Don't worry about fully understanding this line right now. Really. We'll cover that in the [tutorial](https://hack.aragon.org/docs/tutorial.html) coming up. Right now, you just need to know that the scaffolding relies on some generated code, magically created by the `create-aragon-app` command.
+{% hint style="warning" %}
+Don't worry about fully understanding this line right now. Really. We'll cover that in the [tutorial ](../guides/your-first-aragon-app.md)coming up. Right now, you just need to know that the scaffolding relies on some generated code, magically created by the `create-aragon-app` command.
+{% endhint %}
 
+{% hint style="info" %}
 If you're unsure what the difference is between `npx` and `npm`, we recommend you read through this [medium post](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b) and this [stackoverflow post.](https://stackoverflow.com/questions/50605219/difference-between-npx-and-npm)
+{% endhint %}
 
-If you look at your terminal, you should see a five step process:
-
-\
-
+Now if you look at your terminal, you should see a five step process:
 
 ![\*](https://hack.aragon.org/docs/assets/check.svg) `Preparing initialization`
 
@@ -87,9 +88,6 @@ If you look at your terminal, you should see a five step process:
 
 ![\*](https://hack.aragon.org/docs/assets/check.svg) `Created new application first-dao.aragonpm.eth in first-dao.`
 
-\
-
-
 Once all 5 have ticks next to them, you should run the following:
 
 ```
@@ -97,13 +95,16 @@ cd first-dao
 npm start
 ```
 
-The first line, `cd first-dao`, just moves us into the directory where the scaffolded app was created.
+where:
 
-And the second, `npm start`, sets up everything for us in the background so we can quickly live test our DAO.
+* `cd first-dao`, just moves us into the directory where the scaffolded app was created.
+* `npm start`, sets up everything for us in the background so we can quickly live test our DAO.
 
+{% hint style="success" %}
 If you've made it this far congrats 🤗. You've just created your first DAO! It’s running on your local network and as soon as it's ready it will open in your browser at [localhost:3000](http://localhost:3000)!
+{% endhint %}
 
-#### Interacting with your first DAO <a href="#interacting-with-your-first-dao" id="interacting-with-your-first-dao"></a>
+## Interacting with your first DAO <a href="#interacting-with-your-first-dao" id="interacting-with-your-first-dao"></a>
 
 If it's not already open, open your browser at the localhost address shown in your terminal. It should look something like this:
 
@@ -132,7 +133,7 @@ Note that incrementing the counter triggers a blockchain transaction that saves 
 
 To sign your first transaction with Metamask, head to the **Signing your first transaction with Metamask** section of our [Metamask guide](https://hack.aragon.org/docs/guides-use-metamask.html#signing-your-first-transaction-with-metamask).
 
-### Next steps <a href="#next-steps" id="next-steps"></a>
+## Next steps <a href="#next-steps" id="next-steps"></a>
 
 We hope you enjoyed that 😊! Please don't hesitate to leave us any feedback on [Spectrum](https://spectrum.chat/aragon/app-development).
 
