@@ -164,6 +164,8 @@ P.S. Before you submit any changes, make sure to read our [contribution guidelin
 
 
 
+## :pencil2: <a href="#https-github.com-aragon-hack-edit-master-docs-getting-started.md" id="https-github.com-aragon-hack-edit-master-docs-getting-started.md"></a>
+
 {% hint style="success" %}
 [Contribute](https://github.com/aragon/hack/edit/master/docs/getting-started.md)[ ](https://github.com/aragon/hack/edit/master/docs/getting-started.md):pencil2:
 {% endhint %}
