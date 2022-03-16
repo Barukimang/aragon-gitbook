@@ -108,7 +108,7 @@ If you've made it this far congrats 🤗. You've just created your first DAO! It
 
 First of all on metamask:
 
-* login to metamask (if not already logged)
+* login to metamask (if not already logged in)
 * select the [Localhost 8545 network](../../../users/products/set-up-metamask/)&#x20;
 * import the [12 words of the seed](../../../users/products/set-up-metamask/import-your-seed-wallet-in-metamask.md) (account mnemonic) listed on the terminal :arrow\_down:
 
@@ -142,7 +142,7 @@ Right now the count is at 0. Let's increment it.
 
 Note that incrementing the counter triggers a blockchain transaction that saves the new value to the chain. But before the transaction can be sent, we need to sign it (to prove it was us that really sent it).
 
-Click on the + button, which opens a metamask transaction and sign it. For help on how to sign a transaction go [here](../../../users/products/set-up-metamask/sign-a-transaction-with-metamask.md).
+Click on the + button, which opens a metamask transaction and sign it. For help on how to sign a transaction on metamask go [here](../../../users/products/set-up-metamask/sign-a-transaction-with-metamask.md).
 
 After the transaction is completed, you should see Count: 1.
 
@@ -156,7 +156,13 @@ Now that you’ve built your first DAO, feel free to take a look at the docs. If
 
 ## ✏️Contributing <a href="#contributing" id="contributing"></a>
 
-You should find that there is a pencil :pencil2:EDIT button at the botton-right corner page. This button is available on every page of the Aragon docs. If you feel like you can improve our documentation in any way, please don't hesitate to click on it!
+You should find that there is a pencil :pencil2:Contributing EDIT button at the botton page. Like this:
+
+{% hint style="success" %}
+✏️ [_<mark style="color:purple;">**Contributing**</mark>_](https://github.com/aragon/hack/edit/master/docs/getting-started.md)_<mark style="color:purple;">****</mark>_
+{% endhint %}
+
+This button is available on every page of the Aragon docs. If you feel like you can improve our documentation in any way, please don't hesitate to click on it!
 
 If you don't have any programming experience or if this is your first time contributing to an open-source project, don't worry. We've created a [GitHub guide](https://github.com/aragon/hack/tree/master/docs-internal/github-guide.md) just for you 😊.
 
@@ -164,13 +170,6 @@ P.S. Before you submit any changes, make sure to read our [contribution guidelin
 
 
 
-## :pencil2: <a href="#https-github.com-aragon-hack-edit-master-docs-getting-started.md" id="https-github.com-aragon-hack-edit-master-docs-getting-started.md"></a>
+> #### <mark style="color:purple;">Do you have a question? Leave your comments here at our Discourse forum</mark> 👇
 
-{% hint style="success" %}
-[Contribute](https://github.com/aragon/hack/edit/master/docs/getting-started.md)[ ](https://github.com/aragon/hack/edit/master/docs/getting-started.md):pencil2:
-{% endhint %}
-
-
-
-
-
+Carla Note: add the link to the Forum.
