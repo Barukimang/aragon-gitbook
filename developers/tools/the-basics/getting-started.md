@@ -106,6 +106,14 @@ If you've made it this far congrats 🤗. You've just created your first DAO! It
 
 ## Interacting with your first DAO <a href="#interacting-with-your-first-dao" id="interacting-with-your-first-dao"></a>
 
+First of all on metamask:
+
+* login to metamask (if not already logged)
+* select the [Localhost 8545 network](../../../users/products/set-up-metamask/)&#x20;
+* import the [12 words of the seed](../../../users/products/set-up-metamask/import-your-seed-wallet-in-metamask.md) (account mnemonic) listed on the terminal :arrow\_down:
+
+![Account mnemonic - 12 words of seed](<../../../.gitbook/assets/Schermata 2022-03-16 alle 12.34.11.png>)
+
 If it's not already open, open your browser at the localhost address shown in your terminal. It should look something like this:
 
 ```
@@ -117,29 +125,36 @@ frontend | Watching changes on front end...
 
 Once your browser is open at the right address, you should see a screen that looks like the one below.
 
-![](https://hack.aragon.org/docs/assets/getting-started-dao-1.png)
+![DAO Home](https://hack.aragon.org/docs/assets/getting-started-dao-1.png)
 
-As you can see on the left, this DAO is made up of two Aragon apps -- Home and Counter. Right now, we're in the Home app. This app just displays a welcome message with no possible user interactions.
+As you can see on the left, this DAO is made up of two Aragon apps:
 
-Click on Counter to open up the (slightly) more interesting Counter app.
+* Home
+* first-dao (Counter)
 
-![](https://hack.aragon.org/docs/assets/getting-started-dao-2.png)
+Right now, we're in the Home app. This app just displays a welcome message with no possible user interactions.
+
+Click on first-dao to open up the (slightly) more interesting Counter app.
+
+![Counter app](<../../../.gitbook/assets/Schermata 2022-03-16 alle 12.30.03.png>)
 
 Right now the count is at 0. Let's increment it.
 
 Note that incrementing the counter triggers a blockchain transaction that saves the new value to the chain. But before the transaction can be sent, we need to sign it (to prove it was us that really sent it).
 
-**Signing your first transaction with Metamask**
+Click on the + button, which opens a metamask transaction and sign it. For help on how to sign a transaction go [here](../../../users/products/set-up-metamask/sign-a-transaction-with-metamask.md).
 
-To sign your first transaction with Metamask, head to the **Signing your first transaction with Metamask** section of our [Metamask guide](https://hack.aragon.org/docs/guides-use-metamask.html#signing-your-first-transaction-with-metamask).
+After the transaction is completed, you should see Count: 1.
+
+{% hint style="success" %}
+Done! We hope you enjoyed that 😊!&#x20;
+{% endhint %}
 
 ## Next steps <a href="#next-steps" id="next-steps"></a>
 
-We hope you enjoyed that 😊! Please don't hesitate to leave us any feedback on [Spectrum](https://spectrum.chat/aragon/app-development).
-
 Now that you’ve built your first DAO, feel free to take a look at the docs. If you're interested in understanding things at a deeper level, we recommend you jump straight into our [awesome tutorial](https://hack.aragon.org/docs/tutorial.html).
 
-### Contributing <a href="#contributing" id="contributing"></a>
+## Contributing <a href="#contributing" id="contributing"></a>
 
 You should find that there is a light blue EDIT button in the top-right corner the page. This button is available on every page of the Aragon docs. If you feel like you can improve our documentation in any way, please don't hesitate to click on it!
 

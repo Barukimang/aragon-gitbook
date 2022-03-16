@@ -28,7 +28,7 @@
     * [Getting started with Metis Andromeda](users/products/set-up-metamask/getting-started-with-metis-andromeda.md)
     * [Getting started with Stardust Testnet](users/products/set-up-metamask/getting-started-with-stardust-testnet.md)
     * [Getting started with BSC Testnet](users/products/set-up-metamask/getting-started-with-bsc-testnet.md)
-    * [How to process a transaction?](users/products/set-up-metamask/sign-a-transaction-with-metamask.md)
+    * [How to sing a transaction?](users/products/set-up-metamask/sign-a-transaction-with-metamask.md)
     * [Import your seed wallet to Metamask](users/products/set-up-metamask/import-your-seed-wallet-in-metamask.md)
     * [Gas Tracker](users/products/set-up-metamask/gas-tracker.md)
   * [Setting up a Frame Wallet](users/products/set-up-frame-wallet.md)
