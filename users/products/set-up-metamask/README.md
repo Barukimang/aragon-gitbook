@@ -16,7 +16,7 @@ This guide focuses on a Chrome extension. However, the process is similar for al
 
 ## Keynote <a href="#getting-started" id="getting-started"></a>
 
-For creating or using an Aragon **Client DAO** you need to connect to one test or one main network. You can choose from different blockchains:
+For creating and using an Aragon **Client DAO** or for creating and interacting to a DAO directly to command-line (a bit dev skills are required) you need to connect to one test or one main network. You can choose from different blockchains:
 
 * [Ethereum Mainnet](getting-started-with-ethereum.md)
 * [Rinkeby Testnet](getting-started-with-rinkeby-testnet.md)
