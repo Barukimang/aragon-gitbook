@@ -89,7 +89,7 @@
 * [Tools](developers/tools/README.md)
   * [The Basics](developers/tools/the-basics/README.md)
     * [Before starting](developers/tools/the-basics/before-starting.md)
-    * [Getting started](developers/tools/the-basics/getting-started.md)
+    * [Build your first DAO](developers/tools/the-basics/getting-started.md)
     * [The Aragon stack](developers/tools/the-basics/the-aragon-stack.md)
     * [Permissions](developers/tools/the-basics/permissions.md)
     * [Forwarding](developers/tools/the-basics/forwarding.md)
