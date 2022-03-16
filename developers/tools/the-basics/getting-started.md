@@ -24,23 +24,17 @@ To see which version of Node you have installed, from the command line run:
 node -v
 ```
 
-If you haven't a node installed or if you haven't the right one you can download it [here](https://nodejs.org/en/download/).
+If you haven't a node installed or if you haven't the right version, you can download it [here](https://nodejs.org/en/download/).
+
+For managing more than one version node on your machine, you can download and install the nvm Manager [here](https://github.com/nvm-sh/nvm).&#x20;
 
 ### Web3 provider <a href="#web3-provider" id="web3-provider"></a>
 
-Next, we'll need what we call a web3 provider to actually sign and send transactions to the Ethereum blockchain.
+Next, we'll need what we call a [web3 provider](before-starting.md) to actually sign and send transactions to the Ethereum (or another) blockchain.
 
-In general, if you have a hardware wallet, we recommend you use [Frame](https://frame.sh) as your web3 provider -- we'll go over how to do this in the [tutorial](https://hack.aragon.org/docs/tutorial.html) that follows.&#x20;
+In general, if you have a hardware wallet, we recommend you use [Frame](https://frame.sh) as your web3 provider -- we'll go over how to do this in the[ tutorial](../guides/your-first-aragon-app.md) that follows.&#x20;
 
-To interact with the app in this section, however, we'll be using [Metamask.](../../../users/products/set-up-metamask/)
-
-**Metamask**
-
-MetaMask is a browser plugin that allows users to make Ethereum transactions through regular websites. It does this by injecting a javascript library called web3.js into the namespace of each page your browser loads.
-
-web3.js is written by the Ethereum core team and has functions that regular webpages can use to make read and write requests to the blockchain. Eventually we'll have browsers with this sort of functionality built-in. But for now we need plugins like Metamask to help us bridge the gap between web2 and web3.
-
-For instructions on how to use Metamask as your web3 provider, please follow our [Metamask guide.](../../../users/products/set-up-metamask/)
+For now, to interact with the **Aragon app** in this section we'll be using [Metamask.](../../../users/products/set-up-metamask/)
 
 ### The aragonCLI <a href="#the-aragoncli" id="the-aragoncli"></a>
 
@@ -52,9 +46,11 @@ To install aragonCLI from the command line run:
 npm i -g @aragon/cli
 ```
 
-If you're having trouble with this step, you should take a look at the installing aragonCLI section of the [troubleshooting guide.](https://hack.aragon.org/docs/guides-faq#installing-aragonCLI) If that doesn't fix things, please don't hesitate to reach out to us in the [SDK Working Group channel](https://spectrum.chat/aragon/sdk-working-group).
+{% hint style="danger" %}
+If you're having trouble with this step, you should take a look at the installing aragonCLI section of the t[roubleshooting guide](../guides/troubleshooting-and-faq.md). If that doesn't fix things, please don't hesitate to reach out to us [here](../../../aragon/aragon-values-finances-and-legal/communicating-values.md).
+{% endhint %}
 
-#### The Aragon Buidler plugin <a href="#the-aragon-buidler-plugin" id="the-aragon-buidler-plugin"></a>
+### The Aragon Buidler plugin <a href="#the-aragon-buidler-plugin" id="the-aragon-buidler-plugin"></a>
 
 The [Aragon Buidler plugin](https://github.com/aragon/buidler-aragon) is a user-friendly tool for developing apps on top of Aragon. The plugin is automatically installed when using the boilerplate templates but can be added to any project with the following command:
 

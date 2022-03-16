@@ -1,6 +1,6 @@
 # Before starting
 
-Before starting to go in depth to the notions, the main commands, etc a couple of important notions.
+Before starting to go in depth to the notions, the main commands, command-line etc a couple of important notions.
 
 ## What is the Web3? <a href="#web3" id="web3"></a>
 
@@ -28,21 +28,13 @@ Cryptoeconomics is the big unlock that has allowed us to start moving from centr
 
 > Note that there’s a spectrum from fully centralized (left) to fully decentralized (right).
 
-And while blockchains -- like Bitcoin and Ethereum -- are key to this web3 vision, it's important to note that there are **other essential parts** of the web3 stack that are not covered by them.
+## IPFS (InternetPlanetary File System)
+
+While blockchains -- like Bitcoin and Ethereum -- are key to this web3 vision, it's important to note that there are **other essential parts** of the web3 stack that are not covered by them.
 
 For example, since blockchains are relatively expensive to **store data** on, it turns out that they don't make great file systems. That's why there's also a need for decentralized file systems like the **** [**IPFS (InterPlanetary File System)**](https://ipfs.io) which Aragon also makes use of.
 
-You can read more about these concept on the links below.
-
-#### Further resources <a href="#further-resources" id="further-resources"></a>
-
-* [DAOs and the Web3 visio](https://www.youtube.com/watch?v=YG3a5ihbkAQ)
-* [Why The Internet Needs IPFS Before It’s Too Late](https://techcrunch.com/2015/10/04/why-the-internet-needs-ipfs-before-its-too-late/)
-* [A hands-on introduction to IPFS](https://medium.com/coinmonks/a-hands-on-introduction-to-ipfs-ee65b594937)
-* [Blockchain infrastructure landscape: a first principles framing](https://medium.com/@trentmc0/blockchain-infrastructure-landscape-a-first-principles-framing-92cc5549bafe)
-* [The case for decentralization](https://a16z.com/2019/04/17/why-work-in-crypto-startup-grind-2019/)
-* [What comes after open source?](https://a16z.com/2019/01/22/what-comes-after-open-source/)
-* [Fat protocols](http://www.usv.com/blog/fat-protocols)
+IPFS is a distributed system for storing and accessing files, websites, applications, and data.
 
 ## What is a Web3 provider? <a href="#web3" id="web3"></a>
 
@@ -58,4 +50,22 @@ In short, while it's possible for dapps to interact directly with the blockchain
 
 Without a web3 provider, users have to have total trust in every dapp they use. With a web3 provider, they just need to trust that provider.
 
-Examples of web3 providers are [Metamask](../../../users/products/set-up-metamask/) and [Frame](../../../users/products/set-up-frame-wallet.md).
+Examples of web3 providers are Metamask and [Frame](../../../users/products/set-up-frame-wallet.md).
+
+## **Metamask**
+
+MetaMask is a browser plugin that allows users to make Ethereum transactions through regular websites. It does this by injecting a javascript library called web3.js into the namespace of each page your browser loads.
+
+web3.js is written by the Ethereum core team and has functions that regular web pages can use to make read and write requests to the blockchain. Eventually, we'll have browsers with this sort of functionality built-in. But for now, we need plugins like Metamask to help us bridge the gap between web2 and web3.
+
+For instructions on how to use Metamask as your web3 provider, please follow our [Metamask guide.](../../../users/products/set-up-metamask/)
+
+## Further resources <a href="#further-resources" id="further-resources"></a>
+
+* [DAOs and the Web3 visio](https://www.youtube.com/watch?v=YG3a5ihbkAQ)
+* [Why The Internet Needs IPFS Before It’s Too Late](https://techcrunch.com/2015/10/04/why-the-internet-needs-ipfs-before-its-too-late/)
+* [A hands-on introduction to IPFS](https://medium.com/coinmonks/a-hands-on-introduction-to-ipfs-ee65b594937)
+* [Blockchain infrastructure landscape: a first principles framing](https://medium.com/@trentmc0/blockchain-infrastructure-landscape-a-first-principles-framing-92cc5549bafe)
+* [The case for decentralization](https://a16z.com/2019/04/17/why-work-in-crypto-startup-grind-2019/)
+* [What comes after open source?](https://a16z.com/2019/01/22/what-comes-after-open-source/)
+* [Fat protocols](http://www.usv.com/blog/fat-protocols)
