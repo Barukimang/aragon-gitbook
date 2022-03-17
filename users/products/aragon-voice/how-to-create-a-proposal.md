@@ -1,12 +1,12 @@
-# Creating a vote proposal using your token
+# Creating a voting proposal using your token
 
-## For creating a proposal go here [https://voice.aragon.org/](https://voice.aragon.org) and connect your web3 wallet
+## To create a proposal go here:  [https://voice.aragon.org/](https://voice.aragon.org) and connect your web3 wallet
 
 {% hint style="info" %}
-If you need help for this go [here](../set-up-metamask/).
+If you need help with this go [here](../set-up-metamask/).
 {% endhint %}
 
-Please select the Ethereum network on your wallet.&#x20;
+Please select the Ethereum network in your wallet.&#x20;
 
 Expand the view with _**all tokens**_ button and click _**Register a token**_.
 
@@ -16,7 +16,7 @@ Insert the token smart contract and validate the contract.
 
 ![](<../../../.gitbook/assets/Schermata 2022-02-11 alle 12.14.27.png>)
 
-Return on the main token page [https://voice.aragon.org/](https://voice.aragon.org), select your token in the _**Tokens you hold** _ and create a new proposal as described [here](how-to-create-a-proposal.md).
+Return to the main token page [https://voice.aragon.org/](https://voice.aragon.org), select your token in the _**Tokens you hold** category,_ and create a new proposal as described [here](how-to-create-a-proposal.md).
 
 ![](<../../../.gitbook/assets/Schermata 2022-02-11 alle 12.18.51.png>)
 

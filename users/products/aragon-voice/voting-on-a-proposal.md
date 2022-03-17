@@ -1,12 +1,12 @@
-# Voting a proposal
+# Voting on a proposal
 
-## For creating a proposal go here [https://voice.aragon.org/](https://voice.aragon.org) and connect your web3 wallet
+## To create a proposal go here: [https://voice.aragon.org/](https://voice.aragon.org) and connect your web3 wallet
 
 {% hint style="info" %}
-If you need help for this go [here](../set-up-metamask/).
+If you need help with this go [here](../set-up-metamask/).
 {% endhint %}
 
-Please select the Ethereum network on your wallet.&#x20;
+Please select the Ethereum network in your wallet.&#x20;
 
 ![](<../../../.gitbook/assets/Schermata 2022-02-11 alle 11.45.02.png>)
 
@@ -18,7 +18,7 @@ In this example, we selected Aragon Network (ANT).
 
 ![](<../../../.gitbook/assets/Schermata 2022-02-11 alle 11.48.51.png>)
 
-On the _**token details**_** p**age_,_ you can see all the ** **_**Active votes**_** ** and the _**Vote results.**_ Select the proposal you want to vote (in our example there aren't proposals to vote) and cast your vote.
+In the _**Token details page**,_ you can see all the ** **_**Active votes**_** ** and the _**Vote results.**_ Select the proposal you want to vote for (in our example there aren't proposals to vote) and cast your vote.
 
 ![](<../../../.gitbook/assets/Schermata 2022-02-11 alle 12.05.06.png>)
 
