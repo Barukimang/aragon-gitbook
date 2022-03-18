@@ -30,7 +30,7 @@ Framework that enables flexible and upgradeable governance mechanisms by creatin
 
 ### [**aragonPM**](https://hack.aragon.org/docs/apm-intro.html)
 
-Decentralized package manager based on aragonOS that handles upgreadability of smart contracts and arbitrary data blobs, such as webapps.
+Decentralized package manager based on aragonOS that handles upgradability of smart contracts and arbitrary data blobs, such as web apps.
 
 ### <mark style="color:blue;">**aragonPM Repository**</mark>
 
@@ -62,8 +62,8 @@ Have been deprecated for DAO Templates.
 
 ### <mark style="color:blue;">**Etherum Providers**</mark>
 
-are apps that provide your browser access to the Ethereum network and support signing Ethereum transactions. Mobile Web3 browsers generally have a built-in Ethereum provider and wallet functionality.
+Apps which provide your browser access to the Ethereum network and support signing Ethereum transactions. Mobile Web3 browsers generally have a built-in Ethereum provider and wallet functionality.
 
 ### <mark style="color:blue;">**Hardware wallet**</mark>
 
-keep your private keys - the computer code that is used to sign transactions and authorize funds transfers - secured separately from your computer, protecting the private keys from malware that may be on your computer.
+Keeps your private keys - the computer code that is used to sign transactions and authorize funds transfers - secured separately from your computer, protecting the private keys from malware that may be on your computer.

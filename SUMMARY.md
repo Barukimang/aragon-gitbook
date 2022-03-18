@@ -329,7 +329,7 @@
   * [Is there an ANT options market?](faq/ant-token/is-there-an-ant-options-market.md)
   * [Are you planning to launch new network tokens?](faq/ant-token/are-you-planning-to-launch-new-work-tokens.md)
   * [Which wallet can I use to convert my old ANT (ANT v1 or ANJ)?](faq/ant-token/which-wallet-can-i-use-to-convert-my-old-ant-ant-v1-or-anj.md)
-  * [My wallet (with the ANJ or ANT v1) isn't available on the wallets list on the Aragon Portal](faq/ant-token/my-wallet-with-the-anj-or-ant-v1-isnt-available-on-the-wallets-list-on-the-aragon-portal.md)
+  * [My wallet (with the ANJ or ANT v1) isn't available on the wallets list on the Aragon Portal](faq/ant-token/my-wallet-with-the-anj-or-ant-v1-isnt-available-on-the-wallets-list-on-the-aragon-portal..md)
   * [How can connect my Ledger on the Portal to convert 'old ANT' (ANT v1 or ANJ)?](faq/ant-token/how-can-connect-my-ledger-on-the-portal-for-converting-old-ant-ant-v1-or-anj.md)
   * [ANJ conversion - What is the minimum number of $ANJ I need to participate in the 0.044 conversion?](faq/ant-token/anj-conversion-what-is-the-minimum-number-of-usdanj-i-need-to-participate-in-the-0.044-conversion.md)
   * [What is the conversion rate ANJ to ANT v2?](faq/ant-token/what-is-the-conversion-rate-anj-to-ant-v2.md)

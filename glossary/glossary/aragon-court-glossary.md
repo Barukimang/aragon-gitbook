@@ -29,7 +29,7 @@ When a vote is first committed in secret, and then revealed at a later designate
 
 When an Aragon Court subscriber believes that a subjective agreement they are party to has been violated and they decide to try to block the disputable action or proposal using Aragon Court.
 
-### **Draft / Summon guardians**
+### **Draft/ Summon guardians**
 
 The process of randomly selecting guardians for a new dispute round from the pool of active guardians.
 
