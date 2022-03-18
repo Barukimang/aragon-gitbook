@@ -6,7 +6,7 @@ In this section, you will learn How to create an Organization using Aragon Vocdo
 
 ### How to create a Vocdoni organization
 
-Go to [https://aragon.org/vocdoni](https://aragon.org/vocdoni) and click on the _Try it Now for Free_.&#x20;
+Go to [https://aragon.org/vocdoni](https://aragon.org/vocdoni) and click on _**Try it Now for Free**_.&#x20;
 
 ![ https://aragon.org/vocdoni](<../../../.gitbook/assets/Schermata 2022-03-07 alle 10.56.45.png>)
 
@@ -18,7 +18,7 @@ Fill in all the requested fields on the _**Entity name**_** ** page. Here you ca
 * _**Contact Email**_**:** email address that members of your entity/organization can use to contact you
 * _**Type of organization**_**:** you can choose the type of organization listed on the drop-down menu
 * _**Entity size**_**:** you can choose the entity size listed on the drop-down menu
-* _**Entity description**_**:** insert a brief description of the entity, it will be displayed in the public entity page.
+* _**Entity description**_**:** insert a brief description of the entity, it will be displayed in the public entity page
 * _**Entity logo**_**:** enter the URL of the file or upload a file of your logo (the format of the logo must be a .jpg, .jpeg or .png file - 2mb max)
 * _**Entity header**_**:** enter the URL of the file or upload a file of your header (the format of the logo must be a .jpg, .jpeg or .png file - 2mb max)
 * _**Personal Data Protection Information**_**:** accept “Personal Data Protection Information” and (optional) express consent for the commercial, and service management
@@ -27,7 +27,7 @@ Fill in all the requested fields on the _**Entity name**_** ** page. Here you ca
 
 ### Credentials page
 
-* Choose a secure password for your entity/organization and fill in the _**Password field**_ and in the _**Repeat Password field**_. The password must have 8 characters or more, with at least 1 uppercase and 1 lowercase.
+* Choose a secure password for your entity/organization and fill in the _**Password field**_ and in the _**Repeat Password field**_. The password must have 8 characters or more, with at least 1 uppercase and 1 lowercase
 * Check the box about the "acknowledgement of the password lose"&#x20;
 
 {% hint style="danger" %}

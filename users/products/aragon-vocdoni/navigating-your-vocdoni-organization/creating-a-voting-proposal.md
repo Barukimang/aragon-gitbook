@@ -1,7 +1,7 @@
-# Creating a vote proposal
+# Creating a voting proposal
 
 {% hint style="info" %}
-In this section, you will learn How to create a vote process on the Aragon Vocdoni Organization.
+In this section, you will learn how to create a voting process in the Aragon Vocdoni Organization.
 {% endhint %}
 
 ### Create a Vote
@@ -10,7 +10,7 @@ On the top right click on the name of your entity/organization select the ** **_
 
 ![Dashboard page - Create a voting process](<../../../../.gitbook/assets/Schermata 2022-03-07 alle 14.40.42.png>)
 
-Click on the _**Create a voting proces**s_ and fill in the fields on the _**New Vote**_ page.
+Click on the _**Create a voting process**_ and fill in the fields on the _**New Vote**_ page.
 
 ### Details page
 
@@ -20,9 +20,9 @@ Click on the _**Create a voting proces**s_ and fill in the fields on the _**New 
 * _**Questions and Answers**_** (optional field):** here you can add an URL to a question and answer system (it could be a forum, e-mail, website, telegram group)
 * _**Video stream link**_** (optional field):** here you can add an URL to a video (like a Youtube video)
 * _**Description**_**:** the description of the voting process
-* _**Question**_**:** the question of the voting process (what is the vote about). Each question has a _Title_, a _Description_, and _Options_ (these are the options among which the users can choose at the voting time). More options can be added using the _Add an option button_.
+* _**Question**_**:** the question of the voting process (what is the vote about). Each question has a _Title_, a _Description_, and _Options_ (these are the options among which the users can choose at the voting time). More options can be added using the _Add an option button_
 
-The voting process can have more than one question. More questions can be added using the _**Add the Question**_ button.
+The voting process can have more than one question. More questions can be added using the _**Add a question**_ button.
 
 ![](<../../../../.gitbook/assets/Schermata 2022-03-07 alle 14.45.39.png>)
 
@@ -32,10 +32,10 @@ The _**Preview**_ button shows a preview of the voting process.
 
 ### Who can Vote Page
 
-On the _Who can Vote_ page can:
+On the _Who can Vote_ page you can:
 
-* _**Select the voting options**_**:** _normal_ (where all the voters have the same voting power) and _weighted_ (where each voter has different voting power)
-* _**Import the list of voters**_**:** only the voters on the list can vote on the voting process. For creating the list of voters you can download the available template (_Download template_ button), adjust the fields (you can add for example the National Id) and then drag and drop the file (csv, xlsx, ods formats are supported).
+* _**Select the voting options**_**:** _normal voting_ (where all the voters have the same voting power) and _weighted voting_ (where each voter has different voting power)
+* _**Import the list of voters**_**:** only the voters on the list can vote on the voting process. To create the list of voters you can download the available template (_Download template_ button), adjust the fields (you can add for example the National Id) and then drag and drop the file (.csv, .xlsx, .ods formats are supported).
 
 ![Who can vote page](<../../../../.gitbook/assets/Schermata 2022-03-07 alle 15.04.01.png>)
 
@@ -43,10 +43,10 @@ On the _Who can Vote_ page can:
 
 ### Settings Page
 
-In the Settings page enter
+In the Settings page enter:
 
-* _**Start Date**_**:** the start date which votes are accepted. It could start on a specific date or away.
-* _**End Date**_**:** the date until vote are accepted.
+* _**Start Date**_**:** the start date at which votes are accepted. It could start on a specific date or start right away.
+* _**End Date**_**:** the date until votes are accepted.
 * _**Results availability**_**:** the results should be visible in real time or only after the end of the voting process.
 
 ![](<../../../../.gitbook/assets/Schermata 2022-03-07 alle 15.29.49.png>)
@@ -67,11 +67,11 @@ After the vote is set, the ** **_**ready page**_ will show the voting process li
 Share the voting process link with the voters. :partying\_face:
 {% endhint %}
 
-Now, in your _**Dashboard,**_ the _**Active Vote**_ will be shown.&#x20;
+Now, in your _**Dashboard,**_ the _**Active vote**_ will be shown.&#x20;
 
 ![Active vote in the Dashboard.](<../../../../.gitbook/assets/Schermata 2022-03-07 alle 15.39.41.png>)
 
-If you need to close or to cancel a vote, go on the _**Dashboard**_** ** and click the Vote you need to close or cancel. On the ** **_**Vote details** _ page click the _**Close**_** ** or ** **_**Cancel**_** ** button.
+If you need to close or to cancel a vote, go to the _**Dashboard**_** ** and click the Vote you need to close or cancel. On the ** **_**Vote details** _ page click the _**Close**_** ** or ** **_**Cancel**_** ** button.
 
 ![](<../../../../.gitbook/assets/Schermata 2022-03-07 alle 23.05.59.png>)
 

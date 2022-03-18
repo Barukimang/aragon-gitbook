@@ -18,10 +18,10 @@ If you have an account select the account on the drop-down menu and enter your p
 
 If you have an account but it is the first time you are using this browser:&#x20;
 
-* click _**import an account**_.
+* click _**Import an account**_.
 * import your backup file (that you have saved before during the creation phase, you can read more about the backup file [here](navigating-your-vocdoni-organization/))
 * enter your password
-* click _**import account**_
+* click _**Import account**_
 
 ![](<../../../.gitbook/assets/Schermata 2022-03-10 alle 10.55.48.png>)
 
