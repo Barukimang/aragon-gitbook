@@ -1,8 +1,3 @@
----
-cover: ../../../.gitbook/assets/04.png
-coverY: 0
----
-
 # DAO creation taking a long time to confirm
 
 If your organization is taking too long to launch, it may be due to an insufficient gas price. Your Ethereum provider (e.g. Metamask) _should_ pre-fill the correct gas limit and gas price, but sometimes it will pre-fill the amounts too low. Below are the recommended actions you can take to evaluate whether this is the case:

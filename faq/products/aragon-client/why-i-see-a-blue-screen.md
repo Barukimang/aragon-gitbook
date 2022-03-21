@@ -1,8 +1,3 @@
----
-cover: ../../../.gitbook/assets/04.png
-coverY: 0
----
-
 # Why I see a Blue Screen?
 
 Some users reported that when setting up an organization the browser is stuck on a blue screen with the Aragon logo.

@@ -1,8 +1,3 @@
----
-cover: ../../../.gitbook/assets/04.png
-coverY: 0
----
-
 # Funds accidentally sent to an Aragon app address
 
 If you accidentally sent tokens to the address of an app installed in an Aragon organization, you can recover the tokens and send them to the organization's Vault by following these steps:

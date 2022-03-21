@@ -1,10 +1,9 @@
----
-cover: ../../../.gitbook/assets/05.png
-coverY: 0
----
-
 # Aragon Court
 
 {% hint style="info" %}
 This section contains the common FAQs about the Aragon Court.
+
+<mark style="color:purple;">Do you have another question that isn't on the list? Reach us at our Discourse forum</mark> 👇
 {% endhint %}
+
+{% embed url="https://aragontesting.trydiscourse.com/c/aragon-court/17" %}

@@ -1,8 +1,3 @@
----
-cover: ../../../.gitbook/assets/04.png
-coverY: 0
----
-
 # App does not appear in Firefox
 
 Some pre-Aragon 0.6 apps do not load in newer versions of the Firefox browser. When the user visits these apps, they show up as blank pages like this:

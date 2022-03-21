@@ -1,8 +1,3 @@
----
-cover: ../../../.gitbook/assets/04.png
-coverY: 0
----
-
 # Depositing EURS in the Finance app
 
 The [EURS token contract](https://etherscan.io/address/db25f211ab05b1c97d595516f45794528a807ad8#contracts) has a fee mechanism that might not be playing nicely with how the Aragon frontend calculates token approvals.

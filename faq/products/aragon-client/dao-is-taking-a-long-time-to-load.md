@@ -1,8 +1,3 @@
----
-cover: ../../../.gitbook/assets/04.png
-coverY: 0
----
-
 # DAO is taking a long time to load
 
 The state of Aragon organizations is stored on the blockchain. When you use the Aragon client to load an organization, the client searches through the history of the blockchain to find all relevant information about the organization and then loads the data onto your computer.&#x20;
