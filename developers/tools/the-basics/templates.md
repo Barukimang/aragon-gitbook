@@ -1,17 +1,22 @@
----
-description: Create templates for easy DAO setup
----
+# The Templates
 
-# Templates
+{% hint style="success" %}
+The Templates = **create templates** for easy DAO setup.
+{% endhint %}
 
-Creating a DAO with all the desired apps and permissions requires multiple operations that must be properly orchestated. In the context of Ethereum, performing all these operations would require sending many transactions. This would not only be very costly, as every transaction needs to pay for gas, also the integrity of the deployment depends on all operations occurring in the right order.
+## How does it work?
 
-For these reasons, **the recommended way of creating Aragon DAOs** is using what we call **templates**, on-chain _deployment scripts_ that create a DAO and perform all the required configuration steps in an **atomic manner** without the possibility of an attacker interacting with the DAO while it is still being set up. **templates allow creating a DAO in just one transaction** and when the transaction is processed the DAO is already **fully configured and functional**.
+Creating a DAO with all the desired apps and permissions requires multiple operations that must be properly orchestrated. In the context of Ethereum, performing all these operations would require sending many transactions. This would not only be very costly, as every transaction needs to pay for gas, also the integrity of the deployment depends on all operations occurring in the right order.
 
-Templates can also be thought of as **DAO templates** as every template can create a DAO with specific settings for an organization type. The two DAO configurations that one can choose from when using the [Aragon client](http://app.aragon.org) correspond to the beta templates ([Democracy](https://github.com/aragon/dao-templates/blob/ce62d132d944951dc200df8aa74e42db8e70a094/kits/democracy/contracts/DemocracyKit.sol) and [Multisig](https://github.com/aragon/dao-templates/blob/ce62d132d944951dc200df8aa74e42db8e70a094/kits/multisig/contracts/MultisigKit.sol)) available in the [DAO templates repository](https://github.com/aragon/dao-templates).
+For these reasons, the recommended way of creating Aragon DAOs is using what we call **templates**, **on-chain **_**deployment scripts**_** that create a DAO** and perform all the required configuration steps in an **atomic manner** without the possibility of an attacker interacting with the DAO while it is still being set up. **Templates allow creating a DAO in just one transaction** and when the transaction is processed the DAO is already **fully configured and functional**.
 
-> **Note**\
-> The `kits` has been deprecated and `templates` should be used instead. You may still find the `kits` notation in some places while we make the transition.
+Templates can also be thought of as **DAO templates** as every template can **create a DAO** with **specific settings** for an organization type.&#x20;
+
+The two DAO configurations that one can choose from when using the [Aragon client](http://app.aragon.org) correspond to the beta templates ([Democracy](https://github.com/aragon/dao-templates/blob/ce62d132d944951dc200df8aa74e42db8e70a094/kits/democracy/contracts/DemocracyKit.sol) and [Multisig](https://github.com/aragon/dao-templates/blob/ce62d132d944951dc200df8aa74e42db8e70a094/kits/multisig/contracts/MultisigKit.sol)) available in the [DAO templates repository](https://github.com/aragon/dao-templates).
+
+{% hint style="danger" %}
+The `kits` has been deprecated and `templates` should be used instead. You may still find the `kits` notation in some places while we make the transition.
+{% endhint %}
 
 ### Getting started with templates using the aragonCLI <a href="#getting-started-with-templates-using-the-aragoncli" id="getting-started-with-templates-using-the-aragoncli"></a>
 

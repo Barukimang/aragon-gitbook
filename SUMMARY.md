@@ -95,7 +95,7 @@
     * [The Forwarding](developers/tools/the-basics/forwarding.md)
     * [The Upgradeability](developers/tools/the-basics/upgradeability.md)
     * [The Package management](developers/tools/the-basics/package-management.md)
-    * [Templates](developers/tools/the-basics/templates.md)
+    * [The Templates](developers/tools/the-basics/templates.md)
     * [The Aragon client](developers/tools/the-basics/the-aragon-client/README.md)
       * [Anatomy](developers/tools/the-basics/the-aragon-client/anatomy.md)
     * [Human readable transactions](developers/tools/the-basics/human-readable-transactions.md)
