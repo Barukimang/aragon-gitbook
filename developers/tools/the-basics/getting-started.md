@@ -1,7 +1,3 @@
----
-description: What is Aragon and what does it do
----
-
 # Build your first DAO
 
 ## Up and running <a href="#up-and-running" id="up-and-running"></a>

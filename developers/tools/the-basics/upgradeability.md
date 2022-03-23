@@ -1,7 +1,7 @@
 # The Upgradeability
 
 {% hint style="success" %}
-Make your app <mark style="color:purple;">**upgradeable**</mark> to fix bugs and push enhancements.
+The Upgradeability = make your app <mark style="color:purple;">**upgradeable**</mark> to fix bugs and push enhancements.
 {% endhint %}
 
 ## How does it work?

@@ -1,8 +1,8 @@
----
-description: For creating DAOs, dapps and protocols
----
+# The Stack
 
-# The Aragon stack
+{% hint style="success" %}
+The Stack = for <mark style="color:purple;">**creating**</mark> DAOs, dapps and protocols.
+{% endhint %}
 
 From a technical perspective, Aragon can be seen as an **operating system for human organizations**. Therefore, the **Aragon stack** can be thought of as an **operating system**, just like macOS or Linux.
 
