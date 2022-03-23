@@ -18,26 +18,6 @@ The two DAO configurations that one can choose from when using the [Aragon clien
 The `kits` has been deprecated and `templates` should be used instead. You may still find the `kits` notation in some places while we make the transition.
 {% endhint %}
 
-### Getting started with templates using the aragonCLI <a href="#getting-started-with-templates-using-the-aragoncli" id="getting-started-with-templates-using-the-aragoncli"></a>
-
-The [aragonCLI](https://hack.aragon.org/docs/cli-intro.html) (>= v4.1.0) supports using templates to create a DAO to interact with the apps being developed.
-
-To quickly get started developing your own templates:
-
-```
-npx create-aragon-app app
-```
-
-That command will create a new Aragon app project with a sample template in it ready to be used. The Template (under `contracts/Template.sol`) will create instances of a Token Manager, a Voting app and the [Counter example app](https://hack.aragon.org/docs/tutorial.html) and will wire the permissions so incrementing the Counter requires a vote to pass in the Voting app.
-
-In order to start the Aragon client with a DAO created by the template, execute:
-
-```
-npm run start:ipfs:template
-```
-
-When modifying the name of your contract or app name be sure to update those in `Template.sol` otherwise running the template will fail
-
 ### Template structure <a href="#template-structure" id="template-structure"></a>
 
 All templates follow a similar structure:
@@ -49,4 +29,8 @@ All templates follow a similar structure:
 5. Set up permissions for the apps and the DAO.
 6. Clean up the permissions temporarily assigned to the template.
 
-\
+## &#x20;<a href="#contributing" id="contributing"></a>
+
+{% hint style="info" %}
+✏️ [_<mark style="color:purple;">**Contributing**</mark>_](https://github.com/aragon/hack/edit/master/docs/getting-started.md)_<mark style="color:purple;">****</mark>_
+{% endhint %}

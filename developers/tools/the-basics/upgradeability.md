@@ -25,3 +25,9 @@ Then, upgrading an app is as easy as:
 ```solidity
     kernel.setApp(kernel.APP_BASES_NAMESPACE(), appId, newAppCodeAddr)
 ```
+
+## &#x20;<a href="#contributing" id="contributing"></a>
+
+{% hint style="info" %}
+✏️ [_<mark style="color:purple;">**Contributing**</mark>_](https://github.com/aragon/hack/edit/master/docs/getting-started.md)_<mark style="color:purple;">****</mark>_
+{% endhint %}

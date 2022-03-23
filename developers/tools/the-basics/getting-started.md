@@ -4,7 +4,7 @@
 
 Now that we've got you all excited, let's go through what you need to get started building with Aragon 😊
 
-## Environment setup <a href="#environment-setup" id="environment-setup"></a>
+## Environment setup
 
 ### Node.js <a href="#nodejs" id="nodejs"></a>
 
@@ -54,7 +54,7 @@ The [Aragon Buidler plugin](https://github.com/aragon/buidler-aragon) is a user-
 npm i @aragon/buidler-aragon
 ```
 
-## Quick start - Build your first DAO <a href="#quick-start" id="quick-start"></a>
+## Getting Started  <a href="#quick-start" id="quick-start"></a>
 
 In order to get up and running quickly, **we’ll build our first DAO** using some basic scaffolding. Just like real scaffolding in a construction site, when we talk about scaffolding in this context, we mean a simple prebuilt structure for your project, on top of which you can build the real one.
 
