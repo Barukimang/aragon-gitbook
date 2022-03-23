@@ -158,7 +158,7 @@ Now that you’ve built your first DAO, feel free to take a look at the docs. If
 
 You should find that there is a pencil :pencil2:Contributing EDIT button at the botton page. Like this:
 
-{% hint style="success" %}
+{% hint style="info" %}
 ✏️ [_<mark style="color:purple;">**Contributing**</mark>_](https://github.com/aragon/hack/edit/master/docs/getting-started.md)_<mark style="color:purple;">****</mark>_
 {% endhint %}
 

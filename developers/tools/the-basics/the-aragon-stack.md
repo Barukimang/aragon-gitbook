@@ -66,7 +66,7 @@ In a conventional OS there is usually just one way to escalate permissions, by u
 
 With aragonOS, since permissions are so rich, there may be **many paths to escalate permissions**.
 
-**Example:**
+#### **Example:**
 
 A token holder may have permission to create a vote, and the voting app may have permission to withdraw funds. In that case, the Aragon client tells the user that option when they attempt to withdraw funds.&#x20;
 
@@ -92,6 +92,6 @@ You can read more about aragonUI [here](../aragonui/).
 
 ## &#x20;<a href="#contributing" id="contributing"></a>
 
-{% hint style="success" %}
+{% hint style="info" %}
 ✏️ [_<mark style="color:purple;">**Contributing**</mark>_](https://github.com/aragon/hack/edit/master/docs/getting-started.md)_<mark style="color:purple;">****</mark>_
 {% endhint %}

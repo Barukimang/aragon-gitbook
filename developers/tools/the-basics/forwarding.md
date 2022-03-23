@@ -1,14 +1,20 @@
----
-description: Use forwarders to allow app interoperability and governance
----
+# The Forwarding
 
-# Forwarding
+{% hint style="success" %}
+Use <mark style="color:blue;">**forwarders**</mark> to allow app interoperability and governance
+{% endhint %}
+
+## How does it work?
 
 The ACL allows Aragon apps to be interoperable by creating and managing permissions.
 
-For example, a _Token Manager_ app may send an action to the _Voting_ app so if a vote passes the _Voting_ app can withdraw funds from the _Finance_ app.
+A **Forwarder** is a contract that, given some conditions, will pass along a certain action to other contract(s).
 
-This is possible thanks to Forwarders. A **Forwarder** is a contract that, given some conditions, will pass along a certain action to other contract(s).
+### Example
+
+A _Token Manager_ app may send an action to the _Voting_ app so if a vote passes the _Voting_ app can withdraw funds from the _Finance_ app.
+
+This is possible thanks to Forwarders.&#x20;
 
 Below is an extract of our _Voting_ app and is all the code required to make it a Forwarder:
 
@@ -45,3 +51,8 @@ contract Voting is IForwarder, AragonApp {
 
 This `_evmScript` is the action that will be executed if the voting passes, which can be withdrawing some funds from a _Finance_ app, for example, but it can be any other action. The action is abstracted and doesn't need to be known in advance.
 
+## &#x20;<a href="#contributing" id="contributing"></a>
+
+{% hint style="info" %}
+✏️ [_<mark style="color:purple;">**Contributing**</mark>_](https://github.com/aragon/hack/edit/master/docs/getting-started.md)_<mark style="color:purple;">****</mark>_
+{% endhint %}
