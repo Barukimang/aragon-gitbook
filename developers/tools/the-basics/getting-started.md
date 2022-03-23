@@ -2,7 +2,7 @@
 description: What is Aragon and what does it do
 ---
 
-# Getting started
+# Build your first DAO
 
 ## Up and running <a href="#up-and-running" id="up-and-running"></a>
 
@@ -170,6 +170,6 @@ P.S. Before you submit any changes, make sure to read our [contribution guidelin
 
 
 
-> #### <mark style="color:purple;">Do you have a question? Leave your comments here at our Discourse forum</mark> 👇
+> #### <mark style="color:purple;">Do you have a question? Leave your comments here at our Github repo</mark> 👇
 
-Carla Note: add the link to the Forum.
+Carla Note: add the link to the Github.
