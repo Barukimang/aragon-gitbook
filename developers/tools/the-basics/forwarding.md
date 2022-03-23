@@ -1,7 +1,7 @@
 # The Forwarding
 
 {% hint style="success" %}
-Use <mark style="color:blue;">**forwarders**</mark> to allow app interoperability and governance
+Use <mark style="color:purple;">**forwarders**</mark> to allow app interoperability and governance
 {% endhint %}
 
 ## How does it work?

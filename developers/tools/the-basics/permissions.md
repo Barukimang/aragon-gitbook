@@ -1,7 +1,7 @@
 # The Apps Permissions
 
 {% hint style="success" %}
-Use the <mark style="color:blue;">**Access Control List (ACL)**</mark> to control who can access your app's functionality
+Use the <mark style="color:purple;">**Access Control List (ACL)**</mark> to control who can access your app's functionality
 {% endhint %}
 
 ## How does it work?
