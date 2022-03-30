@@ -1,9 +1,11 @@
 # Creating a voting proposal using your token
 
-## To create a proposal go here:  [https://voice.aragon.org/](https://voice.aragon.org) and connect your web3 wallet
+## Steps to create a voting proposal using your token
+
+To create a voting proposal go [here](https://voice.aragon.org) and connect your web3 wallet.
 
 {% hint style="info" %}
-If you need help with this go [here](../set-up-metamask/).
+If you need help with this task, go [here](../set-up-metamask/).
 {% endhint %}
 
 Please select the Ethereum network in your wallet.&#x20;

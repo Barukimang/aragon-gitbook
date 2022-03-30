@@ -4,6 +4,8 @@
 In this section, you will learn how to create a voting process in the Aragon Vocdoni Organization.
 {% endhint %}
 
+## Steps for creating a voting proposal
+
 ### Create a Vote
 
 On the top right click on the name of your entity/organization select the ** **_**Dashboard**_** ** option.
@@ -14,13 +16,21 @@ Click on the _**Create a voting process**_ and fill in the fields on the _**New 
 
 ### Details page
 
-* _**Title**_**:** the title of your voting process
-* _**Header image**_**:** the header to your voting process
-* _**Documentation**_** (optional field):** here you can add an URL to the documentation related to this voting process (it could be a link to a web, a cloud,  a folder)
-* _**Questions and Answers**_** (optional field):** here you can add an URL to a question and answer system (it could be a forum, e-mail, website, telegram group)
-* _**Video stream link**_** (optional field):** here you can add an URL to a video (like a Youtube video)
-* _**Description**_**:** the description of the voting process
-* _**Question**_**:** the question of the voting process (what is the vote about). Each question has a _Title_, a _Description_, and _Options_ (these are the options among which the users can choose at the voting time). More options can be added using the _Add an option button_
+{% hint style="info" %}
+**Title:** the title of your voting process
+
+**Header image:** the header to your voting process
+
+**Documentation (optional field):** here you can add an URL to the documentation related to this voting process (it could be a link to a web, a cloud,  a folder)
+
+**Questions and Answers (optional field):** here you can add an URL to a question and answer system (it could be a forum, e-mail, website, telegram group)
+
+**Video stream link (optional field):** here you can add an URL to a video (like a Youtube video)
+
+**Description:** the description of the voting process
+
+**Question:** the question of the voting process (what is the vote about). Each question has a Title, a Description, and Options (these are the options among which the users can choose at the voting time). More options can be added using the Add an option button.
+{% endhint %}
 
 The voting process can have more than one question. More questions can be added using the _**Add a question**_ button.
 
@@ -32,10 +42,10 @@ The _**Preview**_ button shows a preview of the voting process.
 
 ### Who can Vote Page
 
-On the _Who can Vote_ page you can:
+On the _**Who can Vote**_ page you can:
 
 * _**Select the voting options**_**:** _normal voting_ (where all the voters have the same voting power) and _weighted voting_ (where each voter has different voting power)
-* _**Import the list of voters**_**:** only the voters on the list can vote on the voting process. To create the list of voters you can download the available template (_Download template_ button), adjust the fields (you can add for example the National Id) and then drag and drop the file (.csv, .xlsx, .ods formats are supported).
+* _**Import the list of voters**_**:** only the voters on the list can vote on the voting process. To create the list of voters you can download the available template (_**Download template**_** ** button), adjust the fields (you can add for example the National Id) and then drag and drop the file (.csv, .xlsx, .ods formats are supported).
 
 ![Who can vote page](<../../../../.gitbook/assets/Schermata 2022-03-07 alle 15.04.01.png>)
 
@@ -43,7 +53,7 @@ On the _Who can Vote_ page you can:
 
 ### Settings Page
 
-In the Settings page enter:
+On the _**Settings**_ page enter:
 
 * _**Start Date**_**:** the start date at which votes are accepted. It could start on a specific date or start right away.
 * _**End Date**_**:** the date until votes are accepted.

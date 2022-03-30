@@ -1,22 +1,22 @@
-# Accessing your Vodconi Organization
+# Accessing your Vodconi organization
 
 {% hint style="info" %}
 In this section, you will learn how to access your Organization created using Aragon Vocdoni.
 {% endhint %}
 
-### How to access your Aragon Vocdoni Organization
+### Steps to access your Aragon Vocdoni Organization
 
-Go to this [https://vocdoni.app/login/](https://vocdoni.app/login/)&#x20;
+&#x20;First, go[ here](ttps://vocdoni.app/login/).
 
 ![](<../../../.gitbook/assets/Schermata 2022-03-08 alle 08.55.50.png>)
 
-### **Case 1 - I have an account**
+### **Case 1 - I have an account.**
 
-If you have an account select the account on the drop-down menu and enter your password.
+Then, please, select the account on the drop-down menu and enter your password.
 
-### **Case 2 - I have an account but I changed the browser**
+### **Case 2 - I have an account but I changed the browser.**
 
-If you have an account but it is the first time you are using this browser:&#x20;
+Then, please, follow the steps below:
 
 * click _**Import an account**_.
 * import your backup file (that you have saved before during the creation phase, you can read more about the backup file [here](navigating-your-vocdoni-organization/))
@@ -27,7 +27,7 @@ If you have an account but it is the first time you are using this browser:&#x20
 
 ### Case 3 - I **do not have** an account&#x20;
 
-If you haven't an account you can go and start [here](creating-a-vodconi-organization.md).
+Then, please, start [here](creating-a-vodconi-organization.md).
 
 
 

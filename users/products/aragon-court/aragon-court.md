@@ -15,14 +15,18 @@ Aragon Court is one of the core components of the Aragon OpenStack. It is a **di
 
 ## Plurality rule
 
-Unlike traditional courts, Aragon Court guardians are not asked to rule impartially on disputes but instead are asked **to rule the way they expect the plurality of guardians to rule.** Aragon Court attempts to find what the subjective truth is (i.e. the most correct outcome of a dispute) with a Schelling point. Every time a guardian is drafted for a dispute, a portion of their activated tokens is locked until the dispute is finalized. To incentivize consensus, guardians who don’t vote in favour of the final ruling have their locked tokens slashed. Guardians who vote in favor of the final ruling are rewarded with dispute fees and tokens from any guardians who voted for a minority ruling.&#x20;
+Unlike traditional courts, Aragon Court guardians are not asked to rule impartially on disputes but instead are asked **to rule the way they expect the plurality of guardians to rule.** Aragon Court attempts to find what the subjective truth is (i.e. the most correct outcome of a dispute) with a Schelling point. Every time a guardian is drafted for a dispute, a portion of their activated tokens is locked until the dispute is finalized. To incentivize consensus, guardians who don’t vote in favor of the final ruling have their locked tokens slashed. Guardians who vote in favor of the final ruling are rewarded with dispute fees and tokens from any guardians who voted for a minority ruling.&#x20;
 
 ## Proof of stake
 
-The Aragon Court is a **permissionless protocol** where any participant can come and go without asking for anyone's authorization. Therefore, the protocol must function with integrity even in the presence of malicious actors, who may pose as multiple guardians at once to "Sybil attack" the Court. The defence against these attacks begins with a simple **staking system where guardian impact is weighted by their active stake of tokens**.
+The Aragon Court is a **permissionless protocol** where any participant can come and go without asking for anyone's authorization. Therefore, the protocol must function with integrity even in the presence of malicious actors, who may pose as multiple guardians at once to "Sybil attack" the Court. The defense against these attacks begins with a simple **staking system where guardian impact is weighted by their active stake of tokens**.
 
 You may be thinking that if a cartel gets a majority of tokens, they'll have a majority weight and attack the system unopposed since they'll influence more than 50% of the decisions. However, Aragon Court uses multiple countermeasures including iterative appeals, commit and reveal voting, and locked withdrawal periods that are designed to dissuade a cartel from acquiring and misusing a majority of tokens.
 
 ## Guardian responsibilities
 
-Guardians are expected to perform certain duties and responsibilities, like reviewing arguments for a dispute and casting a vote. In order to help guardians properly execute their tasks, the Aragon Court Dashboard is available and provides all the tools they need. You can learn more about the Dashboard here and the details of dispute resolution here.
+Guardians are expected to perform certain duties and responsibilities, like reviewing arguments for a dispute and casting a vote. To help guardians properly execute their tasks, the Aragon Court Dashboard is available and provides all the tools they need.&#x20;
+
+{% hint style="info" %}
+You can learn more about the Dashboard here and the details of dispute resolution here.
+{% endhint %}

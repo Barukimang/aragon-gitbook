@@ -82,7 +82,7 @@ Aragon's approach to frontend sandboxing is a combination of **sandboxed iframes
 
 The Aragon Client uses [aragonAPI ](../aragonapi/)to provide apps APIs for accessing smart contracts, displaying notifications and signing transactions. When signing transactions, a panel opens up in the client, not in the app. Apps cannot prompt users to sign transactions directly and they cannot interact with the contracts of other apps—in reality, they can only send action "intents". Thus all transactions are securely handled by the Aragon Client, decreasing the attack surface.
 
-You can read more about the Aragon Client [here](the-aragon-client/).
+You can read more about the Aragon Client [here](the-aragon-client.md).
 
 ## Cohesive UI <a href="#cohesive-ui" id="cohesive-ui"></a>
 

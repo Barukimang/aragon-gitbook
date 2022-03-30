@@ -1,10 +1,12 @@
-# Navigating your Vocdoni Organization
+# Navigating your Vocdoni organization
 
 {% hint style="info" %}
 In this section, you will learn how to navigate an Organization using Aragon Vocdoni.
 {% endhint %}
 
-On the top right click on the name of your entity/organization (in our case _Vodconi Test_). A drop-down menu appears:
+## Steps to navigate your Vocdoni organization
+
+On the top right click on the name of your entity/organization (in our case _**Vodconi Test**_). A drop-down menu appears with the following categories:
 
 * Dashboard
 * Public Page
@@ -20,18 +22,14 @@ All these sections will be described below.
 
 ### Dashboard
 
-On the dashboard page, you can create a new vote (using the _**Creating a voting process** button_).&#x20;
+On the dashboard page, you can create a new vote using the _**Creating a voting process** _ button.&#x20;
 
 ![Dashboard page](<../../../../.gitbook/assets/Schermata 2022-03-07 alle 13.06.27.png>)
 
 {% hint style="danger" %}
-If you haven't made a backup of your account you will see an alert message shown in an orange box (as shown in our example).
+If you haven't made a backup of your account you will see an alert message shown in an orange box (see the example above).
 
-### Your entity's account is unsafe!
-
-**If you lose access to your password, you will not be able to manage your entity anymore.**
-
-_`Please proceed with the backup of your account as described in the dedicated paragraph below`_ **** :arrow\_down:_`.`_
+**=> In this case, please, proceed with the backup of your account as described in the dedicated paragraph below.**
 {% endhint %}
 
 ### Voting box
@@ -40,41 +38,47 @@ The list of the votes is resumed in the dedicated box.&#x20;
 
 The Votes are grouped by:
 
-* Active votes: are the open votes&#x20;
-* Ended Votes: are the closed votes
-* Upcoming Votes: are votes that aren't already opened
+* **Active votes:** open votes&#x20;
+* **Ended Votes:** closed votes
+* **Upcoming Votes:** votes that aren't already opened
 
 ![Vote box](<../../../../.gitbook/assets/Schermata 2022-03-07 alle 22.50.22.png>)
 
-Clicking on a Vote (in our example "Test Vote") you can see how many have voted and the results.&#x20;
+Clicking on a Vote (in our example _**Test Vote**_) you can see how many have voted and the results.&#x20;
 
 ![Voting Results](<../../../../.gitbook/assets/Schermata 2022-03-07 alle 22.51.00.png>)
 
 ### Public page
 
-The public page shows the information about your entity/organization. It could be access to everyone (only read mode).&#x20;
+The public page shows the information about your entity/organization. It can be accessed by everyone (only in read mode).&#x20;
 
-The page shows: the name of the entity/organization, the logo, the header, the entity description, the entity address and the entity processes.
+The page shows:&#x20;
+
+* the name of the entity/organization,&#x20;
+* the logo, the header,&#x20;
+* the entity description,&#x20;
+* the entity address,
+* the entity processes.
 
 ![Public page](<../../../../.gitbook/assets/Schermata 2022-03-07 alle 14.24.50.png>)
 
 ### Update entity
 
-The update entity page allows to update easily the information about your entity/organization. Fill in the new information and save.
+The update entity page allows you to update easily the information about your entity/organization. Fill in the new information and save.
 
 ![](<../../../../.gitbook/assets/Schermata 2022-03-07 alle 14.27.18.png>)
 
 ### Create account backup
 
-In the _Download credentials_ page you can protect your entity's account by exporting it and storing it in a safe place.&#x20;
+On the _**Download credentials**_ page you can protect your entity's account by exporting it and storing it in a safe place.&#x20;
 
-* Select in the drop-down menu your favorite _3_ _Recovery questions_ and fill in your replies.&#x20;
-* Confirm your password&#x20;
-* Check the box with the "acknowledgement of losing the password"
+* Select in the drop-down menu your favorite 3 Recovery questions and fill in your replies.&#x20;
+* Confirm your password.
+* Check the box with the acknowledgment of losing the password.
 
 ![Create account backup](<../../../../.gitbook/assets/Schermata 2022-03-07 alle 14.12.30.png>)
 
-Press the _**Continue**_ button. A _.bak_ file will be automatically downloaded. This file contains your account details to restore your Vodconi account if needed.&#x20;
+Press the _**Continue**_ button. A ** **_**.bak**_ file will be automatically downloaded. This file contains your account details to restore your Vodconi account if needed.&#x20;
 
 {% hint style="success" %}
 Your account is now protected, store this file in a safe place.&#x20;
@@ -82,11 +86,11 @@ Your account is now protected, store this file in a safe place.&#x20;
 
 ### Language
 
-This option allows to select the preferred language. At this moment are available:
+This option allows you to select the preferred language. At this moment 3 languages are available:
 
-* English
-* Català
-* Castellano
+* English,
+* Català,
+* Castellano.
 
 ### Help and feedback
 
@@ -94,10 +98,10 @@ This option redirects to the Vocdoni documentation.
 
 ### Logout
 
-This option allows you to log out to your account.&#x20;
+This option allows you to log out of your account.&#x20;
 
 {% hint style="warning" %}
-To access your account after a logout again you need your _.bak_ backup file.
+To access your account after a logout again you need your ** **_**.bak**_** ** backup file.
 {% endhint %}
 
 

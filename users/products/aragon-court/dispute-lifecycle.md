@@ -11,29 +11,29 @@ In this section, you will learn what is a dispute lifecycle. The following guide
 
 ![](<../../../.gitbook/assets/Screenshot 2022-02-07 at 11.19.38 (1).png>)
 
-The Court's main unit of time is called a **term**, which is currently set to **eight hours**. Every time period in Aragon Court is composed of terms (e.g. the vote commit duration lasts six terms, or two days).&#x20;
+The Court's main unit of time is called a **term**, which is currently set to **eight hours**. Every period in Aragon Court is composed of terms (e.g. the vote commit duration lasts six terms or two days).&#x20;
 
 The current term and its remaining time are always displayed at the top of the dashboard.
 
 As for disputes, they essentially observe the following lifecycle:
 
-* **Pre-draft state:** Dispute creation and evidence submission.
+* **Pre-draft state:** Dispute creation, and evidence submission.
 * **Adjudication rounds:** Adjudication rounds are where guardians are drafted, review the dispute's evidence, then cast and reveal their votes. Disputes can be made up of multiple rounds if the first round's ruling is appealed.
 * **Final ruling:** Dispute is settled.
 
-### **Dispute creation and evidence submission**
+## **Dispute creation and evidence submission**
 
 Disputes can be created by any entity subscribed to Aragon Court.
 
-Once a dispute is created, a time period of seven days is allowed to submit evidence that will later be reviewed by guardians. During this period, the dispute creator can also decide to close the evidence submission at any point in time. Evidence can be submitted in text format but HTTP and IPFS links are also accepted.
+Once a dispute is created, a period of seven days is allowed to submit evidence that will later be reviewed by guardians. During this period, the dispute creator can also decide to close the evidence submission at any point in time. Evidence can be submitted in text format but HTTP and IPFS links are also accepted.
 
 No action is required by guardians during this period.
 
-### **Summoning Guardians**
+## **Summoning Guardians**
 
 ![](<../../../.gitbook/assets/Screenshot 2022-02-10 at 12.15.55.png>)
 
-After the evidence period is over, the first adjudication round is initiated and the Summon guardians period begins.&#x20;
+#### After the evidence period is over, the first adjudication round is initiated and the Summon guardians period begins.&#x20;
 
 The only task required during this period is to click on the Summon guardians button on the dispute page. Anybody can execute this task and receive a DAI reward proportional to the number of guardians being drafted. The current draft reward amount is [`Draft_Fee`](https://help.aragon.org/article/48-aragon-court-faq) per guardian.
 
@@ -41,24 +41,32 @@ Your chances of being drafted as a guardian are directly proportional to your ac
 
 **If you get selected as a guardian,** here are a few things you need to know:
 
-* You will receive an email notification containing information about the dispute and the next steps for you (if you subscribed to email notifications).
-* A portion of your active tokens will be locked until the final ruling is confirmed. The main purpose of locking your active tokens is to incentivise consensus decisions and honest behavior. The exact locked amount is equal to 30% off the minimum active balance for each time you get drafted. The minimum active balance is currently [`Min_Active_Balance`](https://help.aragon.org/article/48-aragon-court-faq), therefore the amount locked would be [`Min_Active_Balance x 0.3`](https://help.aragon.org/article/48-aragon-court-faq).&#x20;
-* It's possible to get drafted multiple times for the same dispute, if there are appeal rounds. In that case, the amount locked will be multiplied by the number of times you are being drafted. The voting power will also be proportional to this number. For example, a guardian getting drafted twice for a dispute would have [`Min_Active_Balance x 0.3 x 2`](https://help.aragon.org/article/48-aragon-court-faq) locked and twice the normal voting weight.
+* **You will receive an email notification containing information about the dispute and the next steps for you (if you subscribed to email notifications).**
+* **A portion of your active tokens will be locked until the final ruling is confirmed.** The main purpose of locking your active tokens is to incentivize consensus decisions and honest behavior. The exact locked amount is equal to 30% off the minimum active balance for each time you get drafted. The minimum active balance is currently [`Min_Active_Balance`](https://help.aragon.org/article/48-aragon-court-faq), therefore the amount locked would be [`Min_Active_Balance x 0.3`](https://help.aragon.org/article/48-aragon-court-faq).&#x20;
+* **It's possible to get drafted multiple times for the same dispute, if there are appel rounds.** In that case, the amount locked will be multiplied by the number of times you are being drafted. The voting power will also be proportional to this number. For example, a guardian getting drafted twice for a dispute would have [`Min_Active_Balance x 0.3 x 2`](https://help.aragon.org/article/48-aragon-court-faq) locked and twice the normal voting weight.
 * **Neither your inactive tokens nor the tokens contained in your wallet will be locked, only a portion of your active tokens.**
 
-### **Vote commit**
+## **Vote commit**
 
-The voting period is critical for a drafted guardian. What you must do within the allocated time is first to review the evidence, then to try anticipating what the voting decision of the plurality of guardians will be.
+{% hint style="danger" %}
+The voting period is critical for a drafted guardian.&#x20;
+{% endhint %}
 
-This seems counterintuitive at first. Aragon Court is not exactly functioning like most legacy court systems in which every guardian is asked for their unbiased opinion. If this would be the case, it would be unfair to penalize the ruling minority. Instead, guardians are incentivised to reach consensus and are rewarded or penalized accordingly.
+What you must do within the allocated time is first to review the evidence, then to try anticipating what the voting decision of the plurality of guardians will be.
+
+This seems counterintuitive at first. Aragon Court is not exactly functioning like most legacy court systems in which every guardian is asked for their unbiased opinion. If this would be the case, it would be unfair to penalize the ruling minority. Instead, guardians are incentivized to reach consensus and are rewarded or penalized accordingly.
 
 Most importantly, it is essential to cast a vote since failing to do so will result in financial penalties for you.
 
 **Failing to cast a vote will result in your locked tokens getting slashed and redistributed to the winning guardians after the final ruling - so make sure to commit and reveal your vote in the allotted time periods.**
 
-The vote commit period lasts **two days**. Here are the steps required to cast a vote:
+{% hint style="info" %}
+The vote commit period lasts two days.&#x20;
+{% endhint %}
 
-**Select one of the three voting choices.**
+## Steps required to cast a vote:
+
+### **Select one of the three voting choices.**
 
 Three choices are available: voting to **Allow** the action being disputed, voting to **Block** the action, or **Refuse to vote**.&#x20;
 
@@ -70,25 +78,27 @@ Remember that you should vote the way that you think a plurality of guardians wi
 
 ![](https://lh6.googleusercontent.com/OQFRlQMHSUhTctxiC6beX-WiTWoa2kXPUQEXeW0gAXx0KUiDfE\_1omvsxYVCqAD-a1RAZlZK1KofrJOPvFPwJszi5eFQvuRI1iWGctDk7RejgpG2v-XbjNm2C79Tr4mlpt\_q6TFj)
 
-**One-time-use code**
+### **One-time-use-code**
 
-To keep the votes secret until the end of the voting period, your vote will be combined with a randomly generated code. **For security purposes, it's important that you save this code somewhere safe (such as inside a password manager) and do not share it with anyone.**
+To keep the votes secret until the end of the voting period, your vote will be combined with a randomly generated code.
+
+{% hint style="warning" %}
+For security purposes, it's important that you save this code somewhere safe (such as inside a password manager) and do not share it with anyone.
+{% endhint %}
 
 ![](https://lh5.googleusercontent.com/JhaA4CDhK5qReb0Ff4cnIfh2clMwZ9VKUtADmmNa1LOELZuuvRuYyTdAL9cH7VJ0cxUR0AYhiI61o1a34iDHD-HUnny79LmapcPZ\_rMibaeA6KC8joNrOks06p3ah9GUQX6eJsOm)**Enable Court Auto-reveal service** is a convenient option available if you want your vote to be revealed automatically during the next phase. If you select this option, you are relying on Aragon, which hosts the Aragon Court Dashboard at [court.aragon.org](https://court.aragon.org), to cast your reveal transaction on time. Otherwise, manual action will be necessary during the Reveal period.
 
 Click the **Commit your vote** button to send the transaction.
 
+### **Leaking the secret one-time-use code**
 
-
-**Leaking the secret one-time-use code**
-
-If you leak your one-time-use-code, either on accident or on purpose, you could be **penalized**. This will put you on the losing side of a dispute even if you cast your vote for the plurality outcome, and your locked tokens will be redistributed to the plurality guardians after the final ruling. This mechanism is in place to dis-incentivise cheating/ collusion among guardians.
+If you leak your one-time-use-code, either on accident or on purpose, you could be **penalized**. This will put you on the losing side of a dispute even if you cast your vote for the plurality outcome, and your locked tokens will be redistributed to the plurality guardians after the final ruling. This mechanism is in place to dis-incentivize cheating/ collusion among guardians.
 
 If another guardian leaks their one-time-use code then you can penalize them using the following steps (this will be added to the guardian dashboard for ease of use in the near future).
 
-Step 1. Visit the **"leak"** section of the Aragon Court ["write contract page"](https://etherscan.io/address/0x96D7B5E5372743Abc69d1eAc714e893fA71d3baa#writeContract) on Etherscan.
+**Step 1.** Visit the **"leak"** section of the Aragon Court ["write contract page"](https://etherscan.io/address/0x96D7B5E5372743Abc69d1eAc714e893fA71d3baa#writeContract) on Etherscan.
 
-Step 2. Fill out the form fields with the following information:
+**Step 2.** Fill out the form fields with the following information:
 
 * &#x20;\_voteId: enter the **vote ID** that the guardian is leaking their code for.
   * To get the vote ID, go to the Aragon Court subgraph ["Disputes and rounds with votes"](https://thegraph.com/explorer/subgraph/aragon/aragon-court?query=Disputes%20and%20rounds%20with%20votes) section, enter the Dispute # in place of "0" where it says {id\_in: \[0]}, then press Ctrl+Enter on your keyboard to execute the query. On the right side of the query box it will say "vote": "id": "0". In this case 0 is the vote ID. Note that the vote ID will be different for any dispute other than Dispute #0.
@@ -97,51 +107,69 @@ Step 2. Fill out the form fields with the following information:
 * \_salt: the **salt** the cheating guardian used to commit the vote
   * To get the salt, take the one-time-use code that was leaked and enter it as the "Input" on [this Keccak256 conversion tool](https://emn178.github.io/online-tools/keccak\_256.html) then press the "Hash" button. The result in the "Output" box is what you should copy/paste into the \_salt field.
 
-An example of the completed form looks like this:
+{% hint style="info" %}
+#### An example of the completed form looks like this:
 
 ![](https://lh4.googleusercontent.com/0bXNwjWBg6\_T1uE3IRILMLh5DHw6\_tdl0Cz5rRXbMoWkMfPImJPR01rnFNDE-BmoAVB\_ga8r-OpBa-lhL2Vl36hBYQz5qGCi2mpdhDlETbTK9fOUMN2N-KVmM0-WN-8JlttMj7gg)Step 3. Click the "write" button, then sign and send the transaction. Once the transaction is confirmed, the guardian who leaked their one-time-use code will be penalized.
+{% endhint %}
 
-### **Vote reveal**
+## **Vote reveal**
 
 ![](https://lh5.googleusercontent.com/AeieERJPiNM5QdyXbkkG7xiRCtf-n7x9VAj7N2Ekp0IqC5XLPLGhcKbK3Q0JglwpeRfh\_SgXx1V-fmjV0f2zbhh55\_prfF4UZvKJ6G7LWy--yR25vEFdY2lUAGd5Q8kjJC9RewTG)After the voting period has ended, guardians will have **two days** to reveal their vote.
 
 If you enabled the **Auto-reveal service**, there is no action required from you at this stage. Otherwise, simply click on the **Reveal your vote** button. Your one-time code shouldn't be necessary unless a problem occurred within the court, but if it is needed, you'll be prompted to retrieve it from the safe place you stored it and enter it into the guardian app.
 
-### **Appeal and appeal confirmation**
+## **Appeal and appeal confirmation**
 
-Now that the votes are revealed, you can see whether you voted with the plurality or not. But before the ruling can be executed, an appeal period is started during which any user can lock DAI as collateral to propose an appeal. Appeal collateral amounts can be found in the Aragon Court FAQ.
+**Now that the votes are revealed, you can see whether you voted with the plurality or not.** But before the ruling can be executed, an appeal period is started during which any user can lock DAI as collateral to propose an appeal. Appeal collateral amounts can be found in the Aragon Court FAQ.
 
-However, an appeal must be confirmed by a second user to officially start a new round. Appeal confirmation collateral amounts can be found in the [Aragon Court FAQ](aragon-court-faq.md).
+{% hint style="info" %}
+An appeal must be confirmed by a second user to officially start a new round. Appeal confirmation collateral amounts can be found in the [Aragon Court FAQ](aragon-court-faq.md).
+{% endhint %}
 
-If an appeal is confirmed, a new adjudication round is initiated and a new jury is drafted. With each new appeal, the number of guardians is multiplied by **three**. The appeal and appeal confirmation periods both last **two days.**
+{% hint style="success" %}
+#### If an appeal is confirmed.
 
-If an appeal is not confirmed, then the outcome proposed by the appealing party wins. For example, if the ruling of the previous round was "Allow" and the appealing party proposes an "Block" ruling, and no one confirms the appeal, then the final ruling will be "Block".
+A new adjudication round is initiated and a new jury is drafted. With each new appeal, the number of guardians is multiplied by **three**. The appeal and appeal confirmation periods both last **two days.**
+{% endhint %}
 
-When the final ruling is confirmed:
+{% hint style="danger" %}
+#### If an appeal is not confirmed&#x20;
+
+The outcome proposed by the appealing party wins. For example, if the ruling of the previous round was "Allow" and the appealing party proposes an "Block" ruling, and no one confirms the appeal, then the final ruling will be "Block".
+{% endhint %}
+
+### When the final ruling is confirmed:
 
 * if the ruling has switched in favor of the user who appealed (the "appealing party") then the collateral of the user who confirmed the appeal (the "confirming party") is redistributed to the appealing party.&#x20;
 * If the ruling is in favor of the confirming party, then the collateral of the appealing party is redistributed to the confirming party.&#x20;
-* Iff the final ruling is in neither the appealing party nor the confirming party's favor, then both the appealing party and confirming party get their collateral back minus a fee that goes to the guardians who voted in the plurality.
+* If the final ruling is in neither the appealing party nor the confirming party's favor, then both the appealing party and confirming party get their collateral back minus a fee that goes to the guardians who voted in the plurality.
 
-### **Final ruling**
+## **Final ruling**
 
 Once a ruling has been decided without any appeal, the final ruling is sent to the smart contract that triggered the dispute and all the adjudication rounds for the dispute can be settled taking into account the final ruling for rewards and penalties.
 
 {% hint style="success" %}
-If, as a guardian, you voted with the plurality of guardians in the final ruling, congratulations! :tada:
+**If you voted as a guardian with the plurality of guardians in the final ruling.**&#x20;
 
 You just earned a percentage of the slashed tokens from guardians who voted in the minority.
 {% endhint %}
 
 {% hint style="danger" %}
-If, however, you voted with the minority, your locked tokens are redistributed to the guardians who voted with the plurality in the final ruling.
+**If you voted with the minority**
+
+Your locked tokens are redistributed to the guardians who voted with the plurality in the final ruling.
 {% endhint %}
 
-### **Final appeal round**
+## **Final appeal round**
 
 The maximum number of appeal rounds is not infinite, it is currently set to **four**.&#x20;
 
-If an appeal is still confirmed after the maximum allowed is reached, a final round is initiated where the number of guardians equal to [`total active stake / Min_Active_Balance`](https://help.aragon.org/article/48-aragon-court-faq) is drafted, in which case all drafted guardians will be required to make up and safely store a secret passphrase to vote. The auto-reveal service is currently disabled for the final appeal round, so guardians will have to manually reveal their vote with their secret passphrase during the final reveal period.
+{% hint style="success" %}
+#### If an appeal is still confirmed after the maximum allowed is reached.
+
+A final round is initiated where the number of guardians equal to [`total active stake / Min_Active_Balance`](https://help.aragon.org/article/48-aragon-court-faq) is drafted, in which case all drafted guardians will be required to make up and safely store a secret passphrase to vote. The auto-reveal service is currently disabled for the final appeal round, so guardians will have to manually reveal their vote with their secret passphrase during the final reveal period.
+{% endhint %}
 
 
 

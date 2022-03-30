@@ -18,7 +18,7 @@ The two DAO configurations that one can choose from when using the [Aragon clien
 The `kits` has been deprecated and `templates` should be used instead. You may still find the `kits` notation in some places while we make the transition.
 {% endhint %}
 
-### Template structure <a href="#template-structure" id="template-structure"></a>
+## Template structure <a href="#template-structure" id="template-structure"></a>
 
 All templates follow a similar structure:
 

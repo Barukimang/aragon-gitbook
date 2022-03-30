@@ -4,13 +4,13 @@
 In this section, you will learn how to process a vote on an Aragon Vocdoni Organization.
 {% endhint %}
 
-### How to vote on a proposal
+## Steps to vote on a proposal
 
 To vote on a proposal in the Aragon Vocdoni Organization you need to receive the URL of the voting proposal. Copy and paste the link into a browser.&#x20;
 
 ![Fill in the requested fields to authenticate](<../../../../.gitbook/assets/Schermata 2022-03-07 alle 20.41.28.png>)
 
-All the above details need to be filled in (exactly as in the uploaded voters list) to be able to authenticate to be able to vote.
+All the above details need to be filled in (exactly as in the uploaded voters' list) to be able to authenticate to be able to vote.
 
 Click ** **_**Vote now** _ and cast your vote_._
 
@@ -18,7 +18,7 @@ Click ** **_**Vote now** _ and cast your vote_._
 
 ![Vote options](<../../../../.gitbook/assets/Schermata 2022-03-07 alle 22.30.29.png>)
 
-Click on the _**Finish voting**_ button and confirm your vote (_Yes, submit the vote_).
+Click on the _**Finish voting**_ button and confirm your vote: _**Yes, submit the vote**_.
 
 ![Final confirmation](<../../../../.gitbook/assets/Schermata 2022-03-07 alle 22.33.19.png>)
 
