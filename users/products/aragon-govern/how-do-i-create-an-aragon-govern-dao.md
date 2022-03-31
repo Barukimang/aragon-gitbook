@@ -51,7 +51,7 @@ This option **DOES NOT** reduce the security of your DAO in any way.
 ## In the second step you should define
 
 * **Execution delay**: The amount of time a given transaction will be on hold before being executed. During this period, the transaction can be reviewed by your community members, and if it does not conform with your DAO agreement, it can be challenged. At the end of the delay period, the transaction will be available for execution. [Learn more](navigate-into-your-govern-dao/why-do-transactions-require-a-delay-period-in-order-to-be-executed.md).
-* **Rules & Agreement**: An Aragon Govern DAO works thanks to optimistic governance: it expects its members to act in its best interest, and for these to always follow a specific set of (pre-agreed) rules. These rules are what make a DAO agreement, and can be provided as free text, pdf, or document.&#x20;
+* **Rules & Agreement**: An Aragon Govern DAO works thanks to optimistic governance: it expects its members to act in its best interest, and for them to always follow a specific set of (pre-agreed) rules. These rules are what make a DAO agreement, and can be provided as free text, pdf, or document.&#x20;
 * **Dispute resolution client**:  This is the address of a smart contract that can act as a dispute resolution system for the optimistic governance model to be enacted. The default address is set to Aragon Court, a tested and secure dispute resolution system by Aragon. Be aware that if you change this address, and the new smart contract does not implement the [ERC3k standard](https://eips.ethereum.org/EIPS/eip-3000), or it relies on an insecure system, you might make your DAO unusable or allow funds to be stolen.
 
 ## Collateral
