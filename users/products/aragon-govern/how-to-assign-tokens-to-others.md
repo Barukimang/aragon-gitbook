@@ -2,20 +2,19 @@
 
 ## Minting and assigning Tokens
 
-Go to https://govern.aragon.org/#/daos/\<DAO name>/ where \<DAO name> is the name of your DAO and click _Actions_ on the left side menu.
+Go to https://govern.aragon.org/#/daos/\<DAO name>/ where \<DAO name> is the name of your DAO.
 
 The token can be minted and assigned to other wallets in the _**Actions**_ section:
 
 !["Action" section on the left side menu ](<../../../.gitbook/assets/Schermata 2022-02-11 alle 10.09.01.png>)
 
 {% hint style="info" %}
-Actions = new action
+* Click _Actions_ on the left side menu -  _New action_
 
 #### Insert the following fields:
 
-Title = a title to identify the transaction.
-
-Justification = a text or a file to tell DAO members why you schedule this transaction.-&#x20;
+* _Title_ = a title to identify the transaction
+* _Justification_ = a text or a file to tell DAO members why you schedule this transaction.-&#x20;
 {% endhint %}
 
 * Click on the ** **_**Add new transaction**_** ** button.
