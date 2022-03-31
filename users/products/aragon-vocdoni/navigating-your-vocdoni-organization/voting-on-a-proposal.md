@@ -10,7 +10,7 @@ To vote on a proposal in the Aragon Vocdoni Organization you need to receive the
 
 ![Fill in the requested fields to authenticate](<../../../../.gitbook/assets/Schermata 2022-03-07 alle 20.41.28.png>)
 
-All the above details need to be filled in (exactly as in the uploaded voters' list) to be able to authenticate to be able to vote.
+All the above details need to be filled in (exactly as in the uploaded voters' list) to be authenticated for a vote.
 
 Click ** **_**Vote now** _ and cast your vote_._
 
