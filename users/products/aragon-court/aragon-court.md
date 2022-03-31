@@ -19,7 +19,7 @@ Unlike traditional courts, Aragon Court guardians are not asked to rule impartia
 
 ## Proof of stake
 
-The Aragon Court is a **permissionless protocol** where any participant can come and go without asking for anyone's authorization. Therefore, the protocol must function with integrity even in the presence of malicious actors, who may pose as multiple guardians at once to "Sybil attack" the Court. The defense against these attacks begins with a simple **staking system where guardian impact is weighted by their active stake of tokens**.
+Aragon Court is a **permissionless protocol** where any participant can come and go without asking for anyone's authorization. Therefore, the protocol must function with integrity even in the presence of malicious actors, who may pose as multiple guardians at once to "Sybil attack" the Court. The defense against these attacks begins with a simple **staking system where guardian impact is weighted by their active stake of tokens**.
 
 You may be thinking that if a cartel gets a majority of tokens, they'll have a majority weight and attack the system unopposed since they'll influence more than 50% of the decisions. However, Aragon Court uses multiple countermeasures including iterative appeals, commit and reveal voting, and locked withdrawal periods that are designed to dissuade a cartel from acquiring and misusing a majority of tokens.
 
