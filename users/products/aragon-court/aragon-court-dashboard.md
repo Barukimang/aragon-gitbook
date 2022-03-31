@@ -104,7 +104,7 @@ Two actions are available when you have an inactive balance:
 * Subscription rewards are directly proportional to active tokens.&#x20;
 
 {% hint style="info" %}
-[Click here](broken-reference) to learn more about the different types of rewards.
+[Click here](aragon-court-dashboard.md#rewards) to learn more about the different types of rewards.
 {% endhint %}
 
 * To incentivize consensus decisions and honest behaviors, a portion of your active tokens are locked when drafted for a dispute and you can get rewarded or penalized depending on the final ruling.
@@ -166,7 +166,7 @@ Learn more about appeal confirmation [here.](dispute-lifecycle.md)
 [Click here](dispute-lifecycle.md) to learn more about final rulings.
 {% endhint %}
 
-## **Rewards**
+## **Rewards** <a href="#rewards" id="rewards"></a>
 
 Rewards can be obtained in multiple ways, both as a guardian and as a normal user.
 
