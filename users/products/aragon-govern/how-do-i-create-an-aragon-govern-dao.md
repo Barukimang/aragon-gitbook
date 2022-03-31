@@ -38,10 +38,6 @@ Go to [https://govern.aragon.org/#/create-dao](https://govern.aragon.org/#/creat
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/61155a2d21ef206e5592aff7/file-6re43pNq8c.png)
 
-{% hint style="danger" %}
-Currently, there is no practical usage for the token information within the DAO. But future usages are foreseen.
-{% endhint %}
-
 * **Proxies**: When selecting this option you will drastically reduce the amount of gas needed to deploy your DAO. This means that instead of deploying a whole smart contract to be the executor of your DAO (the one that executes transactions as the DAO), you will just deploy a proxy contract (which is a minimal version that forwards requests to a full contract that was already deployed by Aragon).&#x20;
 
 {% hint style="warning" %}
