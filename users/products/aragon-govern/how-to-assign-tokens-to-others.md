@@ -2,6 +2,8 @@
 
 ## Minting and assigning Tokens
 
+Go to https://govern.aragon.org/#/daos/\<DAO name>/ where \<DAO name> is the name of your DAO and click _Actions_ on the left side menu.
+
 The token can be minted and assigned to other wallets in the _**Actions**_ section:
 
 !["Action" section on the left side menu ](<../../../.gitbook/assets/Schermata 2022-02-11 alle 10.09.01.png>)
