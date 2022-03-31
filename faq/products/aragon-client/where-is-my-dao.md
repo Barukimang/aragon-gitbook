@@ -12,4 +12,4 @@ Copy and paste this URL to your browser:
 
 Note: <**DAO name**> is the name of your DAO that you have chosen during the Dao creation phase.
 
-Don't forget to connect your Web3 wallet to the network (aka the network where you have deployed your DAO) and also to select the correct wallet address account.
+Don't forget to connect your Web3 wallet to the network (aka the network where you have deployed your DAO, for example: Ethereum network, Polygon network, etc) and also to select the correct wallet address account.
