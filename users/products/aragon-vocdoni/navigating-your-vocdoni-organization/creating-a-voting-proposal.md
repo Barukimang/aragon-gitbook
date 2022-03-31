@@ -29,7 +29,7 @@ Click on the _**Create a voting process**_ and fill in the fields on the _**New 
 
 **Description:** the description of the voting process
 
-**Question:** the question of the voting process (what is the vote about). Each question has a Title, a Description, and Options (these are the options among which the users can choose at the voting time). More options can be added using the Add an option button.
+**Question:** the question of the voting process (what is the vote about). Each question has a Title, a Description, and Options (these are the options among which the users can choose at the voting time). More options can be added using the **Add an option** button.
 {% endhint %}
 
 The voting process can have more than one question. More questions can be added using the _**Add a question**_ button.
