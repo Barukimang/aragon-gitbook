@@ -2,7 +2,7 @@
 
 ## Steps to vote on a proposal
 
-To create a proposal go [here](https://voice.aragon.org) and connect your web3 wallet.
+To vote a proposal go [here](https://voice.aragon.org) and connect your web3 wallet.
 
 {% hint style="info" %}
 If you need help with this task, go [here](../set-up-metamask/).
