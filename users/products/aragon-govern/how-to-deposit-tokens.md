@@ -18,9 +18,7 @@ Amount - quantity of token to deposit. The correct format is \<number>.\<number>
 Reference (optional) - a text to identify this transa­ction later on.
 {% endhint %}
 
-* Click on the _**Review Deposit**_ button and _**Confirm the Deposit**_.
-
-![](<../../../.gitbook/assets/Schermata 2022-01-29 alle 13.28.01.png>)                            ![](<../../../.gitbook/assets/Schermata 2022-01-29 alle 13.41.21.png>)
+* Click on the _**Review Deposit**_ button and _**Confirm the Deposit**_.![](../../../.gitbook/assets/bottone.png)                         ![](<../../../.gitbook/assets/Schermata 2022-01-29 alle 13.41.21.png>)
 
 
 

@@ -5,5 +5,5 @@ In this section you will learn:
 
 * how to mint and assign tokens&#x20;
 * how to deposit tokens
-* how challenging a transaction
+* how to challenge a transaction
 {% endhint %}
