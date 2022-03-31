@@ -4,7 +4,7 @@ You have deployed a DAO. Great! But you can't find it. Where is your DAO?&#x20;
 
 Let's see how to access your DAO.
 
-If the Dao creation process is well completed and the DAO was correctly deployed, you can access your DAO in an easy way.&#x20;
+If the DAO creation process is well completed and the DAO was correctly deployed, you can access your DAO in an easy way.&#x20;
 
 Copy and paste this URL to your browser:
 
