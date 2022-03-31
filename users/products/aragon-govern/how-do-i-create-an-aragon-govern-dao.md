@@ -6,7 +6,7 @@ coverY: 0
 # How to create a Govern DAO
 
 {% hint style="info" %}
-In this section, you will learn how to create a DAO using the Aragon Govern.&#x20;
+In this section, you will learn how to create a DAO using Aragon Govern.&#x20;
 {% endhint %}
 
 ## How to create a DAO
