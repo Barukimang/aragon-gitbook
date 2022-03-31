@@ -38,9 +38,9 @@ The list of the votes is resumed in the dedicated box.&#x20;
 
 The Votes are grouped by:
 
-* **Active votes:** open votes&#x20;
-* **Ended Votes:** closed votes
-* **Upcoming Votes:** votes that aren't already opened
+* **Active votes:** open vote proposals
+* **Ended Votes:** closed vote proposals
+* **Upcoming Votes:** vote proposals that aren't already opened
 
 ![Vote box](<../../../../.gitbook/assets/Schermata 2022-03-07 alle 22.50.22.png>)
 
