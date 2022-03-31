@@ -17,7 +17,7 @@ Fill in all the requested fields on the _**Entity name**_** ** page. Here you ca
 {% hint style="info" %}
 **Name of the entity:** name of your entity/organization.
 
-**Contact Email: the** email address that members of your entity/organization can use to contact you.
+**Contact Email:** the **** email address that members of your entity/organization can use to contact you.
 
 **Type of organization:** you can choose the type of organization listed on the drop-down menu.
 
