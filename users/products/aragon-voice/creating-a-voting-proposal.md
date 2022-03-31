@@ -12,7 +12,7 @@ To create a proposal go [here](https://voice.aragon.org) and connect your web3 w
 If you need help with this task go [here](../set-up-metamask/).
 {% endhint %}
 
-Please select the Ethereum Mainnet in your wallet.&#x20;
+Please select Ethereum Mainnet in your wallet.&#x20;
 
 ![](<../../../.gitbook/assets/Schermata 2022-02-11 alle 11.45.02.png>)
 
