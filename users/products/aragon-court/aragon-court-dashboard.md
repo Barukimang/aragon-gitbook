@@ -141,7 +141,7 @@ Click [here](dispute-lifecycle.md) for more information about committing votes.
 * **Reveal vote**: Since votes are secret until the end of the voting period, a task is also needed in order for the ruling to be revealed. However, an option is available to make this task fully automated.
 
 {% hint style="info" %}
-[Click here](dispute-lifecycle.md) to learn more about revealing votes.
+Click [here](dispute-lifecycle.md) to learn more about revealing votes.
 {% endhint %}
 
 * **Appeal ruling**: Once the ruling is revealed, it can be appealed by anyone who disagrees with its result. Be aware that you need to lock an amount of DAI to appeal a ruling. You will get rewarded if the ruling ends up turning in your favor at the end of the dispute.&#x20;
