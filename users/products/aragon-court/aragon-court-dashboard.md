@@ -51,7 +51,7 @@ To opt-in, click the ** **_**gear-shaped**_ Settings icon in the top corner and 
 
 ![](../../../.gitbook/assets/Screenshot\_2022-02-07\_at\_11\_57\_40.png)
 
-You will be prompted to sign a message proving ownership of your Ethereum address so that you can modify your notification settings. Click _**Unlock notification**_** ** settings then sign the message.
+Click **Unlock notification settings**. Sign the message on the prompt to prove ownership of your Ethereum address, so that you can modify your notification settings.
 
 ![](<../../../.gitbook/assets/Screenshot 2022-02-07 at 11.59.05 (1).png>)
 
