@@ -57,6 +57,8 @@ Click **Unlock notification settings**. Sign the message on the prompt to prove 
 
 Once you have proven ownership of your address, you will be able to enter your email address to opt-in to notifications.
 
+![](<../../../.gitbook/assets/Screenshot 2022-02-07 at 11.59.05.png>)
+
 After entering your email address, a verification email will be sent to your email address (if you don't see it in the inbox, check the Spam folder). Click the link in the verification email to confirm your address.
 
 ![](<../../../.gitbook/assets/Screenshot 2022-02-07 at 12.18.10 (2).png>)
@@ -135,13 +137,13 @@ If you are concerned about missing important tasks, don't worry, if you signed u
 * **Commit vote**: One of the most important tasks in Aragon Court. When a guardian is drafted to adjudicate a dispute, their duty is to review the submitted arguments and commit a vote within the voting period limit. Failure to execute this action would penalize the guardian.
 
 {% hint style="info" %}
-Click [here](dispute-lifecycle.md) for more information about committing votes.
+[Click here](dispute-lifecycle.md) for more information about committing votes.
 {% endhint %}
 
 * **Reveal vote**: Since votes are secret until the end of the voting period, a task is also needed in order for the ruling to be revealed. However, an option is available to make this task fully automated.
 
 {% hint style="info" %}
-Click [here](dispute-lifecycle.md) to learn more about revealing votes.
+[Click here](dispute-lifecycle.md) to learn more about revealing votes.
 {% endhint %}
 
 * **Appeal ruling**: Once the ruling is revealed, it can be appealed by anyone who disagrees with its result. Be aware that you need to lock an amount of DAI to appeal a ruling. You will get rewarded if the ruling ends up turning in your favor at the end of the dispute.&#x20;

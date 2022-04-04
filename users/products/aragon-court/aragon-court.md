@@ -28,5 +28,5 @@ You may be thinking that if a cartel gets a majority of tokens, they'll have a m
 Guardians are expected to perform certain duties and responsibilities, like reviewing arguments for a dispute and casting a vote. To help guardians properly execute their tasks, the Aragon Court Dashboard is available and provides all the tools they need.&#x20;
 
 {% hint style="info" %}
-You can learn more about the Dashboard here and the details of dispute resolution here.
+You can learn more about the Dashboard [here](aragon-court-dashboard.md) and the details of dispute resolution here.
 {% endhint %}
