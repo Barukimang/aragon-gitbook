@@ -1,8 +1,10 @@
-# Your first Aragon app
+# Create your first Aragon app
 
-In this guide, we will walk you through creating your first Aragon app using aragonOS, the JavaScript implementation of aragonAPI, aragonUI and the Aragon buidler plugin.
+{% hint style="info" %}
+In this guide, we will walk you through creating your first Aragon app using aragonOS, the JavaScript implementation of aragonAPI, aragonUI and the Aragon builder plugin.
+{% endhint %}
 
-### The setup
+## The setup
 
 Let's first set up and bootstrap our project:
 
@@ -10,9 +12,13 @@ Let's first set up and bootstrap our project:
 npx create-aragon-app foo tutorial
 ```
 
-This will create a new directory named `foo`, with files cloned from [your first Aragon app template](https://github.com/aragon/your-first-aragon-app). This particular boilerplate includes everything you need to get started — [buidler](https://buidler.dev), aragonOS and aragonAPI.
+This will create a new directory named `foo`, with files cloned from [your first Aragon app template](https://github.com/aragon/your-first-aragon-app). This particular boilerplate includes everything you need to get started:
 
-#### Structure <a href="#structure" id="structure"></a>
+* &#x20;[buidler](https://buidler.dev),&#x20;
+* aragonOS,
+* aragonAPI.
+
+### Structure <a href="#structure" id="structure"></a>
 
 This boilerplate has the following structure:
 
@@ -49,15 +55,19 @@ root
 * [**buidler.config.js**](https://buidler.dev/config/): Buidler configuration file.
 * [**package.json**](https://docs.npmjs.com/creating-a-package-json-file): Main npm configuration file.
 
+{% hint style="danger" %}
 #### Stuck? <a href="#stuck" id="stuck"></a>
 
 If you get stuck at any point. [Come back here to check the diff with changes after the tutorial is completed](https://github.com/aragon/your-first-aragon-app/pull/2/files).
+{% endhint %}
 
+{% hint style="info" %}
 If you need help, please reach out to Aragon core contributors and community members in one of our [Aragon Spectrum channels](https://spectrum.chat/aragon).
+{% endhint %}
 
 Now let's start with it 💪.
 
-### Writing a simple contract <a href="#writing-a-simple-contract" id="writing-a-simple-contract"></a>
+## Writing a simple contract <a href="#writing-a-simple-contract" id="writing-a-simple-contract"></a>
 
 To illustrate how easy it is to use aragonOS, we will build our app as a vanilla smart contract, without any Aragon-specific interfaces at all.
 
@@ -97,11 +107,11 @@ Pretty simple, right? You might wonder why we would bother adding events to this
 > **Note**\
 > We use [SafeMath](https://github.com/aragon/aragonOS/blob/next/contracts/lib/math/SafeMath.sol) for uint256. Using SafeMath is a security convention that allows handling math operations with safety checks that revert on error preventing the risk of overflows.
 
-### 3 steps to governance and upgradeability <a href="#3-steps-to-governance-and-upgradeability" id="3-steps-to-governance-and-upgradeability"></a>
+## 3 steps to governance and upgradeability <a href="#3-steps-to-governance-and-upgradeability" id="3-steps-to-governance-and-upgradeability"></a>
 
 Now for the interesting part: making our simple smart contract an Aragon app.
 
-First, inherit from the Aragon app smart contract, like so:
+**First**, inherit from the Aragon app smart contract, like so:
 
 ```solidity
 import "@aragon/os/contracts/apps/AragonApp.sol";
@@ -111,7 +121,9 @@ contract CounterApp is AragonApp {
 }
 ```
 
-Second, define the roles that you want your app to have. A role can be assigned to other apps or people and those entities will have access to methods guarded by that role.
+**Second**, define the roles that you want your app to have.&#x20;
+
+A role can be assigned to other apps or people and those entities will have access to methods guarded by that role.
 
 In this example, we will define a role for incrementing and a role for decrementing but note that you can have a single role to guard all methods in your contract if you find that appropriate.
 
@@ -124,7 +136,7 @@ contract CounterApp is AragonApp {
 }
 ```
 
-Finally, guard the methods with the `auth()` modifier that the `AragonApp` interface gives you and add an [initialize function](https://hack.aragon.org/docs/aragonos-building.html#constructor-and-initialization) to your contract; we use `initValue` as the starting value of the counter:
+**Third**, guard the methods with the `auth()` modifier that the `AragonApp` interface gives you and add an [initialize function ](../aragonos/developing-with-aragonos.md)to your contract; we use `initValue` as the starting value of the counter:
 
 ```solidity
 contract CounterApp is AragonApp {
@@ -146,9 +158,11 @@ contract CounterApp is AragonApp {
 }
 ```
 
+{% hint style="success" %}
 That's it. In 3 steps, you now have an Aragon app, with full upgradeability and modular governance.
+{% endhint %}
 
-### Descriptive transactions <a href="#descriptive-transactions" id="descriptive-transactions"></a>
+## Descriptive transactions <a href="#descriptive-transactions" id="descriptive-transactions"></a>
 
 Aragon wants to be as user friendly as possible, so it provides an easy way for developers to describe what their smart contracts do in a human-readable way. It's called [Radspec](https://hack.aragon.org/docs/human-readable-txs). It works by putting `@notice` statements alongside a human-readable description for the function. In our example, we use the input `step` to describe what is doing our function at runtime.
 
@@ -172,9 +186,9 @@ contract CounterApp is AragonApp {
 }
 ```
 
-### Building the frontend <a href="#building-the-frontend" id="building-the-frontend"></a>
+## Building the frontend <a href="#building-the-frontend" id="building-the-frontend"></a>
 
-Because apps inside the [Aragon client](https://hack.aragon.org/docs/client) are sandboxed, it also means that apps do not have direct access to Web3.
+Because apps inside the [Aragon client ](../the-basics/the-aragon-client.md)are sandboxed, it also means that apps do not have direct access to Web3.
 
 Apps are run inside an iframe, which means that it only has access to its own DOM, not the outlying DOM. The app can communicate with the client over our custom RPC protocol.
 
