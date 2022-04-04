@@ -194,15 +194,15 @@ Apps are run inside an iframe, which means that it only has access to its own DO
 
 Then the client takes care of connecting to Ethereum via Web3, and also handles things like signing transactions, displaying notifications and more to the end-user.
 
-All of this is achieved by using aragonAPI. aragonAPI is split into two parts: one for clients and one for apps. The client portion of aragonAPI reads _requests_ from the app over RPC, sandboxes apps and performs Web3 actions, whereas the app portion provides a simple API to communicate with the client (to read state, send transactions and more).
+All of this is achieved by using **aragonAPI**. aragonAPI is split into two parts: one for clients and one for apps. The client portion of aragonAPI reads _requests_ from the app over RPC, sandboxes apps and performs Web3 actions, whereas the app portion provides a simple API to communicate with the client (to read state, send transactions and more).
 
-#### Background scripts and building state <a href="#background-scripts-and-building-state" id="background-scripts-and-building-state"></a>
+### Background scripts and building state <a href="#background-scripts-and-building-state" id="background-scripts-and-building-state"></a>
 
-Apps usually want to listen to events using Web3 and build an application state from those events. This concept is also known as _event sourcing_.
+Apps usually want to listen to events using Web3 and build an application state from those events. This concept is also known as _**event sourcing**_.
 
 aragonAPI was built with event sourcing in mind. To build the state continually without having the app loaded indefinitely, though, we need to run a background script.
 
-Thankfully the [Aragon client](https://hack.aragon.org/docs/client) will run background scripts specified in the manifest files of our app (more on manifest files later).
+Thankfully the [Aragon client ](../the-basics/the-aragon-client.md)will run background scripts specified in the manifest files of our app (more on manifest files later).
 
 Let's start by writing a background script that listens for our `Increment` and `Decrement` events, and builds a state, for this example, the current value of our counter.
 
@@ -272,7 +272,7 @@ The store has block caching automatically applied, such that subsequent loads of
 
 Learn more about it on the [store() documentation](https://github.com/aragon/aragon.js/blob/master/docs/API.md#store).
 
-#### Displaying State <a href="#displaying-state" id="displaying-state"></a>
+### Displaying State <a href="#displaying-state" id="displaying-state"></a>
 
 Now let's write the view portion of our app. In our case, this is a simple HTML file, and a simple React app with the `useAragonApi` [React Hook](https://reactjs.org/docs/hooks-intro.html) that observes the state that our background script builds for us and returns the data needed to interact with the app contract.
 
@@ -314,7 +314,7 @@ ReactDOM.render(
 
 Before using any Hook provided, you need to declare the component `AragonApi` to connect the app. It is generally a good idea to do it near the top level of your React tree. It should only be declared once. It has an optional reducer prop, which lets you process the state coming from the background script. If not provided, the state is passed as-is.
 
-#### App root component <a href="#app-root-component" id="app-root-component"></a>
+### App root component <a href="#app-root-component" id="app-root-component"></a>
 
 ```js
 // app/src/App.js
