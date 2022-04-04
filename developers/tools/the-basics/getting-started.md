@@ -30,7 +30,7 @@ Next, we'll need what we call a [web3 provider](before-starting.md) to actually 
 
 In general, if you have a hardware wallet, we recommend you use [Frame](https://frame.sh) as your web3 provider -- we'll go over how to do this in the[ tutorial](../guides/your-first-aragon-app.md) that follows.&#x20;
 
-For now in this section, to interact with the **Aragon app** we'll be using Metamask. If you haven't please proceed with the installation of [Metamask](../../../users/products/set-up-metamask/).
+For now in this section, to interact with the **Aragon app** we'll be using Metamask. If you haven't please proceed with the installation of[ Metamask](https://app.gitbook.com/o/3h8kxj8geKVXgyMnGbYT/s/zhQIP88M8McmSaEGSymT/\~/changes/txvGqrQEp8Fp7dEKEi63/developers/tools/the-basics/set-up-metamask).
 
 ### The aragonCLI <a href="#the-aragoncli" id="the-aragoncli"></a>
 

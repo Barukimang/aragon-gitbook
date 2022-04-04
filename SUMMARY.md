@@ -89,6 +89,8 @@
 * [Tools](developers/tools/README.md)
   * [The Basics](developers/tools/the-basics/README.md)
     * [Before starting](developers/tools/the-basics/before-starting.md)
+    * [Setting up a Metamask Wallet](developers/tools/the-basics/set-up-metamask/README.md)
+      * [Import your seed wallet to Metamask](developers/tools/the-basics/set-up-metamask/import-your-seed-wallet-in-metamask.md)
     * [Build your first DAO](developers/tools/the-basics/getting-started.md)
     * [The Stack](developers/tools/the-basics/the-aragon-stack.md)
     * [The Apps Permissions](developers/tools/the-basics/permissions.md)
