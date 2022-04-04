@@ -8,8 +8,6 @@ To create a voting proposal go [here](https://voice.aragon.org) and connect your
 If you need help with this task, go [here](../set-up-metamask/).
 {% endhint %}
 
-Please select the Ethereum network in your wallet.&#x20;
-
 Expand the view with _**all tokens**_ button and click _**Register a token**_.
 
 ![](<../../../.gitbook/assets/Schermata 2022-02-11 alle 12.10.55.png>)
