@@ -1,8 +1,3 @@
----
-cover: ../../../.gitbook/assets/05.png
-coverY: 0
----
-
 # What is Aragon Court
 
 Aragon Court is one of the core components of the Aragon OpenStack. It is a **dispute resolution** protocol that handles subjective disputes that cannot be solved by smart contracts. This is achieved by having a **set of guardians** drafted for each dispute **who will vote to guarantee a certain ruling.**

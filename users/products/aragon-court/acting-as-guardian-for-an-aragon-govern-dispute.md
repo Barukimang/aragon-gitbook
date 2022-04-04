@@ -1,8 +1,3 @@
----
-cover: ../../../.gitbook/assets/05.png
-coverY: 0
----
-
 # Acting as guardian for a dispute
 
 {% hint style="info" %}

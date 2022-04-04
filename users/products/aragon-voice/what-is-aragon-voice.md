@@ -1,8 +1,3 @@
----
-cover: ../../../.gitbook/assets/60a39a5dcfe2927c68546f93_voice.png
-coverY: 0
----
-
 # What is Aragon Voice?
 
 ****[**Aragon Voice**](https://voice.aragon.org) **** is a new gasless and universally verifiable voting solution for submitting proposals for any ERC20 token and voting on them using a decentralized end-to-end verifiable protocol.

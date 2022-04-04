@@ -1,8 +1,3 @@
----
-cover: ../../../../.gitbook/assets/60a39be473bc185893775da8_govern.png
-coverY: 0
----
-
 # Collateral for scheduling or challenging a transaction. Why?
 
 {% hint style="info" %}

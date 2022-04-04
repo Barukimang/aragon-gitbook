@@ -1,8 +1,3 @@
----
-cover: ../../../.gitbook/assets/60a39be473bc185893775da8_govern.png
-coverY: 0
----
-
 # Challenging a transaction
 
 With Aragon Govern's **optimistic governance model**, every transaction has a **delay period** (you can read more [here](navigate-into-your-govern-dao/why-do-transactions-require-a-delay-period-in-order-to-be-executed.md)) allowing the community to review these and decide if they contain any malicious actions non-conform to the DAO agreement.

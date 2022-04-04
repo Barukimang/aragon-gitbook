@@ -1,8 +1,3 @@
----
-cover: ../../../.gitbook/assets/05.png
-coverY: 0
----
-
 # Dispute lifecycle
 
 {% hint style="info" %}
@@ -46,7 +41,7 @@ Your chances of being drafted as a guardian are directly proportional to your ac
 * **It's possible to get drafted multiple times for the same dispute, if there are appel rounds.** In that case, the amount locked will be multiplied by the number of times you are being drafted. The voting power will also be proportional to this number. For example, a guardian getting drafted twice for a dispute would have [`Min_Active_Balance x 0.3 x 2`](https://help.aragon.org/article/48-aragon-court-faq) locked and twice the normal voting weight.
 * **Neither your inactive tokens nor the tokens contained in your wallet will be locked, only a portion of your active tokens.**
 
-## **Vote commit**
+## **Vote commit** <a href="#votecommit" id="votecommit"></a>
 
 {% hint style="danger" %}
 The voting period is critical for a drafted guardian.&#x20;
@@ -113,7 +108,7 @@ If another guardian leaks their one-time-use code then you can penalize them usi
 ![](https://lh4.googleusercontent.com/0bXNwjWBg6\_T1uE3IRILMLh5DHw6\_tdl0Cz5rRXbMoWkMfPImJPR01rnFNDE-BmoAVB\_ga8r-OpBa-lhL2Vl36hBYQz5qGCi2mpdhDlETbTK9fOUMN2N-KVmM0-WN-8JlttMj7gg)Step 3. Click the "write" button, then sign and send the transaction. Once the transaction is confirmed, the guardian who leaked their one-time-use code will be penalized.
 {% endhint %}
 
-## **Vote reveal**
+## **Vote reveal** <a href="#votereveal" id="votereveal"></a>
 
 ![](https://lh5.googleusercontent.com/AeieERJPiNM5QdyXbkkG7xiRCtf-n7x9VAj7N2Ekp0IqC5XLPLGhcKbK3Q0JglwpeRfh\_SgXx1V-fmjV0f2zbhh55\_prfF4UZvKJ6G7LWy--yR25vEFdY2lUAGd5Q8kjJC9RewTG)After the voting period has ended, guardians will have **two days** to reveal their vote.
 

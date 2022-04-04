@@ -1,8 +1,3 @@
----
-cover: ../../../../.gitbook/assets/60a39be473bc185893775da8_govern.png
-coverY: 0
----
-
 # Reasons for the delay period in the transaction
 
 {% hint style="info" %}

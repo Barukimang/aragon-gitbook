@@ -1,8 +1,3 @@
----
-cover: ../../../.gitbook/assets/60a39be473bc185893775da8_govern.png
-coverY: 0
----
-
 # Acting as a guardian for an Aragon Govern dispute
 
 The first use case for [Aragon Court](../aragon-court/) is to be the subjective dispute resolution for Aragon Govern DAOs, enabling optimistic governance to take place with an extra layer of security.

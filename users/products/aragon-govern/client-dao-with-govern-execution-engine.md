@@ -1,8 +1,3 @@
----
-cover: ../../../.gitbook/assets/60a39be473bc185893775da8_govern.png
-coverY: 0
----
-
 # Using the Client DAO with the Govern DAO
 
 {% hint style="info" %}

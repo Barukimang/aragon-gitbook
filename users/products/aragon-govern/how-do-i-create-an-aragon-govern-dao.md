@@ -1,8 +1,3 @@
----
-cover: ../../../.gitbook/assets/60a39be473bc185893775da8_govern.png
-coverY: 0
----
-
 # How to create a Govern DAO
 
 {% hint style="info" %}
