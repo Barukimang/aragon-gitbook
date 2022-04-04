@@ -1,24 +1,4 @@
-# Metamask
-
-## What is MetaMask?
-
-Metamask is a browser plugin that lets you make Ethereum transactions through regular websites.
-
-It does this by injecting a Javascript library called web3.js into the namespace of each page your browser loads.
-
-web3.js is written by the Ethereum core team, and has functions that regular webpages can use to make read and write requests to the blockchain.
-
-Eventually we'll have browsers with this sort of functionality built-in. But for now we need plugins like Metamask to help us bridge the gap between web2 and web3. We call these portals between web2 and web3, web3 providers.
-
-For more on why we need web3 providers like Metamask to interact with the blockchain see the **web3 provider** section of our [getting started page](https://hack.aragon.org/docs/getting-started.html#web3-provider).
-
-Finally, if you're new to web3 we recommend you read through the **web3** section of our [getting started page](https://hack.aragon.org/docs/getting-started.html#web3).
-
-
-
-If it is your first time using Metamask, [here's](../../../../users/products/set-up-metamask/) how to get started.&#x20;
-
-
+# Sign a transaction with Metamask
 
 ## Using your created account on metamask.
 

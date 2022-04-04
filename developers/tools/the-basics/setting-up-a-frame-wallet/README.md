@@ -32,7 +32,7 @@ To import your Metamask wallet into Frame:
 * Copy and paste the seed phrase from your Metamask wallet and click _**next** (see image below)._
 * Your Metamask wallet should now appear in the Frame wallet.
 
-![](<../../../.gitbook/assets/Screenshot 2022-02-23 at 17.04.36.png>)
+![](<../../../../.gitbook/assets/Screenshot 2022-02-23 at 17.04.36.png>)
 
 ### **Ledger**
 
@@ -72,7 +72,7 @@ The last step is to choose your account. Click on the _**Configuration**_ button
 &#x20;If you don't have any, you can request a Rinkeby faucet [here](https://faucet.rinkeby.io) or [here](https://faucets.chain.link/rinkeby).
 {% endhint %}
 
-In the configuration menu you can also manage the Dapp permissions you have granted for that particular account. We'll explain more about this in [this section](../guides/signers/frame.md).
+In the configuration menu you can also manage the Dapp permissions you have granted for that particular account. We'll explain more about this in [this section](frame.md).
 
 ![](https://hack.aragon.org/docs/assets/frame/frame-accounts.gif)
 

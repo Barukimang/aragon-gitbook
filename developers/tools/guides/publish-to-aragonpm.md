@@ -1,6 +1,8 @@
-# Publish to aragonPM
+# How to publish an app to aragonPM
 
+{% hint style="info" %}
 This guide will show you how to publish an app to [aragonPM](https://hack.aragon.org/docs/package-management) on different environments.
+{% endhint %}
 
 > **Note**\
 > Publishing your app requires an on-chain action so you must connect an Ethereum account with enough funds on the selected environment to send a publish transaction.

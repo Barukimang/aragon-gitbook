@@ -1,16 +1,16 @@
----
-description: How to migrate an existing Aragon app to the Buidler plugin
----
+# How to migrate the Aragon app from the Aragon CLI to Buidler plugin
 
-# Buidler plugin migration
+{% hint style="success" %}
+How to migrate an existing Aragon app to the Buidler plugin.
+{% endhint %}
 
-
-
-This guide aims to describe the basic steps needed to migrate an Aragon app from the [aragonCLI](https://github.com/aragon/aragon-cli) to the new [Buidler plugin](https://blog.aragon.one/buidler-plugin). This new Aragon tool offers a more user-friendly and stable developer experience. You can learn more about the Buidler plugin [here](https://github.com/aragon/buidler-aragon).
+{% hint style="info" %}
+This guide aims to describe the basic steps needed to migrate an Aragon app from the [aragonCLI](https://github.com/aragon/aragon-cli) to the new Buidler plugin. This new Aragon tool offers a more user-friendly and stable developer experience. You can learn more about the Buidler plugin [here](https://github.com/aragon/buidler-aragon).
+{% endhint %}
 
 For this tutorial, we will use the original [react boilerplate for aragonCLI](https://github.com/aragon/aragon-react-boilerplate/tree/react-with-cli) source code as our starting point. This guide assumes that you have a general understanding of the Aragon stack.
 
-### 1. Install dependencies <a href="#1-install-dependencies" id="1-install-dependencies"></a>
+## 1. Install dependencies <a href="#1-install-dependencies" id="1-install-dependencies"></a>
 
 The first step is to install the following NPM development dependencies:
 
@@ -24,7 +24,7 @@ The first step is to install the following NPM development dependencies:
 
 Most of these dependencies should be new to your project and are related to Nomic Labs' [Buidler](https://buidler.dev), a task runner for Ethereum smart contract developers. However, one dependency that you may need to upgrade is `web3`, since Aragon's plugin requires `v1.2.6` or higher. This may introduce some breaking changes, mostly in tests. See the [Migrate tests](https://hack.aragon.org/docs/guides-buidler-migration#5-migrate-tests) section for more information.
 
-### 2. Add/replace npm scripts <a href="#2-add-replace-npm-scripts" id="2-add-replace-npm-scripts"></a>
+## 2. Add/replace npm scripts <a href="#2-add-replace-npm-scripts" id="2-add-replace-npm-scripts"></a>
 
 Since the app won't use `aragonCLI` anymore, some NPM scripts need to be changed.
 
@@ -41,14 +41,14 @@ Also, make sure that you have the following two scripts in `app/package.json`:
 * **serve**: Launches the webserver (Previously called `devserver` script in most projects)
 * **watch**: Watches for file changes (Previously called `watch:script` script in most projects)
 
-### 3. Update `.gitignore` file <a href="#3-update-gitignore-file" id="3-update-gitignore-file"></a>
+## 3. Update `.gitignore` file <a href="#3-update-gitignore-file" id="3-update-gitignore-file"></a>
 
 Add the following two folders to your `.gitignore` file:
 
 * artifacts
 * cache
 
-### 4. Create the Buidler config file <a href="#4-create-the-buidler-config-file" id="4-create-the-buidler-config-file"></a>
+## 4. Create the Buidler config file <a href="#4-create-the-buidler-config-file" id="4-create-the-buidler-config-file"></a>
 
 Add the following `buidler.config.js` file to the root of your project:
 
@@ -89,7 +89,7 @@ You can find more information about the Buidler configuration file [here](https:
 * `appBuildOutputPath`: Built app path.
 * `hooks`: Aragon hooks functions. (See [Hooks](https://hack.aragon.org/docs/guides-buidler-migration#5-hooks) section for more information)
 
-### 5. Hooks <a href="#5-hooks" id="5-hooks"></a>
+## 5. Hooks <a href="#5-hooks" id="5-hooks"></a>
 
 Hooks are custom functions called at various stages of an app initialization. They can be used to execute any logic before or after the app is created and also to specify the app's [`initialize()`](https://hack.aragon.org/docs/aragonos-building#constructor-and-initialization) function parameters. For example, initializing the app with a `uint256` and a `string` would be as simple as writing the following hook:
 
@@ -126,7 +126,7 @@ module.exports = {
 }
 ```
 
-### 5. Migrate tests <a href="#5-migrate-tests" id="5-migrate-tests"></a>
+## 5. Migrate tests <a href="#5-migrate-tests" id="5-migrate-tests"></a>
 
 Since the Aragon Buidler plugin uses truffle 5, you may have to migrate part of your tests. You can follow [this guide](https://medium.com/coinmonks/upgrading-to-truffle-5-22aedc7c2a4d) or the [truffle team announcement](https://www.trufflesuite.com/blog/truffle-v5-has-arrived).
 
@@ -178,7 +178,7 @@ const ZERO = '0x0000000000000000000000000000000000000000'
 
 A useful Buidler plugin is available [here](https://github.com/sc-forks/solidity-coverage) for Solidity code coverage.
 
-### 6. Start the app and uninstall unnecessary dependencies <a href="#6-start-the-app-and-uninstall-unnecessary-dependencies" id="6-start-the-app-and-uninstall-unnecessary-dependencies"></a>
+## 6. Start the app and uninstall unnecessary dependencies <a href="#6-start-the-app-and-uninstall-unnecessary-dependencies" id="6-start-the-app-and-uninstall-unnecessary-dependencies"></a>
 
 You are now ready to start your app:
 

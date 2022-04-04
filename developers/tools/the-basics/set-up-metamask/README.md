@@ -91,6 +91,6 @@ The main reason for using a testnet ETH is that it can be obtained without havin
 Finally, you can also interact with private Ethereum networks by selecting **Localhost 8545**. Private in this case doesn't mean more secure. It just means that the nodes are not connected to the main or test network nodes. **Perfect for rapid experimentation and testing.**
 
 {% hint style="warning" %}
-Remember that if you want to use different networks, you need to set up your wallet and load your wallet with enough funds for paying the transaction fees. We will explain how to do this in the next sections.
+Remember that if you want to use different networks, you need to set up your wallet and load your wallet with enough funds for paying the transaction fees.&#x20;
 {% endhint %}
 

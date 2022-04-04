@@ -272,7 +272,7 @@ The store has block caching automatically applied, such that subsequent loads of
 
 Learn more about it on the [store() documentation](https://github.com/aragon/aragon.js/blob/master/docs/API.md#store).
 
-### Displaying State <a href="#displaying-state" id="displaying-state"></a>
+## Displaying State <a href="#displaying-state" id="displaying-state"></a>
 
 Now let's write the view portion of our app. In our case, this is a simple HTML file, and a simple React app with the `useAragonApi` [React Hook](https://reactjs.org/docs/hooks-intro.html) that observes the state that our background script builds for us and returns the data needed to interact with the app contract.
 
@@ -314,7 +314,7 @@ ReactDOM.render(
 
 Before using any Hook provided, you need to declare the component `AragonApi` to connect the app. It is generally a good idea to do it near the top level of your React tree. It should only be declared once. It has an optional reducer prop, which lets you process the state coming from the background script. If not provided, the state is passed as-is.
 
-### App root component <a href="#app-root-component" id="app-root-component"></a>
+## App root component <a href="#app-root-component" id="app-root-component"></a>
 
 ```js
 // app/src/App.js
@@ -433,7 +433,7 @@ function App() {
 
 That's it! Now, whenever the user clicks one of either the increment or decrement buttons, an intent is sent to the wrapper, and it will show the user a transaction to sign.
 
-### Writing the manifest files <a href="#writing-the-manifest-files" id="writing-the-manifest-files"></a>
+## Writing the manifest files <a href="#writing-the-manifest-files" id="writing-the-manifest-files"></a>
 
 For aragonAPI to function, it needs some metadata about your app. This metadata is specified in two manifest files; `manifest.json` and `arapp.json`.
 
@@ -512,7 +512,7 @@ module.exports = {
 }
 ```
 
-### Running your app locally <a href="#running-your-app-locally" id="running-your-app-locally"></a>
+## Running your app locally <a href="#running-your-app-locally" id="running-your-app-locally"></a>
 
 To test out your app without deploying a DAO yourself, installing apps, setting up permissions and setting up aragonPM, you can simply run:
 
@@ -538,7 +538,7 @@ At this point feel free to play around. Both front-end and smart contract files 
 
 If you've made it this far, congratulations! 😊🎉😊🎉
 
-### Next steps <a href="#next-steps" id="next-steps"></a>
+## Next steps <a href="#next-steps" id="next-steps"></a>
 
 #### Tests <a href="#tests" id="tests"></a>
 

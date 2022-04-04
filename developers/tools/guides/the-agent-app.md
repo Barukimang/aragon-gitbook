@@ -1,8 +1,8 @@
----
-description: How to use Aragon Agent
----
-
 # The Agent app
+
+{% hint style="success" %}
+How to use Aragon Agent
+{% endhint %}
 
 ## Installing Aragon Agent
 

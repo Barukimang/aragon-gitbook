@@ -1,12 +1,14 @@
----
-description: Aragon Organization deployment using aragonCLI
----
+# How to deploy an Aragon Organization using Aragon CLI
 
-# Custom Deploy
+{% hint style="success" %}
+Aragon Organization deployment using aragonCLI
+{% endhint %}
 
-This guide will show you the process to deploy a blank organization and configure it as a custom organization for a cooperative.
+{% hint style="info" %}
+This guide will show you the process to deploy a **blank organization** and configure it as a custom organization for a cooperative.
 
 We assume you have a general understanding of Aragon stack.
+{% endhint %}
 
 In order to get started you will need the latest version of the CLI installed so open a terminal and enter the following:
 
