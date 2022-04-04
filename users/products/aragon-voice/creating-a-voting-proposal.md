@@ -1,9 +1,5 @@
 # Creating a voting proposal
 
-Aragon Voice is **free to use**, meaning that no one is priced out of participation. Full transparency removes any doubt about the integrity of the ballot, meaning that communities are more likely to view ballots as unbiased and run fairly.
-
-With Aragon Voice, even the most humble token holder will be empowered to **propose** such as changing the exchange fee on a Balancer Pool and directly contributing to the development of their favorite project.
-
 ## Steps to create a voting proposal
 
 To create a proposal go [here](https://voice.aragon.org) and connect your web3 wallet.

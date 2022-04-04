@@ -2,6 +2,10 @@
 
 ****[**Aragon Voice**](https://voice.aragon.org)  ****  is a new and universally verifiable voting solution that doesn't require the payment of the gas fees (it is gasless). Using Aragon Voice it is possible to submit proposals for any token (with [standard ERC20](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/)) **** and vote on them using a decentralized protocol (end-to-end verifiable).
 
+Aragon Voice is **free to use**, meaning that no one is priced out of participation. Full transparency removes any doubt about the integrity of the ballot, meaning that communities are more likely to view ballots as unbiased and run fairly.
+
+With Aragon Voice, even the most humble token holder will be empowered to **propose** such as changing the exchange fee on a Balancer Pool and directly contributing to the development of their favorite project.
+
 ## Anyone with an Ethereum address can:
 
 * Design and implement **on-chain proposals** for their ERC20 project, where **votes** can be cast **without gas fees**, and are recorded as metadata on IPFS.&#x20;
