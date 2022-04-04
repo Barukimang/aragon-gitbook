@@ -46,7 +46,7 @@ Your chances of being drafted as a guardian are directly proportional to your ac
 * **It's possible to get drafted multiple times for the same dispute, if there are appel rounds.** In that case, the amount locked will be multiplied by the number of times you are being drafted. The voting power will also be proportional to this number. For example, a guardian getting drafted twice for a dispute would have [`Min_Active_Balance x 0.3 x 2`](https://help.aragon.org/article/48-aragon-court-faq) locked and twice the normal voting weight.
 * **Neither your inactive tokens nor the tokens contained in your wallet will be locked, only a portion of your active tokens.**
 
-## **Vote commit** <a href="#votecommit" id="votecommit"></a>
+## **Vote commit**
 
 {% hint style="danger" %}
 The voting period is critical for a drafted guardian.&#x20;
