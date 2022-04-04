@@ -84,4 +84,4 @@
 
 
 
-* Only the Aragon Network DAO can change them, through a vote. Currently the Aragon Network DAO is composed of [five council members](https://blog.aragon.one/aragon-network-deploy/#governor-council). It is planned for [control to be transitioned to ANT holders](https://blog.aragon.org/evolving-aragon-network-governance/).
+* Only the Aragon Network DAO can change them, through a vote. Currently, the Aragon Network DAO is composed of five council members. It is planned for [control to be transitioned to ANT holders](https://blog.aragon.org/evolving-aragon-network-governance/).
