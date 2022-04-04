@@ -44,7 +44,7 @@ Email notifications are important so that as a guardian you do not miss out on a
 {% hint style="danger" %}
 #### Remember that if you do not complete the required tasks, you will lose a portion of your locked tokens (more info about this [here](https://help.aragon.org/article/43-dispute-lifecycle#drafting-jury)).&#x20;
 
-If you fail to complete your tasks on time, it is strongly recommended that you sign up for email notifications and monitor them closely while you are an active guardian. Otherwise, you may lose your money.
+It is strongly recommended that you sign up for email notifications and monitor them closely while you are an active guardian. If you fail to complete your tasks on time, you will lose your money.
 {% endhint %}
 
 To opt-in, click the ** **_**gear-shaped**_ Settings icon in the top corner and click _**Notifications**_.
