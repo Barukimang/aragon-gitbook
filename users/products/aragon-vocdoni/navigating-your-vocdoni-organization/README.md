@@ -29,7 +29,7 @@ On the dashboard page, you can create a new vote using the _**Creating a voting 
 {% hint style="danger" %}
 If you haven't made a backup of your account you will see an alert message shown in an orange box (see the example above).
 
-**=> In this case, please, proceed with the backup of your account as described in the dedicated paragraph below.**
+**=> In this case, please, proceed with the backup of your account as described in the** [**dedicated paragraph**](./#create-account-backup) **below.**
 {% endhint %}
 
 ### Voting box
@@ -68,7 +68,7 @@ The update entity page allows you to update easily the information about your en
 
 ![](<../../../../.gitbook/assets/Schermata 2022-03-07 alle 14.27.18.png>)
 
-### Create account backup
+### Create account backup <a href="#createaccountbackup" id="createaccountbackup"></a>
 
 On the _**Download credentials**_ page you can protect your entity's account by exporting it and storing it in a safe place.&#x20;
 
