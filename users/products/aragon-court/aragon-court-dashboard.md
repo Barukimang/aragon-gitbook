@@ -21,7 +21,7 @@ The following guide presents an overview of the various sections of the Dashboar
 
 The Dashboard is accessible to all users at [court.aragon.org](https://court.aragon.org). General information and statistics are available on the main page as well as more specific information related to disputes, tasks, and guardians on their respective pages.&#x20;
 
-You need to connect the Ethereum account to the Aragon Court Dashboard to use your app. To do so, simply click on the _**Connect account**_ button at the upper right and select the provider of your choice.
+You need to connect your Ethereum account to the Aragon Court Dashboard to use your app. To do so, simply click on the _**Connect account**_ button at the upper right and select the provider of your choice.
 
 ![](<../../../.gitbook/assets/Screenshot 2022-02-07 at 11.13.48 (2).png>)
 
