@@ -347,4 +347,3 @@
 * [Glossary](glossary/glossary/README.md)
   * [Aragon Client](glossary/glossary/aragon-client.md)
   * [Aragon Court](glossary/glossary/aragon-court-glossary.md)
-* [Useful Links](glossary/useful-links.md)
