@@ -57,8 +57,6 @@ Click **Unlock notification settings**. Sign the message on the prompt to prove 
 
 Once you have proven ownership of your address, you will be able to enter your email address to opt-in to notifications.
 
-![](<../../../.gitbook/assets/Screenshot 2022-02-07 at 11.59.05.png>)
-
 After entering your email address, a verification email will be sent to your email address (if you don't see it in the inbox, check the Spam folder). Click the link in the verification email to confirm your address.
 
 ![](<../../../.gitbook/assets/Screenshot 2022-02-07 at 12.18.10 (2).png>)
