@@ -71,8 +71,6 @@ You can choose to refuse to vote for many reasons, for example, if you consider 
 Remember that you should vote the way that you think a plurality of guardians will vote, since you will be penalized if your vote is in the minority.
 {% endhint %}
 
-![](https://lh6.googleusercontent.com/OQFRlQMHSUhTctxiC6beX-WiTWoa2kXPUQEXeW0gAXx0KUiDfE\_1omvsxYVCqAD-a1RAZlZK1KofrJOPvFPwJszi5eFQvuRI1iWGctDk7RejgpG2v-XbjNm2C79Tr4mlpt\_q6TFj)
-
 ### **One-time-use-code**
 
 To keep the votes secret until the end of the voting period, your vote will be combined with a randomly generated code.

@@ -22,10 +22,8 @@ In this example, we selected Aragon Network Token (ANT).
 
 Select the type of the new proposal:
 
-*   **Signaling proposal**: gasless proposal creation using Vochain layer 2 solutions. (For example, a Signaling proposal is great for an initial discussion, and collecting feedback).
-
-
-* **On-chain proposal**: metadata is stored on Ethereum, increasing decentralization and verifiability. (For example, on-chain proposal can be created after the community has discussed the signaling proposal and provided feedback).
+* **Signaling proposal**: gasless proposal creation using Vochain layer 2 solutions.
+* **On-chain proposal**: metadata is stored on Ethereum, increasing decentralization and verifiability.
 
 Fill in all the fields in the new proposal.
 
