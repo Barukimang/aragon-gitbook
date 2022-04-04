@@ -4,7 +4,7 @@
 
 ## Anyone with an Ethereum address can:
 
-* Design and implement **on-chain proposals** for their ERC20 project, where **votes** can be cast **without gas fees**, and are recorded as metadata both to Ethereum and IPFS.&#x20;
+* Design and implement **on-chain proposals** for their ERC20 project, where **votes** can be cast **without gas fees**, and are recorded as metadata on IPFS.&#x20;
 * Signal proposals that use a centralized backend but are universally verifiable\* on our custom vote-counting blockchain (Vochain).&#x20;
 
 > \* from process creation to vote recount, every operation is transparent and can be freely audited by a third party. Voters themselves can also check that their vote has been counted properly using their ballot receipt to query the [Vochain explorer](https://explorer.vote).
