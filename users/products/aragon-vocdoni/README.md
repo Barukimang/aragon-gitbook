@@ -1,4 +1,5 @@
 ---
+cover: ../../../.gitbook/assets/vocdoni_logo.png
 coverY: 0
 ---
 
