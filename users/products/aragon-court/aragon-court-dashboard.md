@@ -135,7 +135,7 @@ If you are concerned about missing important tasks, don't worry, if you signed u
 * **Commit vote**: One of the most important tasks in Aragon Court. When a guardian is drafted to adjudicate a dispute, their duty is to review the submitted arguments and commit a vote within the voting period limit. Failure to execute this action would penalize the guardian.
 
 {% hint style="info" %}
-[Click here](dispute-lifecycle.md) for more information about committing votes.
+Click here for more information about committing votes.
 {% endhint %}
 
 * **Reveal vote**: Since votes are secret until the end of the voting period, a task is also needed in order for the ruling to be revealed. However, an option is available to make this task fully automated.
