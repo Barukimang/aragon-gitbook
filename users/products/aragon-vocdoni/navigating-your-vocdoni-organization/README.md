@@ -1,10 +1,10 @@
 # Navigating your Vocdoni organization
 
 {% hint style="info" %}
-In this section, you will learn how to navigate an Organization using Aragon Vocdoni.
+In this section, you will learn how to navigate through an Organization using Aragon Vocdoni.
 {% endhint %}
 
-## Steps to navigate your Vocdoni organization
+## Steps to navigate in your Vocdoni organization
 
 On the top right click on the name of your entity/organization (in our case _**Vodconi Test**_). A drop-down menu appears with the following categories:
 
@@ -34,7 +34,7 @@ If you haven't made a backup of your account you will see an alert message shown
 
 ### Voting box
 
-The list of the votes is resumed in the dedicated box.&#x20;
+The list of the votes is in the dedicated box.&#x20;
 
 The Votes are grouped by:
 
@@ -78,7 +78,7 @@ On the _**Download credentials**_ page you can protect your entity's account by 
 
 ![Create account backup](<../../../../.gitbook/assets/Schermata 2022-03-07 alle 14.12.30.png>)
 
-Press the _**Continue**_ button. A ** **_**.bak**_ file will be automatically downloaded. This file contains your account details to restore your Vodconi account if needed.&#x20;
+Press the _**Continue**_ button. A ** **_**.bak**_ file will be automatically downloaded. This file contains the account details to restore your Vodconi account if needed.&#x20;
 
 {% hint style="success" %}
 Your account is now protected, store this file in a safe place.&#x20;
@@ -86,7 +86,7 @@ Your account is now protected, store this file in a safe place.&#x20;
 
 ### Language
 
-This option allows you to select the preferred language. At this moment 3 languages are available:
+This option allows you to select the preferred language. At present 3 languages are available:
 
 * English,
 * Català,

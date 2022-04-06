@@ -1,4 +1,4 @@
-# Accessing your Vodconi organization
+# Accessing your Vocdoni organization
 
 {% hint style="info" %}
 In this section, you will learn how to access your Organization created using Aragon Vocdoni.
@@ -12,11 +12,11 @@ In this section, you will learn how to access your Organization created using Ar
 
 ### **Case 1 - I have an account.**
 
-Then, please, select the account on the drop-down menu and enter your password.
+Then select the account on the drop-down menu and enter your password.
 
 ### **Case 2 - I have an account but I changed the browser.**
 
-Then, please, follow the steps below:
+Then follow the steps below:
 
 * click _**Import an account**_.
 * import your backup file (that you have saved before during the creation phase, you can read more about the backup file [here](navigating-your-vocdoni-organization/))
@@ -27,7 +27,7 @@ Then, please, follow the steps below:
 
 ### Case 3 - I **do not have** an account&#x20;
 
-Then, please, start [here](creating-a-vodconi-organization.md).
+Then start [here](creating-a-vodconi-organization.md).
 
 
 

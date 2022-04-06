@@ -44,7 +44,7 @@ The _**Preview**_ button shows a preview of the voting process.
 
 On the _**Who can Vote**_ page you can:
 
-* _**Select the voting options**_**:** _normal voting_ (where all the voters have the same voting power) and _weighted voting_ (where each voter has different voting power)
+* _**Select the voting options**_**:** _normal voting_ (where all the voters have the same voting power) and _weighted voting_ (where voters may have different voting power)
 * _**Import the list of voters**_**:** only the voters on the list can vote on the voting process. To create the list of voters you can download the available template (_**Download template**_** ** button), adjust the fields (you can add for example the National Id) and then drag and drop the file (.csv, .xlsx, .ods formats are supported).
 
 ![Who can vote page](<../../../../.gitbook/assets/Schermata 2022-03-07 alle 15.04.01.png>)

@@ -1,7 +1,7 @@
 # Creating a Vodconi organization
 
 {% hint style="info" %}
-In this section, you will learn How to create an Organization using Aragon Vocdoni.
+In this section, you will learn how to create an Organization using Aragon Vocdoni.
 {% endhint %}
 
 ## Steps to create a Vocdoni organization

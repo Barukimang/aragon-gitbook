@@ -4,4 +4,4 @@
 
 The main product is the **voting platform**, which allows participation in conventional organizations with maximum guarantees of security and privacy.&#x20;
 
-The **voting protocol** which powers the platform is designed to be **universally verifiable, secure, and resistant** to attack and censorship through the use of blockchain technology, together with decentralized technologies and cryptographic mechanisms, such as zero-knowledge proofs.
+The **voting protocol** which powers the platform is designed to be **universally verifiable, secure, and resistant** to attack and censorship through the use of blockchain technology, together with decentralized technologies and cryptographic mechanisms, such as [zero-knowledge proofs.](https://en.wikipedia.org/wiki/Zero-knowledge\_proof)
