@@ -533,6 +533,14 @@ To test out your app without deploying a DAO yourself, installing apps, setting 
 npm start
 ```
 
+{% hint style="warning" %}
+Please check you have the right compiler version. It is necessary 0.4.24. If not, select the correct one and run _npm start_ again.
+{% endhint %}
+
+{% hint style="danger" %}
+If you receive a lot of errors on the console, please be sure to run the right node.js (v12 is required).
+{% endhint %}
+
 This will do a couple of things for you:
 
 * It will start a development chain you can interact with (it uses `ganache-core`, so it's a full testrpc instance) and prints 10 accounts.
@@ -547,28 +555,32 @@ This will do a couple of things for you:
 
 After running this command a browser tab should pop up with your freshly created DAO, complete with permissions and your local app installed.
 
+Login to metamask (if not already logged in), select the [Localhost 8545 network](../../../users/products/set-up-metamask/)  and import the [12 words of the seed](../../../users/products/set-up-metamask/import-your-seed-wallet-in-metamask.md) (account mnemonic) listed on the terminal (if not already in). Select the account you want to use.
+
 At this point feel free to play around. Both front-end and smart contract files have hot reloading. Yes, even smart contract code, we do a proxy swap on every change under the hood 😎, enjoy.
 
+{% hint style="success" %}
 If you've made it this far, congratulations! 😊🎉😊🎉
+{% endhint %}
 
 ## Next steps <a href="#next-steps" id="next-steps"></a>
 
-#### Tests <a href="#tests" id="tests"></a>
+### Tests <a href="#tests" id="tests"></a>
 
 If you feel like to keep learning about the Aragon stack right away. A great way of doing it is including some tests on your app. Check the [test examples](https://github.com/aragon/aragon-react-boilerplate/blob/master/test/app.test.js) of the react boilerplate repo for ideas.
 
-#### Publishing <a href="#publishing" id="publishing"></a>
+### Publishing <a href="#publishing" id="publishing"></a>
 
-Now that we're confident that our app will work and amaze the world, we should publish it. You can follow the publishing guide to learn [how to publish in different environments](https://hack.aragon.org/docs/guides-publish).
+Now that we're confident that our app will work and amaze the world, we should publish it. You can follow the publishing guide to learn[ how to publish in different environments.](publish-to-aragonpm.md)
 
-#### Documentation <a href="#documentation" id="documentation"></a>
+### Documentation <a href="#documentation" id="documentation"></a>
 
 A good place to go from here would be to check out [our existing apps](https://github.com/aragon/aragon-apps). They are fairly self-contained and use some patterns you might find helpful.
 
-There is much more to [aragonOS](https://hack.aragon.org/docs/aragonos-intro) and [aragonAPI](https://hack.aragon.org/docs/api-intro), and we even have our own [UI toolkit](https://hack.aragon.org/docs/aragonui-intro). We encourage you to explore all 3 and provide us feedback.
+There is much more to [aragonOS](../aragonos/) and [aragonAPI](../aragonapi/), and we even have our own [UI toolkit](../aragonui/). We encourage you to explore all 3 and provide us feedback.
 
-#### Community <a href="#community" id="community"></a>
+### Community <a href="#community" id="community"></a>
 
-Join the conversation and ask questions on [GitHub](https://github.com/aragon), [Aragon Forum](https://forum.aragon.org) and Spectrum [App development channel](https://spectrum.chat/aragon/app-development), and make sure to tell us if you build something ara-mazing!
+Join the conversation and ask questions on [GitHub](https://github.com/aragon), [Aragon Technical Forum](https://support.aragon.org) and Discord [#dTech-general ](https://discord.gg/A8gQmUfFWs)channel and make sure to tell us if you build something amazing!
 
 Now you just need to share the great news on Twitter and Reddit, to let people know that you've built something great!
