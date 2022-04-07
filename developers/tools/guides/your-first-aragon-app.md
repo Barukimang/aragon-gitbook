@@ -1,8 +1,19 @@
-# Create your first Aragon app
+# Create your first Aragon App
 
 {% hint style="info" %}
 In this guide, we will walk you through creating your first Aragon app using aragonOS, the JavaScript implementation of aragonAPI, aragonUI and the Aragon builder plugin.
 {% endhint %}
+
+## Environment setup <a href="#environment-setup" id="environment-setup"></a>
+
+Before starting you need to check if you have already installed all these prerequisites:
+
+* the right version of **node.js** (recommended`v14 LTS` version)
+* **Metamask** web3 provider
+* the **aragonCLI** (Aragon Command Line Interface)&#x20;
+* the **Aragon Buidler plugin**
+
+If you haven't already installed them or if you need more info about this go to the "_Enviroment Setup_" paragraph [here](../the-basics/getting-started.md).
 
 ## The setup
 
@@ -14,11 +25,11 @@ npx create-aragon-app foo tutorial
 
 This will create a new directory named `foo`, with files cloned from [your first Aragon app template](https://github.com/aragon/your-first-aragon-app). This particular boilerplate includes everything you need to get started:
 
-* &#x20;[buidler](https://buidler.dev),&#x20;
+* [buidler](https://buidler.dev),&#x20;
 * aragonOS,
 * aragonAPI.
 
-### Structure <a href="#structure" id="structure"></a>
+## Structure <a href="#structure" id="structure"></a>
 
 This boilerplate has the following structure:
 
@@ -58,14 +69,16 @@ root
 {% hint style="danger" %}
 #### Stuck? <a href="#stuck" id="stuck"></a>
 
-If you get stuck at any point. [Come back here to check the diff with changes after the tutorial is completed](https://github.com/aragon/your-first-aragon-app/pull/2/files).
+If you get stuck at any point come back here to check the diff with changes after the tutorial is completed.
 {% endhint %}
 
 {% hint style="info" %}
-If you need help, please reach out to Aragon core contributors and community members in one of our [Aragon Spectrum channels](https://spectrum.chat/aragon).
+If you need help, please reach out to Aragon core contributors and community members in one of our [Aragon Spectrum channels.](https://discordapp.com/invite/eqQJkdp)
 {% endhint %}
 
+{% hint style="success" %}
 Now let's start with it 💪.
+{% endhint %}
 
 ## Writing a simple contract <a href="#writing-a-simple-contract" id="writing-a-simple-contract"></a>
 
@@ -190,7 +203,7 @@ contract CounterApp is AragonApp {
 
 Because apps inside the [Aragon client ](../the-basics/the-aragon-client.md)are sandboxed, it also means that apps do not have direct access to Web3.
 
-Apps are run inside an iframe, which means that it only has access to its own DOM, not the outlying DOM. The app can communicate with the client over our custom RPC protocol.
+Apps are run inside an iframe, which means that it only has access to their own DOM, not the outlying DOM. The app can communicate with the client over our custom RPC protocol.
 
 Then the client takes care of connecting to Ethereum via Web3, and also handles things like signing transactions, displaying notifications and more to the end-user.
 
@@ -387,13 +400,13 @@ Our users need to be able to increment and decrement the counter. For this, we s
 
 To understand transaction paths, we must first understand a little bit about how the ACL works.
 
-The [ACL (Access Control List)](https://hack.aragon.org/docs/acl-intro) is a simple mapping of _who_ can perform _what_ actions _where_. In our case, _someone_ can perform an action guarded by a specific role (the _what_) on our app (the _where_).
+The[ ACL (Access Control List) ](../the-basics/permissions.md)is a simple mapping of _who_ can perform _what_ actions _where_. In our case, _someone_ can perform an action guarded by a specific role (the _what_) on our app (the _where_).
 
 However, it's entirely possible that users can not perform actions directly. For example, to increment the counter, we might want a decision-making process, such as a vote. The beauty of aragonOS is that we never need to specify this directly, as this is handled by the ACL.
 
 We simply say that the only one (_who_) that can perform increments and decrements (_what_) on our app (_where_) is the voting app. This is not done at compile-time, it is done at run time.
 
-This works because of a concept called [_forwarders_](https://hack.aragon.org/docs/forwarding-intro). A forwarder is simply an app that can execute transactions on someone's behalf, if the ACL permits it, and that app can have its _arbitrary conditions_ under which it wants to execute your transaction! In the example of the voting app, the voting app will only execute your transaction if the vote passes.
+This works because of a concept called [_forwarders_](../the-basics/forwarding.md). A forwarder is simply an app that can execute transactions on someone's behalf, if the ACL permits it, and that app can have its _arbitrary conditions_ under which it wants to execute your transaction! In the example of the voting app, the voting app will only execute your transaction if the vote passes.
 
 It's really simple to use. Let's add our intents to our app:
 
@@ -437,7 +450,7 @@ That's it! Now, whenever the user clicks one of either the increment or decremen
 
 For aragonAPI to function, it needs some metadata about your app. This metadata is specified in two manifest files; `manifest.json` and `arapp.json`.
 
-#### arapp.json <a href="#arappjson" id="arappjson"></a>
+### arapp.json <a href="#arappjson" id="arappjson"></a>
 
 `arapp.json` defines the smart contract and aragonPM-specific things like the roles in your app or different environments.
 
@@ -475,7 +488,7 @@ The first label in the ENS name is the name of our app. This can be anything you
 
 The second and third label is the name of the [aragonPM](https://hack.aragon.org/docs/package-management) registry that your repository will be (or is) registered to. For the sake of simplicity, this guide assumes that you have rights to create repositories on aragonpm.eth, but you could deploy your aragonPM registry if you so desire.
 
-#### manifest.json <a href="#manifestjson" id="manifestjson"></a>
+### manifest.json <a href="#manifestjson" id="manifestjson"></a>
 
 `manifest.json` defines end-user specific things like the human-readable name of your app, icons, and a small description of your app. It also (optionally) defines background scripts, of which we have one.
 
@@ -490,7 +503,7 @@ Let's modify it accordingly:
 }
 ```
 
-#### Buidler script hooks <a href="#buidler-script-hooks" id="buidler-script-hooks"></a>
+### Buidler script hooks <a href="#buidler-script-hooks" id="buidler-script-hooks"></a>
 
 These hooks are called by the Aragon Buidler plugin during the start task's lifecycle. All hooks receive two parameters:
 

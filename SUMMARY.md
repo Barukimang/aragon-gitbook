@@ -105,7 +105,7 @@
     * [The Aragon client](developers/tools/the-basics/the-aragon-client.md)
     * [The Human readable transactions](developers/tools/the-basics/human-readable-transactions.md)
   * [Guides](developers/tools/guides/README.md)
-    * [Create your first Aragon app](developers/tools/guides/your-first-aragon-app.md)
+    * [Create your first Aragon App](developers/tools/guides/your-first-aragon-app.md)
     * [How to migrate the Aragon app from the Aragon CLI to Buidler plugin](developers/tools/guides/buidler-plugin-migration.md)
     * [How to publish an app to aragonPM](developers/tools/guides/publish-to-aragonpm.md)
     * [How to deploy an Aragon Organization using Aragon CLI](developers/tools/guides/custom-deploy.md)
