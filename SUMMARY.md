@@ -104,7 +104,7 @@
       * [Build your first DAO with Templates](developers/tools/the-basics/templates/build-your-first-dao-with-templates.md)
     * [The Aragon client](developers/tools/the-basics/the-aragon-client.md)
     * [The Human readable transactions](developers/tools/the-basics/human-readable-transactions.md)
-  * [Guides:](developers/tools/guides/README.md)
+  * [Guides](developers/tools/guides/README.md)
     * [Create your first Aragon app](developers/tools/guides/your-first-aragon-app.md)
     * [How to migrate the Aragon app from the Aragon CLI to Buidler plugin](developers/tools/guides/buidler-plugin-migration.md)
     * [How to publish an app to aragonPM](developers/tools/guides/publish-to-aragonpm.md)
