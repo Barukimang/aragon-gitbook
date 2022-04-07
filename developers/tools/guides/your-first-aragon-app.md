@@ -555,7 +555,7 @@ This will do a couple of things for you:
 
 After running this command a browser tab should pop up with your freshly created DAO, complete with permissions and your local app installed.
 
-Login to metamask (if not already logged in), select the [Localhost 8545 network](../../../users/products/set-up-metamask/)  and import the [12 words of the seed](../../../users/products/set-up-metamask/import-your-seed-wallet-in-metamask.md) (account mnemonic) listed on the terminal (if not already in). Select the account you want to use.
+Login to metamask (if not already logged in), select the [Localhost 8545 network](../../../users/products/set-up-metamask/)  and import the [12 words of the seed](../../../users/products/set-up-metamask/import-your-seed-wallet-in-metamask.md) (account mnemonic) listed on the console (if not already done). Select the account you want to use.
 
 At this point feel free to play around. Both front-end and smart contract files have hot reloading. Yes, even smart contract code, we do a proxy swap on every change under the hood 😎, enjoy.
 
