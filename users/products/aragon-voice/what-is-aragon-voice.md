@@ -1,10 +1,10 @@
 # What is Aragon Voice?
 
-****[**Aragon Voice**](https://voice.aragon.org)  ****  is a new and universally verifiable voting solution that doesn't require the payment of the gas fees (it is gasless). Using Aragon Voice it is possible to submit proposals for any token (with [standard ERC20](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/)) **** and vote on them using a decentralized protocol (end-to-end verifiable).
+****[**Aragon Voice**](https://voice.aragon.org)  ****  is a new and universally verifiable voting solution that doesn't require the payment of the gas fees (it is gasless). Using Aragon Voice it is possible to submit proposals with any [standard ERC20](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/) token and vote on the proposals using a decentralized end-to-end verifiable protocol.
 
 Aragon Voice is **free to use**, meaning that no one is priced out of participation. Full transparency removes any doubt about the integrity of the ballot, meaning that communities are more likely to view ballots as unbiased and run fairly.
 
-With Aragon Voice, even the most humble token holder will be empowered to **propose** such as changing the exchange fee on a Balancer Pool and directly contributing to the development of their favorite project.
+With Aragon Voice even the most humble token holder will be empowered to **propose** changing the exchange fee on a Balancer Pool and directly contributing to the development of their favorite project.
 
 ## Anyone with an Ethereum address can:
 
@@ -14,7 +14,7 @@ With Aragon Voice, even the most humble token holder will be empowered to **prop
 > \* from process creation to vote recount, every operation is transparent and can be freely audited by a third party. Voters themselves can also check that their vote has been counted properly using their ballot receipt to query the [Vochain explorer](https://explorer.vote).
 
 {% hint style="warning" %}
-Only on-chain proposal creators need to pay the gas costs of deploying the information to the mainnet. The votes can be cast without gas fees.&#x20;
+Only on-chain proposal creators need to pay the gas costs of deploying the information to the mainnet. The votes are cast without gas fees.&#x20;
 {% endhint %}
 
 Proposals are processed on Vochain (Aragon's layer 2 protocol) and vote metadata is stored on IPFS.&#x20;

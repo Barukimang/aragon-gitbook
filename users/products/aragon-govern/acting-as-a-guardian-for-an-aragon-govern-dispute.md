@@ -16,7 +16,7 @@ The basic description of the transactions. This should provide you with addition
 
 **Agreement**
 
-The agreement or contract that supports this transaction. All Aragon Govern DAOs MUST have a human-readable agreement that states how the DAO intends to operate, and what actions should be allowed or not. For example, an agreement might say that a given DAO can only invest in sustainability projects, and the action instead intends to transfer funds to a car manufacturing company.
+The agreement or contract that supports this transaction. All Aragon Govern DAOs MUST have a human-readable agreement that states how the DAO intends to operate, and what actions should be allowed or forbidden. For example, an agreement might say that a given DAO may only invest in sustainability projects, and a conflict would arise if a transaction instead intended to transfer funds to a car manufacturing company.
 
 **Executor**
 
@@ -32,17 +32,17 @@ The set of transactions that will be executed if the dispute is ruled in favor o
 
 **Original justification**
 
-This is a human-readable justification stating why actions were scheduled to be executed. For example, the creator might say something like "Transferring funds to a project that is creating a carbon footprint offset device". This is added by the actions creator when scheduling the actions.
+This is a human-readable justification stating why actions were scheduled to be executed. For example the creator might say something like "Transferring funds to a project that is creating a carbon footprint offset device". This is added by the actions creator during scheduling.
 
 **Dispute evidence**
 
-The justification of why the actions are being challenged. For example, something like "The destination address actually belongs to a car manufacturing company, and therefore we should not allow this transferring of the funds". This is added by the person that challenged the actions.
+The justification of why the actions are being challenged. For example "The destination address actually belongs to a car manufacturing company, and therefore we should not allow this transferring of the funds". This information is added by the person challenging the actions.
 
 ### **What are Actions?**
 
-Actions are nothing more than smart contract transactions that have been scheduled with an Aragon Govern DAO. Those can be any interaction with an EVM-compatible blockchain, such as transferring funds, minting tokens, swapping tokens, etc.
+Actions are nothing more than smart contract transactions that have been scheduled with an Aragon Govern DAO. These can be any interaction with an EVM-compatible blockchain, such as transferring funds, minting tokens, swapping tokens, etc.
 
-On Aragon Govern, an action can be a bundle of several transactions. This is what is shown in Aragon Court. Understanding the Actions is primordial to be able to rule on this dispute...after all, those are the ones being challenged!
+On Aragon Govern, an action can be a bundle of several transactions. This is what is shown in Aragon Court. Understanding the Actions is essential to ruling on a dispute.
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/61139fe464a230081ba1e1d8/file-MUdTAgjhC3.png)
 
@@ -66,7 +66,7 @@ Sometimes the function and data might not be available (when the contract is not
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/6113a0e26ffe270af2a97c43/file-xCv7UHQxZH.png)
 
-You can always click on the addresses to check the contracts on Etherscan to better understand what the transactions will actually be performing.
+You may always click on the addresses to check the contracts on Etherscan to better understand what the transactions will actually be performing.
 
 ### **The Pieces of Evidence**
 
@@ -76,13 +76,13 @@ The evidence section of Aragon Court shows the address of the person that submit
 
 ### Ruling upon the dispute
 
-Once the dispute goes into the voting stage (after the guardians have been summoned, and you were one of them) it is time to vote if these actions should be permitted or not.
+Once the dispute goes into the voting stage (after the guardians have been summoned, and if you were one of them) it is time to vote if these actions should be permitted or not.
 
 ### **Voting**
 
-When the voting time comes for an Aragon Govern dispute, you need to decide if the Actions should be allowed, blocked, or if you don't have enough context to rule upon it. Remember that if you voted with the majority (for any of the 3 aforementioned options) your tokens will not get slashed, and you will earn slashed tokens from whoever did not vote with the majority. Take the time to deeply think about what is the right decision here.
+When the voting time comes for an Aragon Govern dispute, you need to decide if the Actions should be allowed, blocked, or if you don't have enough context to rule upon it. Remember that if you voted with the majority (for any of the 3 aforementioned options) your tokens will not get slashed, and you will earn slashed tokens from whoever did not vote with the majority.&#x20;
 
-Voting is **MANDATORY** if you are summoned. If you don't cast your vote (The refuse to vote option is considered a cast as well) your tokens will be slashed.&#x20;
+Voting is **MANDATORY** if you are summoned. If you don't cast your vote (the refusing to vote option is considered a cast vote as well) your tokens will be slashed.&#x20;
 
 **Allow action**
 

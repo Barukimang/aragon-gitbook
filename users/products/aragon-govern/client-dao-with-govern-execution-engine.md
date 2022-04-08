@@ -111,7 +111,7 @@ Here we will interact with the _**Finance**_** ** app and we have selected to cr
 ## Possible Issues
 
 {% hint style="warning" %}
-If action execution has failed there has been a mistake either in permissions, method parameters, or ABI and contract address. If you have not granted the right permissions to the Govern Executor Address do so and try to execute the action again. If a mistake has been made in method parameters or ABI and contract address you will have to redo the whole process.&#x20;
+If action execution fails there has been a mistake either in permissions, method parameters, or in the ABI and contract address. If you have not granted the right permissions to the Govern Executor Address please do so and try to execute the action again. If a mistake has been made in method parameters or ABI and contract address you will have to redo the whole process.&#x20;
 
 If you are populating fractional numbers, add 18 zeros to the original value. For example, if you want to invoke the immediateTransfer method that will transfer 10.5 tokens, you will have to input 10.5\*10^18 = 10500000000000000000 into the amount field.&#x20;
 {% endhint %}
