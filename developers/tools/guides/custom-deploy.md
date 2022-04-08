@@ -1,20 +1,21 @@
 # How to deploy an Aragon Organization using Aragon CLI
 
-{% hint style="success" %}
-Aragon Organization deployment using aragonCLI
-{% endhint %}
-
 {% hint style="info" %}
-This guide will show you the process to deploy a **blank organization** and configure it as a custom organization for a cooperative.
+This guide will show you the process to deploy a **blank organization** using Aragon CLI and configure it as a **custom organization** for a cooperative.
 
 We assume you have a general understanding of Aragon stack.
 {% endhint %}
 
-In order to get started you will need the latest version of the CLI installed so open a terminal and enter the following:
+## Environment setup <a href="#environment-setup" id="environment-setup"></a>
 
-```
-npm install -g @aragon/cli
-```
+Before starting you need to check if you have already installed all these prerequisites:
+
+* the right version of **node.js** (recommended`v12 LTS` version)
+* **Metamask** web3 provider
+* the **aragonCLI** (Aragon Command Line Interface)&#x20;
+* the **Aragon Buidler plugin**
+
+If you haven't already installed them or if you need more info about this goes to the "_Enviroment Setup_" paragraph [here](../the-basics/getting-started.md).
 
 ### General considerations <a href="#general-considerations" id="general-considerations"></a>
 
