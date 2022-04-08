@@ -107,7 +107,7 @@
   * [Guides](developers/tools/guides/README.md)
     * [Create your first Aragon App](developers/tools/guides/your-first-aragon-app.md)
     * [How to migrate the Aragon App from the Aragon CLI to Buidler plugin](developers/tools/guides/buidler-plugin-migration.md)
-    * [How to publish an app to aragonPM](developers/tools/guides/publish-to-aragonpm.md)
+    * [How to publish an App to aragonPM](developers/tools/guides/publish-to-aragonpm.md)
     * [How to deploy an Aragon Organization using Aragon CLI](developers/tools/guides/custom-deploy.md)
     * [The Agent app](developers/tools/guides/the-agent-app.md)
     * [Troubleshooting and FAQ](developers/tools/guides/troubleshooting-and-faq.md)

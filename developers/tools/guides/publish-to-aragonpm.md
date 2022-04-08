@@ -1,15 +1,26 @@
-# How to publish an app to aragonPM
+# How to publish an App to aragonPM
 
 {% hint style="info" %}
-This guide will show you how to publish an app to [aragonPM](https://hack.aragon.org/docs/package-management) on different environments.
+This guide will show you how to publish an App to [aragonPM](https://hack.aragon.org/docs/package-management) on different environments.
 {% endhint %}
 
 > **Note**\
-> Publishing your app requires an on-chain action so you must connect an Ethereum account with enough funds on the selected environment to send a publish transaction.
+> 1\. Publishing your app requires an on-chain action so you must connect an Ethereum account with enough funds on the selected environment to send a publish transaction.
 >
-> Secondly, your app's frontend content is uploaded to IPFS and it becomes **your responsibility** to ensure that it stays available to users. Click [here](https://docs.ipfs.io/introduction/overview/) to learn more about IPFS and [pinning files](https://docs.ipfs.io/guides/concepts/pinning/).
+> 2\. Secondly, your app's frontend content is uploaded to IPFS and it becomes **your responsibility** to ensure that it stays available to users. Click [here](https://docs.ipfs.io/introduction/overview/) to learn more about IPFS and [pinning files](https://docs.ipfs.io/guides/concepts/pinning/).
 
-### Setup <a href="#setup" id="setup"></a>
+## Environment setup <a href="#environment-setup" id="environment-setup"></a>
+
+Before starting you need to check if you have already installed all these prerequisites:
+
+* the right version of **node.js** (recommended`v12 LTS` version)
+* **Metamask** web3 provider
+* the **aragonCLI** (Aragon Command Line Interface)&#x20;
+* the **Aragon Buidler plugin**
+
+If you haven't already installed them or if you need more info about this goes to the "_Enviroment Setup_" paragraph [here](../the-basics/getting-started.md).
+
+## Setup <a href="#setup" id="setup"></a>
 
 We'll start from the Aragon [React boilerplate](https://github.com/aragon/aragon-react-boilerplate).
 
@@ -25,7 +36,7 @@ We will also need a running [IPFS server](https://docs.ipfs.io/guides/guides/ins
 
 Excellent IPFS pinning services like [Pinata](https://pinata.cloud) and [Eternum](https://www.eternum.io) are also available for a reasonable price.
 
-### Introduction to environments <a href="#introduction-to-environments" id="introduction-to-environments"></a>
+## Introduction to environments <a href="#introduction-to-environments" id="introduction-to-environments"></a>
 
 This app has 3 environments defined:
 
@@ -46,7 +57,7 @@ Environments are defined in [`arapp.json`](https://hack.aragon.org/docs/cli-glob
 > **Note**\
 > The `default` environment which points to `localhost` does not have an ENS Registry address specified because the Buidler plugin will default the value to `0xB9462EF3441346dBc6E49236Edbb0dF207db09B7` (the ENS Registry pre-deployed on the local development chain).
 
-### Publish a major version: content + contract <a href="#publish-a-major-version-content-contract" id="publish-a-major-version-content-contract"></a>
+## Publish a major version: content + contract <a href="#publish-a-major-version-content-contract" id="publish-a-major-version-content-contract"></a>
 
 To publish on aragonPM we will use the following buidler task:
 
@@ -92,7 +103,7 @@ main     |   Gas used:      960591
 >
 > The contract location is defined in `arapp.json` under `path`.
 
-### Task syntax and options <a href="#task-syntax-and-options" id="task-syntax-and-options"></a>
+## Task syntax and options <a href="#task-syntax-and-options" id="task-syntax-and-options"></a>
 
 The publish task has the following syntax:
 
@@ -111,7 +122,7 @@ The following task options are available:
 * `verify` (flag): Enables Etherscan verification.
 * `dry-run` (flag): Output transaction data without broadcasting.
 
-### Check published versions <a href="#check-published-versions" id="check-published-versions"></a>
+## Check published versions <a href="#check-published-versions" id="check-published-versions"></a>
 
 To fetch the versions published on aragonPM, we can use the [`aragon apm versions`](https://hack.aragon.org/docs/cli-apm-commands#aragon-apm-versions) command from aragonCLI.
 
@@ -158,7 +169,7 @@ Sample output:
  ✔ 2.0.3: 0xb4fa71b3352D48AA93D34d085f87bb4aF0cE6Ab5 ipfs:QmcgUz9PXaZwvA3m7fXPgjsEVKteuivLNSCDvxKGv8ztMa
 ```
 
-### Building frontends <a href="#building-frontends" id="building-frontends"></a>
+## Building frontends <a href="#building-frontends" id="building-frontends"></a>
 
 Your application's frontend will have another build script associated with it, to transpile, bundle, and pack all of its assets (e.g. scripts, images, fonts, etc) together.
 

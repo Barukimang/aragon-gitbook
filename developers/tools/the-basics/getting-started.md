@@ -34,7 +34,7 @@ For now in this section, to interact with the **Aragon app** we'll be using Meta
 
 ### The aragonCLI <a href="#the-aragoncli" id="the-aragoncli"></a>
 
-The aragonCLI (or Aragon Command Line Interface) is a tool used for complex interactions with DAOs, like installing a new app, granting permissions with specific parameters or executing transactions through the [Agent app](https://hack.aragon.org/docs/guides-use-agent).
+The [aragonCLI](../aragoncli/) (or Aragon Command Line Interface) is a tool used for complex interactions with DAOs, like installing a new app, granting permissions with specific parameters or executing transactions through the [Agent app](../guides/the-agent-app.md).
 
 Now install aragonCLI from the command line running:
 

@@ -15,7 +15,7 @@ Before starting you need to check if you have already installed all these prereq
 * the **aragonCLI** (Aragon Command Line Interface)&#x20;
 * the **Aragon Buidler plugin**
 
-If you haven't already installed them or if you need more info about this go to the "_Enviroment Setup_" paragraph [here](../the-basics/getting-started.md).
+If you haven't already installed them or if you need more info about this goes to the "_Enviroment Setup_" paragraph [here](../the-basics/getting-started.md).
 
 ## The setup
 
