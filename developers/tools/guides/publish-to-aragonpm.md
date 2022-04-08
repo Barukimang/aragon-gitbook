@@ -140,6 +140,22 @@ Sample output:
  ✔ 1.0.1: 0xE636bcA5B95e94F749F63E322a04DB59362299F1 ipfs:QmUYv9cjyNVxCyAJGK2YXjkbzh6u4iW2ak81Z9obdefM1q
 ```
 
+{% hint style="danger" %}
+If you have an error similar to
+
+```
+ didn't find any truffle.js 
+```
+
+you need to add a truffle.js file to the root of where you are running the command.&#x20;
+
+The file content is:
+
+```
+ module.exports = require("@aragon/truffle-config-v4")
+```
+{% endhint %}
+
 #### Fetch other packages versions <a href="#fetch-other-packages-versions" id="fetch-other-packages-versions"></a>
 
 We will fetch the published versions of the official `voting` app on the rinkeby (`rinkeby` network) environment.
