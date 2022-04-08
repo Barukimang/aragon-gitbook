@@ -170,7 +170,7 @@ The file content is:
 ```
 {% endhint %}
 
-#### Fetch other packages versions <a href="#fetch-other-packages-versions" id="fetch-other-packages-versions"></a>
+## Fetch other packages versions <a href="#fetch-other-packages-versions" id="fetch-other-packages-versions"></a>
 
 We will fetch the published versions of the official `voting` app on the rinkeby (`rinkeby` network) environment.
 
