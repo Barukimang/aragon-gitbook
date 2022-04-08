@@ -11,19 +11,26 @@ We assume you have a general understanding of Aragon stack.
 Before starting you need to check if you have already installed all these prerequisites:
 
 * the right version of **node.js** (recommended`v12 LTS` version)
-* **Metamask** web3 provider
+* web3 provider: [Frame](https://frame.sh) or Metamask
 * the **aragonCLI** (Aragon Command Line Interface)&#x20;
 * the **Aragon Buidler plugin**
+* an [IPFS server.](https://docs.ipfs.io/install/)
 
 If you haven't already installed them or if you need more info about this goes to the "_Enviroment Setup_" paragraph [here](../the-basics/getting-started.md).
 
-### General considerations <a href="#general-considerations" id="general-considerations"></a>
+## General considerations <a href="#general-considerations" id="general-considerations"></a>
 
-In order to deploy to rinkeby or mainnet using the CLI you will either need to use a hardware wallet with [Frame](https://frame.sh) or configure aragonCLI to [sign transactions using a private key](https://hack.aragon.org/docs/guides-faq.html#set-a-private-key).
+In order to deploy to rinkeby or mainnet using the CLI you will either need to use a hardware wallet with Frame or configure aragonCLI to sign transactions using a private key (for more info go to the "Set a private key" paragraph [here](troubleshooting-and-faq.md)) on metamask.
+
+#### Frame
 
 If you decide to use Frame, just add `--use-frame` to any of these commands.
 
-For any deploy always remember to have in a separate terminal the [IPFS](https://docs.ipfs.io/introduction/overview/) daemon running, use `aragon ipfs` to start it.
+#### IPFS
+
+For any deploy always remember to have in a separate terminal the [IPFS](https://docs.ipfs.io/introduction/overview/) daemon running, use `aragon ipfs start`to start it.
+
+#### Networks:
 
 If you are testing locally:
 

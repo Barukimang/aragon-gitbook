@@ -1,4 +1,4 @@
-# Troubleshooting and FAQ
+# Troubleshooting
 
 ### Installing aragonCLI
 
@@ -44,7 +44,7 @@ After upgrading aragonCLI, or if unexpected errors are being experienced, [reset
 
 ### The \~/.aragon directory <a href="#the-aragon-directory" id="the-aragon-directory"></a>
 
-The aragonCLI creates the `.aragon` directory under the user directory where it saves the state of the devchain and the [Aragon client](https://hack.aragon.org/docs/client).
+The aragonCLI creates the `.aragon` directory under the user directory where it saves the state of the devchain and the [Aragon client.](../the-basics/the-aragon-client.md)
 
 In case the client is not loading properly, deleting the `~/.aragon` directory will make `aragon run` recreate the environment the next time it is used and may solve the issue.
 

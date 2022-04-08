@@ -110,7 +110,7 @@
     * [How to publish an App to aragonPM](developers/tools/guides/publish-to-aragonpm.md)
     * [How to deploy an Aragon Organization using Aragon CLI](developers/tools/guides/custom-deploy.md)
     * [The Agent app](developers/tools/guides/the-agent-app.md)
-    * [Troubleshooting and FAQ](developers/tools/guides/troubleshooting-and-faq.md)
+    * [Troubleshooting](developers/tools/guides/troubleshooting-and-faq.md)
   * [aragonCLI](developers/tools/aragoncli/README.md)
     * [Introduction](developers/tools/aragoncli/introduction.md)
     * [Main commands](developers/tools/aragoncli/main-commands.md)
