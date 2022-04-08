@@ -17,6 +17,7 @@ Before starting you need to check if you have already installed all these prereq
 * **Metamask** web3 provider
 * the **aragonCLI** (Aragon Command Line Interface)&#x20;
 * the **Aragon Buidler plugin**
+* an [IPFS server.](https://docs.ipfs.io/install/)
 
 If you haven't already installed them or if you need more info about this goes to the "_Enviroment Setup_" paragraph [here](../the-basics/getting-started.md).
 
@@ -32,13 +33,22 @@ This will create a new directory named `app`, with everything you need.
 
 To interact with aragonPM we will use the [`Aragon Buidler plugin`](https://github.com/aragon/buidler-aragon) already installed in the boilerplate repository.
 
-We will also need a running [IPFS server](https://docs.ipfs.io/guides/guides/install/). For this tutorial, we will assume that the IPFS server is running locally with its API port set to `5001` and gateway to `8080`.
+We will also need a running IPFS server. Open a new Terminal and run
 
-Excellent IPFS pinning services like [Pinata](https://pinata.cloud) and [Eternum](https://www.eternum.io) are also available for a reasonable price.
+```
+ipfs daemon
+```
+
+For this tutorial, we will assume that the IPFS server is running locally with its:
+
+* API port set to `5001`
+* gateway port set to `8080`.
+
+If you need an IPFS pinning services, you can chose service like [Pinata](https://pinata.cloud) and [Eternum](https://www.eternum.io). They are also available for a reasonable price.
 
 ## Introduction to environments <a href="#introduction-to-environments" id="introduction-to-environments"></a>
 
-This app has 3 environments defined:
+This App has 3 environments defined:
 
 | Environment | Network   |
 | ----------- | --------- |
@@ -48,18 +58,22 @@ This app has 3 environments defined:
 
 It is a prerequisite to have a ENS Registry address defined.
 
-Environments are defined in [`arapp.json`](https://hack.aragon.org/docs/cli-global-confg#the-arappjson-file), for example `rinkeby` points to:
+Environments are defined in [`arapp.json`](https://hack.aragon.org/docs/cli-global-confg#the-arappjson-file)`.`
+
+`F`or example `rinkeby` points to:
 
 * An ENS registry: `0x98df287b6c145399aaa709692c8d308357bc085d`
 * An app name (repository and registry of aragonPM): `app.aragonpm.eth`
 * An Ethereum network: `rinkeby`
 
-> **Note**\
-> The `default` environment which points to `localhost` does not have an ENS Registry address specified because the Buidler plugin will default the value to `0xB9462EF3441346dBc6E49236Edbb0dF207db09B7` (the ENS Registry pre-deployed on the local development chain).
+{% hint style="warning" %}
+**Note**\
+The `default` environment which points to `localhost` does not have an ENS Registry address specified because the Buidler plugin will default the value to `0xB9462EF3441346dBc6E49236Edbb0dF207db09B7` (the ENS Registry pre-deployed on the local development chain).
+{% endhint %}
 
 ## Publish a major version: content + contract <a href="#publish-a-major-version-content-contract" id="publish-a-major-version-content-contract"></a>
 
-To publish on aragonPM we will use the following buidler task:
+To publish on aragonPM we will use the following builder task:
 
 ```
 npx buidler publish major --network rinkeby
@@ -69,7 +83,7 @@ This will:
 
 * Apply version bump (major).
 * _Compile_ and _deploy_ the app's contract (by default the output lives in `build`)
-* _Build_ the app's [frontend (by default the output lives in `dist`)](https://hack.aragon.org/docs/guides-publish#building-frontends)
+* _Build_ the app's [frontend (by default the output lives in `dist`)](publish-to-aragonpm.md#building-frontends)
 * Generate application artifact.
 * Publish the app to the **rinkeby** environment.
 * Upload the app's frontend to the IPFS server.
