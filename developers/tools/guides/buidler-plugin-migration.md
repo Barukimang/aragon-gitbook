@@ -1,14 +1,29 @@
-# How to migrate the Aragon app from the Aragon CLI to Buidler plugin
-
-{% hint style="success" %}
-How to migrate an existing Aragon app to the Buidler plugin.
-{% endhint %}
+# How to migrate the Aragon App from the Aragon CLI to Buidler plugin
 
 {% hint style="info" %}
-This guide aims to describe the basic steps needed to migrate an Aragon app from the [aragonCLI](https://github.com/aragon/aragon-cli) to the new Buidler plugin. This new Aragon tool offers a more user-friendly and stable developer experience. You can learn more about the Buidler plugin [here](https://github.com/aragon/buidler-aragon).
+This guide aims to describe the basic steps needed to migrate an **existing Aragon App** from the [**aragonCLI**](https://github.com/aragon/aragon-cli) **** to the new **Buidler plugin**. This new Aragon tool offers a more user-friendly and stable developer experience. You can learn more about the Buidler plugin [here](https://github.com/aragon/buidler-aragon).
 {% endhint %}
 
 For this tutorial, we will use the original [react boilerplate for aragonCLI](https://github.com/aragon/aragon-react-boilerplate/tree/react-with-cli) source code as our starting point. This guide assumes that you have a general understanding of the Aragon stack.
+
+## Environment setup <a href="#environment-setup" id="environment-setup"></a>
+
+Before starting you need to check if you have already installed all these prerequisites:
+
+* the right version of **node.js** (recommended`v12 LTS` version)
+* **Metamask** web3 provider
+* the **aragonCLI** (Aragon Command Line Interface)&#x20;
+* the **Aragon Buidler plugin**
+
+If you haven't already installed them or if you need more info about this go to the "_Enviroment Setup_" paragraph [here](../the-basics/getting-started.md).
+
+## The setup
+
+Let's first set up and bootstrap our project:
+
+```
+npx create-aragon-app daotest react
+```
 
 ## 1. Install dependencies <a href="#1-install-dependencies" id="1-install-dependencies"></a>
 
@@ -22,7 +37,13 @@ The first step is to install the following NPM development dependencies:
 * **"bignumber.js"**: "^9.0.0"
 * **"web3"**: "^1.2.6"
 
-Most of these dependencies should be new to your project and are related to Nomic Labs' [Buidler](https://buidler.dev), a task runner for Ethereum smart contract developers. However, one dependency that you may need to upgrade is `web3`, since Aragon's plugin requires `v1.2.6` or higher. This may introduce some breaking changes, mostly in tests. See the [Migrate tests](https://hack.aragon.org/docs/guides-buidler-migration#5-migrate-tests) section for more information.
+The command for installing the dependencies is:
+
+```
+npm i <dependancies>
+```
+
+Most of these dependencies should be new to your project and are related to Nomic Labs' [Buidler](https://buidler.dev), a task runner for Ethereum smart contract developers. However, one dependency that you may need to upgrade is `web3`, since Aragon's plugin requires `v1.2.6` or higher. This may introduce some breaking changes, mostly in tests. See the [Migrate tests](buidler-plugin-migration.md#5-migrate-tests) section for more information.
 
 ## 2. Add/replace npm scripts <a href="#2-add-replace-npm-scripts" id="2-add-replace-npm-scripts"></a>
 
@@ -87,7 +108,7 @@ You can find more information about the Buidler configuration file [here](https:
 * `clientServePort`: Aragon client server port.
 * `appSrcPath`: Frontend source for the app.
 * `appBuildOutputPath`: Built app path.
-* `hooks`: Aragon hooks functions. (See [Hooks](https://hack.aragon.org/docs/guides-buidler-migration#5-hooks) section for more information)
+* `hooks`: Aragon hooks functions. (See [Hooks](buidler-plugin-migration.md#5-hooks) section for more information)
 
 ## 5. Hooks <a href="#5-hooks" id="5-hooks"></a>
 
@@ -132,7 +153,7 @@ Since the Aragon Buidler plugin uses truffle 5, you may have to migrate part of 
 
 Nevertheless, the following tips can be helpful:
 
-#### Async/Await <a href="#async-await" id="async-await"></a>
+### Async/Await <a href="#async-await" id="async-await"></a>
 
 Most truffle contract functions are now asynchronous, so code like this:
 
@@ -146,7 +167,7 @@ should become:
 const dao = await Kernel.at('0x9d1C272D0541345144D943470B3a90f14c56910c')
 ```
 
-#### Web3.js 1.2 <a href="#web3js-12" id="web3js-12"></a>
+### Web3.js 1.2 <a href="#web3js-12" id="web3js-12"></a>
 
 Truffle 5 is using Web3.js `1.2` instead of `0.20`, which comes with a few changes:
 
@@ -156,11 +177,11 @@ Truffle 5 is using Web3.js `1.2` instead of `0.20`, which comes with a few chang
 * Numbers returned directly from Web3 are now strings.
 * Functions that return multiple values now return an object with both named and indexed keys.
 
-#### BN.js <a href="#bnjs" id="bnjs"></a>
+### BN.js <a href="#bnjs" id="bnjs"></a>
 
 Truffle 5 has also replaced [bignumber.js](https://github.com/MikeMcl/bignumber.js) with [BN.js](https://github.com/indutny/bn.js). Instances of `web3.BigNumber()` will therefore have to be changed to `web3.utils.toBN()`.
 
-#### Ethereum addresses <a href="#ethereum-addresses" id="ethereum-addresses"></a>
+### Ethereum addresses <a href="#ethereum-addresses" id="ethereum-addresses"></a>
 
 You now need to use full Ethereum addresses instead of partial ones like `0x0`. So this address:
 
@@ -174,7 +195,7 @@ would become:
 const ZERO = '0x0000000000000000000000000000000000000000'
 ```
 
-#### Coverage <a href="#coverage" id="coverage"></a>
+### Coverage <a href="#coverage" id="coverage"></a>
 
 A useful Buidler plugin is available [here](https://github.com/sc-forks/solidity-coverage) for Solidity code coverage.
 

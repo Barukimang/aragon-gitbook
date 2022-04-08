@@ -1,7 +1,7 @@
 # Create your first Aragon App
 
 {% hint style="info" %}
-In this guide, we will walk you through creating your first Aragon app using aragonOS, the JavaScript implementation of aragonAPI, aragonUI and the Aragon builder plugin.
+In this guide, we will walk you through creating your first **Aragon App** using **aragonOS**, the JavaScript implementation of **aragonAPI**, **aragonUI** and the **Aragon builder plugin**.
 {% endhint %}
 
 ## Environment setup <a href="#environment-setup" id="environment-setup"></a>
