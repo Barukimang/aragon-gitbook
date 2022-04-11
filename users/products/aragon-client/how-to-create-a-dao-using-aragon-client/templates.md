@@ -28,4 +28,4 @@ If the default templates do not provide you with the desired solution, you can s
 
 > #### <mark style="color:purple;">Do you have a question? Leave your comments here at our Discourse forum</mark> 👇
 
-{% embed url="https://aragontesting.trydiscourse.com/t/aragon-client-templates/20" %}
+{% embed url="https://support.aragon.org/t/aragon-client-templates/20/2" %}
