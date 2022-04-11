@@ -208,6 +208,7 @@
       * [govern-subgraph](developers/tools/aragon-govern/packages/govern-subgraph.md)
       * [govern-token](developers/tools/aragon-govern/packages/govern-token.md)
       * [govern.js](developers/tools/aragon-govern/packages/govern.js.md)
+  * [Aragon Client Apps](developers/tools/aragon-client-apps.md)
 * [Products](developers/products/README.md)
   * [Aragon vocdoni](developers/products/aragon-vocdoni/README.md)
     * [Architecture](developers/products/aragon-vocdoni/architecture/README.md)
