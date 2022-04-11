@@ -72,7 +72,7 @@ The last step is to choose your account. Click on the _**Configuration**_ button
 &#x20;If you don't have any, you can request a Rinkeby faucet [here](https://faucet.rinkeby.io) or [here](https://faucets.chain.link/rinkeby).
 {% endhint %}
 
-In the configuration menu you can also manage the Dapp permissions you have granted for that particular account. We'll explain more about this in [this section](../../developers/tools/the-basics/setting-up-a-frame-wallet/frame.md).
+In the configuration menu you can also manage the Dapp permissions you have granted for that particular account. We'll explain more about this in [this section](broken-reference).
 
 ![](https://hack.aragon.org/docs/assets/frame/frame-accounts.gif)
 

@@ -1,2 +1,0 @@
-# Voting as a Service
-

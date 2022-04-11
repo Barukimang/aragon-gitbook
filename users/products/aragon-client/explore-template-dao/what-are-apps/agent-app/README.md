@@ -21,7 +21,7 @@ Note that installing Agent via one of the templates will replace the Vault app n
 {% endhint %}
 
 {% hint style="warning" %}
-If you did not optionally install the Agent app when first creating your organization, you can still install it after the organization has been created. To do so, you will need to follow the instructions for [installing and initializing the Agent app using the aragonCLI](../../../../../../developers/tools/guides/the-agent-app.md). Note that this option is geared towards experts.
+If you did not optionally install the Agent app when first creating your organization, you can still install it after the organization has been created. To do so, you will need to follow the instructions for [installing and initializing the Agent app using the aragonCLI](broken-reference). Note that this option is geared towards experts.
 {% endhint %}
 
 ## **Agent frontend interface**
