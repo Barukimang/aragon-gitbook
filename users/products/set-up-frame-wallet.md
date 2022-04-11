@@ -82,4 +82,4 @@ You are now finished setting up Frame for your device and ready to sign your fir
 
 > #### <mark style="color:purple;">Do you have a question? Leave your comments here at our Discourse forum</mark> 👇
 
-{% embed url="https://aragontesting.trydiscourse.com/t/web3-frame-wallet/16" %}
+{% embed url="https://support.aragon.org/t/web3-frame-wallet/16" %}
