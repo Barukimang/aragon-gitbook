@@ -119,5 +119,4 @@ If the ABI is not displaying on one network (Rinkeby e.g.), get the similar ABI 
 
 > #### <mark style="color:purple;">Do you have a question? Leave your comments here at our Discourse forum</mark> 👇
 
-{% embed url="https://aragontesting.trydiscourse.com/t/web3-multisig-wallet/17" %}
-
+{% embed url="https://support.aragon.org/t/web3-multisig-wallet/17" %}
