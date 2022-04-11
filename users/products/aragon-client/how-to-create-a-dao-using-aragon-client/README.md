@@ -36,5 +36,4 @@ Remember that you'll need 0.2ETH (or more depending on the network traffic) to c
 
 > #### <mark style="color:purple;">Do you have a question? Leave your comments here at our Discourse forum</mark> 👇
 
-{% embed url="https://aragontesting.trydiscourse.com/t/aragon-client-create-a-dao/19" %}
-
+{% embed url="https://support.aragon.org/t/aragon-client-create-a-dao/19" %}
