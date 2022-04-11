@@ -105,4 +105,4 @@ Since there are only two token holders in this organization, and the Support par
 
 > #### <mark style="color:purple;">Do you have a question? Leave your comments here at our Discourse forum</mark> 👇
 
-{% embed url="https://aragontesting.trydiscourse.com/t/aragon-client-navigate-your-dao-voting-apps/24" %}
+{% embed url="https://support.aragon.org/t/aragon-client-navigate-your-dao-voting-apps/24/2" %}

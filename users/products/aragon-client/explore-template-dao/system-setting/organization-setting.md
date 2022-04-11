@@ -17,4 +17,4 @@ Do not send any tokens to your organization's app addresses. If you want to send
 
 > #### <mark style="color:purple;">Do you have a question? Leave your comments here at our Discourse forum</mark> 👇
 
-{% embed url="https://aragontesting.trydiscourse.com/t/aragon-client-navigate-your-dao-permissions-settings/29" %}
+{% embed url="https://support.aragon.org/t/aragon-client-navigate-your-dao-organization-settings/31/2" %}

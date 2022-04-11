@@ -177,4 +177,4 @@ If the Minimum Approval % is set to 20% and 10% of the outstanding token supply 
 
 > #### <mark style="color:purple;">Do you have a question? Leave your comments here at our Discourse forum</mark> 👇
 
-{% embed url="https://aragontesting.trydiscourse.com/t/aragon-client-navigate-your-dao-permissions-settings/29" %}
+{% embed url="https://support.aragon.org/t/aragon-client-navigate-your-dao-permissions-settings/29/2" %}

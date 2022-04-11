@@ -38,4 +38,4 @@ The Agent smart contract address is available on the _**System**_ menu in the _*
 
 > #### <mark style="color:purple;">Do you have a question? Leave your comments here at our Discourse forum</mark> 👇
 
-{% embed url="https://aragontesting.trydiscourse.com/t/aragon-client-navigate-your-dao-agent-app/28" %}
+{% embed url="https://support.aragon.org/t/aragon-client-navigate-your-dao-agent-app/28/2" %}

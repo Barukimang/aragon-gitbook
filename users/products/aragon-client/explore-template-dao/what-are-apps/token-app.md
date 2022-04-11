@@ -125,4 +125,4 @@ Your organization just went from one to two members. A good start to a new Compa
 
 > #### <mark style="color:purple;">Do you have a question? Leave your comments here at our Discourse forum</mark> 👇
 
-{% embed url="https://aragontesting.trydiscourse.com/t/aragon-client-navigate-your-dao-token-app/26" %}
+{% embed url="https://support.aragon.org/t/aragon-client-navigate-your-dao-token-app/26/2" %}

@@ -100,4 +100,4 @@ After confirmation, the transfer will execute.
 
 > #### <mark style="color:purple;">Do you have a question? Leave your comments here at our Discourse forum</mark> 👇
 
-{% embed url="https://aragontesting.trydiscourse.com/t/aragon-client-navigate-your-dao-finance-app/27" %}
+{% embed url="https://support.aragon.org/t/aragon-client-navigate-your-dao-finance-app/27/2" %}

@@ -49,5 +49,4 @@ How? [Here](../set-up-metamask/getting-started-with-polygon.md) is a guide.&#x20
 
 > #### <mark style="color:purple;">Do you have a question? Leave your comments here at our Discourse forum</mark> 👇
 
-{% embed url="https://aragontesting.trydiscourse.com/t/aragon-client-create-a-dao-on-polygon/21" %}
-
+{% embed url="https://support.aragon.org/t/aragon-client-create-a-dao-on-polygon/21/2" %}
