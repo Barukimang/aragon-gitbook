@@ -26,7 +26,7 @@ Remember that you'll need 0.2ETH (or more depending on the network traffic) to c
 
 ![Select the template](<../../../../.gitbook/assets/Schermata 2022-02-04 alle 18.41.40.png>)
 
-### For more details about the different Templates go [here](https://app.gitbook.com/o/3h8kxj8geKVXgyMnGbYT/s/zhQIP88M8McmSaEGSymT/\~/changes/vX8aOKfWp1bYBMHIkTj7/users/products/aragon-client/how-to-create-a-dao-using-aragon-client/templates).
+### For more details about the different Templates go here.
 
 * Company template: [here](use-company-template.md).
 * Membership template: [here](use-membership-template.md).
